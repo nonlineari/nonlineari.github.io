@@ -1,0 +1,394 @@
+NLS RECORDS — TEXT DUMP
+https://iama.cc
+NLS RECORDS — nonlinear music label. Visual and music as an art of realization.
+
+Open text HTML: /text/
+Browse with:  lynx https://iama.cc/text/
+              w3m https://iama.cc/text/
+              links https://iama.cc/text/
+              curl -sL https://iama.cc/text/all.txt | less
+
+========================================================================
+CATALOGUE
+========================================================================
+
+* Discrete Geometry (2020)
+  AMBIENT | /text/catalogue/discrete-geometry/
+
+Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely using a different way to build the compositions from the same producer Naked Nuras Loves Rave. These tracks are entirely played using analogue synths and instruments and […]
+
+* Echo Clone (Internet 2)
+  BEATS | /text/catalogue/echo-clone-internet-2/
+
+Design. and arranged all by Linear Perc.
+
+* Nach Dem Sturm
+  AMBIENT | /text/catalogue/nach-dem-sturm/
+
+Nach Dem Sturm – translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the recording is done while the storm lasted, sunrises and calmness’ arrival. creditsreleased May 16, 2020Master Engineer – Matt Colton @ Metropolis London, U.K.
+
+* Nonlineari
+  AMBIENT | /text/catalogue/nonlineari/
+
+Nonlineari — looking for music in Nonlinear(i). Naked Nuras Loves Rave. Electronic / electronica on NLS Records. Tracks include Louder at Midnight, Tissue, Seven Discrete Dimensions, Tetron in Growth Hormones, Upper Decker Ninja, Who Cares about the Distance.
+
+* Project AOA
+  AMBIENT | /text/catalogue/project-aoa-single/
+
+At the moment the Earth is define by a very few who have THE IDEA to create motion in response to THE INFINITELY FASTER WORLD that IS becoming A PROCESSOR of the new genre of COMPUTERISE. Three kinds of organization GOV, COM, ORG will take the lead into THE FUTURE of our children and the […]
+
+* Project AOA, Ver. 2-EP
+  AMBIENT | /text/catalogue/project-aoa-ver-2-ep/
+
+By focusing towards the way we produce sound Perhaps we need to focus on how we receive sound The environment is collectively building a data for the network of sound authority. Now I supposed, we are building a network, within the environment to create collectivity in the impaired like putting a fabric of invisibly to […]
+
+* Project AOA, Ver. 3 Day After Mono
+  AMBIENT | /text/catalogue/project-aoa-ver-3-day-after-mono-ep/
+
+The Project AOA Part III release as a part of the on going series of Project AOA albums. At an undefine location and disclosed area, the context of everything, you could every imagine about what a way to say the worst thing about someone and at any point of no escape. You know that there […]
+
+* State of the Rest
+  AMBIENT | /text/catalogue/state-of-the-rest/
+
+Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape within that, we have created an absorption of urban barrels to the absorption in nature and artificiality. Most realistic barriers of pillowing urban hyper-real and sound pockets are what we […]
+
+* The Nexus Remix (2018)
+  AMBIENT | /text/catalogue/the-nexus-remix/
+
+Released date Fri 4th May 2018 | A Live mix of new and odd tracks from released soundtrack mixed with bass and dubby loops
+
+* This Is White Powder Opera
+  BEATS | /text/catalogue/this-is-white-powder-opera/
+
+As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed plasticity A producer producing tracks that are mostly on how to create a louder, non-classifications and only acceptance from the sameness of knowing that they have an hands on the technologies are […]
+
+========================================================================
+ARTISTS
+========================================================================
+
+* Naked Nuras Loves Rave — Producer / project
+  /text/artists/naked-nuras-loves-rave/
+
+Naked Nuras Loves Rave is a primary artist vehicle on NLS Records — spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.
+
+* Jimmy Howe — Producer · A.Visualist
+  /text/artists/jimmy-howe/
+
+Jimmy Howe works across sound and image — from experimental lo-fi tracks to Digital Prints Series A/ASCII and A.Visualist concepts. Visual music as a system of realization.
+
+* A.Visualist — Visual systems
+  /text/artists/a-visualist/
+
+A.Visualist is the visual systems practice linked to NLS — drawings, concept plates, and Dimension7 work that sits beside the catalogue rather than illustrating it after the fact.
+
+* Matthias Kispert — Artist
+  /text/artists/matthias-kispert/
+
+Matthias Kispert appears in the NLS archive network of artists and collaborators. Profile restored as a directory plate for the rebuild.
+
+========================================================================
+JOURNAL
+========================================================================
+
+* A Documentary about Modular Synthesizer (EMS) [2020-01-01]
+  /text/journal/a-documentary-about-modular-synthesizer-ems/
+
+Post-war Britain rebuilt itself on a wave of scientific and industrial breakthroughs that culminated in the cultural revolution of the 1960’s. In this atmosphere was born the Electronic Music Studios (EMS), a radical group of avant-garde electronic musicians who utilized technology and experimentation to compose a futuristic electronic sound-scape for the New Britain. What The Future Sounded Like colours in a lost chapter in music history, uncovering a group of composers and innovators who harnessed technology and new ideas to re-imagine the boundaries of music and sound. Features music from Pink Floyd, Hawkwind, Roxy Music and The Emperor Machine. Porthmeor Productions Produced by Claire Harris Written & Directed by Matthew Bate (Shut Up Little Man! An Audio Misadventure) Official Site: whatthefuturesoundedlike.com World Premiere: South by Southwest 2008 Official Selection: CPH:DOX // Sheffield Doc:Fest // Sonar Music Festival // SIFF // MIFF // BAFF 2006
+
+What The Future Sounded Like from Closer Productions on Vimeo.
+
+* AN INTERVIEW WITH THE CREATOR JOHNNY DEKAM [2020-01-01]
+  /text/journal/an-interview-with-the-creator-johnny-dekam/
+
+AN INTERVIEW VDMX – THE CREATOR JOHNNY DEKAM
+
+Many time interviews are missing from proposed project. Here is a designed interview for Vidvox.com or VDMX creator and their collective PURE/Dekam Questions: 1: Music scene in your Performance, how did it commence, was it in Vienna?
+
+I started performing while in graduate studies at Rensselaer in upstate New York. At first I worked a lot with Steim’s Big Eye, which was arguably the first video tracking software. It was also around this time I started coding my own visual software, working with Max. After much research and development, I formed VIDVOX and quit my day job.
+
+Around the turn of the century, I made my way to Europe where I met two influential collaborators, Jasch and Pure. Jasch and I first started performing together as DYAD. On our first tour we did a show in Vienna organized by PURE at Club Rhiz, which eventually led to our working together as PURE DEKAM. Both projects ran more or less in parallel for approx 5 years with various small tours, workshops, and festival appearances. (DEAF, SONAR, SONIC ACTS, PIXELACHE, MUTEK etc.) 2.To imaging and imagination, science/science fiction your only inspiration?
+
+My mother raised us on sci-if paperbacks and Star Trek. We subscribed to ‘OMNI’ magazine. There was definitely a strong Sci-Fi influence in my home growing up. My art school studies were in Detroit. It was the early 90’s and the ‘peak’ of Detroit techno / house music, all the while surrounded by this rust belt, urban decay, dystopic, blade runner-esque city. It was (and still is I imagine) a perfect storm for creativity. I am very fond of Detroit.
+
+3.MEGO – the labels, where other people have you worked with in AV labels?
+
+I came to MEGO via PURE who had his own subsidiary called “d0c”. We had a single release as a PURE DEKAM, which incidentally was paid for by the French government through a residency in Renne. I have to say I have had very little luck over the years in terms of visual labels, the model came too late I think.
+
+As my career progressed I became much more involved in the music industry with large scale concert productions. I think many of us ‘early’ VJs have grown into this pursuit, as ‘visual designers’, ‘video directors’ and so on. Through it all, the trajectory has been live performance, rather than releases. Now I have come full circle. I’m returning to software and art, shifting my work from the road to the studio.
+
+4.What do you think of analogue formats in Audiovisual, is there any left overs?
+
+It is important to distinguish the term analogue as more than simply an electronic technique, but rather an aesthetic with a rich history of video art and pioneers. It is easy for the young VJ to completely ignore this history, but it is there and always will be. There is a strong movement of people working on analogue equipment with modern sensibilities. I especially like LZW industries who manufactures modular video synthesis hardware. There are also those who lovingly restore and archive the old hardware; the Rutt Etra’s, the Fairlights and so on. I keep a small collection of 80’s era vintage equipment, as sometimes you just need ‘that look’ of a tube camera, or Panasonic DSK lumakey. Right now is the perfect time to collect, because so much of the gear is being discarded by broadcasters and the like.
+
+* Behind a fall of the independent recording industry. [2020-01-01]
+  /text/journal/behind-a-fall-of-the-independent-recording-industry/
+
+The momentum behind the force of transformations in internet and ioT; are creators and innovators at the plates.
+
+From the content creator who seek to spin the wheel and make changes, the industry not relapsing into a market of economic crisis and from industries POV, can alternate reality be in control of information.
+
+Apart from understanding the information space or cyberspace, individual exemaplar is becoming an ill informer, misinterpreted spacetime machine; movement momento.
+
+By becoming a popularity contest of sound engineering or sound libraries?
+
+What are label doing these day are way too busy with working for the artists and trying to confuse everyone to make friends but rally them to buy and like their artists.
+
+While the organized confusion setup is in fact for most people, who no longer read about the exemplarity of originality but facing your own identity crisis with clash of culture and manifestation of non-traditional, polyracial or underwired experimentations of sound and visions. The crossing of boundaries between cultural walk has become the awareness of finding the right forum to voice out or peer 2 peer review of their own formulas.
+
+When we are ready to create and live like we have enter the 21st century.
+
+Bypassing when we are misunderstood by the gravity of lifestyle in the century to come reveal a p2p that is still unexplainable within people’s reaching to existential’s realism.
+
+But that isn’t just allowing a tribe to read and re-read Creatives™ magazine, but like the book of Pi who face a living crisis; AGAIN, CATCH22.
+
+My randomness thinking would lead to what are we talking OF. The quality and quantity in music production is why distributions…, and loudness war is fast and sound quality is slow.
+
+This isn’t really printing facts about the new trend; death is more likely to come between you, your time and your label, also the unreliability of new slow ire movement is fast to cash in to a sub-terrance of the underworld than your hereditary DNA sequence for them to archive your music in deep web.
+
+From the 18th century their requirement to meet the academy are usually theory over the energy level of knowing that there are some formalism within the modernati in the innovation of machinery and technological improvishes the ART FORM itself.
+
+Rather than an instruction of acknowledged fact, there are more or less an innovation in the art world. A work of art in the sense of languages and the form of projectioning of a not so new medium in design of art and structural languages( Lev Manovich ) the art of knowing and sensing an inside the noton ( N* ) of sound composition then the timing of finding a lingering monument in the vast of creativity. The geometry of sound work in the rhythmic, tonal counting of linguistic of instrumentalism, especially in the instrument OF choices the design is coming from the through history of plateau or a delaunay geometric equations .
+
+Indeed we cannot capture the human history of endogenesis for engery but in sound thought to have been the time of capturing the cog of software content in an achievement of the lost in space quantum entanglement.
+
+On the contrary, the tail of twince(twin) cities and designation of processing the energy of monumental task? There are some period how we question the science behind the unique perspectives of implications to re-organizing common rite of memories and experiment with the by fully possibilities of mathematics form structures, and then guessing that form is following function. But the truth is intended and questions are only a continuum of instructional experimentation. Music label is to grow from a crisis of creative digital format of new order and disorders likely the Bowie of steels.
+
+* Experimental LoFi tracks by Jimmy Howe [2020-01-01]
+  /text/journal/experimental-lofi-tracks-by-jimmy-howe/
+
+I was still completely experimental to mixing – April 18th, 2018
+
+* Incunable (probe memory random access) [2020-01-01]
+  /text/journal/incunable-probe-memory-random-access/
+
+La non linéarité est présente dans tout le travail depuis le début. Ce n’est pas la forme sonate, pas la type de temple, c’est la loi elle-même qui régit la forme et donne le caractère parce que c’est le personnage lui-même. De même que le caractère architectural est marqué par la réapparition de motifs structurelle, unalignmente ou texturale afin d’atteindre le but ultime, dans la musique du XIXe l’exacerbation de la ligne avec la répétition des préludes et des harmonies génère un ordre supérieur vers le but aussi.
+
+La Temporal commence fait de la records et du moment de la Gaussian Distribution?
+
+How is electronic signal process in analogue and digital circuit
+
+Measurement? Record storyline (tape) ? Anti counter (coding) ? storage (Dio and gates) ? N-cap (capacitor) ?
+
+How to Mic a Chicken?! And milk a cow at the same time?
+
+Through Visual the understanding of portal vs. platform and places in linearity, and the draconian coding that human understands. First to use a Neural Network Training Software to understand how a processing image could not be made justice in print, here is the reason why digital asset can define perception of the human eye and could even add levels of opposed dimension through their physical appearance of Z Form Shape.
+
+Planets in the Fourth Dimension Research that I discover about 4th Dimension https://link.springer.com/article/10.1007/BF02404404
+
+https://math.ucr.edu/home/baez/gravitational.html
+
+Mémoire sur le problème des trois corps
+
+* Journey into Sound [2020-01-01]
+  /text/journal/journey-into-sound/
+
+A new post on my website “M for Dial” is something entirely subconsciousness through the film with the same rewordings of that title “Dial M” I am not writing about thoughts in the level of filmmaking, I am not even saying anything deeply. Here is why. https://nlsrecordings.com/m-for-dial/
+
+The tomb of Marquis Yi of Zeng (d.433 BC), excavated by Chinese archaeologists in 1978, contained thirty well-preserved musical instruments. The most spectacular are a set of 41 chimestones and a set of 65 bells, both of which carry lengthy inscriptions concerning pitches, scales, and transposition. These inscriptions are the earliest texts on music yet known from China, and the bells still sound the pitches that their inscriptions refer to. – Professor Robert Bagley, Princeton University.
+
+I think I am strangely attracted to musiqué concréte, from reading I came to realized that the kind of information that is available for Musiqué Concréte is so vast and available, and I haven’t yet taken time to really understand how the technology and the movement really have established the electronic music of today. Especially with the aspect of computer technology and the uses it has in production whether is pop music or more experimental independent electronic music.
+
+La problème pour les musique experimental, J’ai pense l’équiperont c’est trés unique mais aussie de la samplé c’est trés toute antidote.
+
+The kind of thought that would consider as the most devastating negativity would not proceed in the same manner as a psychological study educated guess person who emanated into, I have a completely different view or format for difference artists, for their independent. And the label is design as a typologic-geography…that only retaining the music in a type of geology(so when audience buy these tracks and the money should go directly to the artist and not to the label under an unified operation during minting. the client-host relationship will be b2b and not b2c. I understand the current style of distributions’ that label owns everything…, a bit of looking and digging into the maths. Here is something visually consideration but only should be in theory:
+
+In mathematics, the Jacobi curve is a representation of an elliptic curve different from the usual one. Sometimes it is used in cryptography instead of the Weierstrass form because it can provide a defense against simple and differential power analysis style attacks; it is possible, indeed, to use the general addition formula also for doubling a point on an elliptic curve of this form: in this way the two operations become indistinguishable from some side-channel information. -wikipedia.
+
+In its earliest form (the GRMC) and with the GRM well into the 1960s, there seemed to be fairly strict rules concerning the production of music concrète / acousmatic music without the use of electronically generated sound or synthesis. -Ableton.
+
+The problem for experimental music, I think teams will be very unique but also sample it is very antidotal.
+
+To ignore facts between reality
+
+a conjecture present function in double integral
+
+To ignore factions between realm
+
+a conjecture present fund in doubt integral
+
+a conjecture present funding in down integral
+
+To ignore factories between reason
+
+a conjecture present funeral in dozen integral
+
+To ignore faculties between reasoning
+
+a conjecture present fur in draft integral
+
+To ignore failures between rebel
+
+a conjecture present furniture in dragon integral
+
+To ignore faiths between rebellion
+
+a conjecture present fury in drama integral
+
+To ignore fames between receipt
+
+a conjecture present fusion in draw integral
+
+To ignore families between receiver
+
+a conjecture present future in drawer integral
+
+To ignore fans between reception
+
+a conjecture present gain in drawing integral
+
+To ignore fantasies between recession
+
+a conjecture present gall in dream integral
+
+a conjecture present gallery in dress integral
+
+To ignore farms between recipient
+
+a conjecture present game in dressing integral
+
+To ignore farmers between recognition
+
+a conjecture present gang in drill integral
+
+To ignore farmings between recommendation
+
+a conjecture present gap in drink integral
+
+To ignore fashions between reconstruction
+
+a conjecture present garage in drinking integral
+
+What does Fubini’s theorem say?
+
+Fubini’s theorem tells us that (for measurable functions on a product of σ-finite measure spaces) if the integral of the absolute value is finite, then the order of integration does not matter ; if we integrate first with respect to x and then with respect to y, we get the same result as if we integrate first with …
+
+For example, there is a product measure and a non-negative measurable function f for which the double integral of |f| is zero but the two iterated integrals … – Wikipedia.
+
+Wordplay [Inside the double helix the code is arranged by sequences. These chains of code produce the DNA for species, churning out the basis of Helix sequence consist of other strand in part
+
+* NLS Records Update [2020-01-01]
+  /text/journal/nls-records-update/
+
+An obscure genre that never yet existed in Hong Kong
+
+In the way of competitive markets for the record industry under the downturn for Covid-19 have stopped the music label publishing to pursuit new opportunity and the discovery of new talents due to the confinement process, condition to be a destruction of the ecological process of the music and performance industry. Without having to give much thought over the current conditions of the situation of isolation and between national boarders and non-traveling advise for Covid-19. The fallout of the global economy is in a downturn for years to recover from the lost of a conditional niche market both in retail and consumption.
+
+The NLS Records representing an obscure genre that never yet existed in Hong Kong also meaning the obscurity of this genre will not survive in a global sense due to the complete progress of the competitive market is at a standstill and conventionally the experimental side of things are fallen back to the research and development area and no such value in the market, only to find itself more niche and back in the underground movement that may or may not excel much further then in the research area.
+
+For a researcher the only way to continue is to focus on fundings within the institutes and no longer it need further explanations to achieve yet another status quo since it is in a completion, and competition with other genre that will rise up in the future.
+
+We can only find time to collect data and information from a past perspective and from the position of looking past that movement as history. There are plenty more excitement in the use of the VJ tool, Audiovisual and the visualist ideologies in a different time and space. For example with Live Coding and Machine Learning on mobile displays and many more others real time web-base technologies to maybe change music listening forever. If that is your cuppa of tea but traditional music platform and the old way of distributions of music could undergoes a complete change and become ever more rare in physical forms but not only we have to move with the time from how music is made but also understand how it is done.
+
+* Premiere: Naked Nuras Loves Rave [2020-01-01]
+  /text/journal/premiere-naked-nuras-loves-rave-ascii/
+
+Full stream of Naked Nuras Loves Rave’s “ASCII,” taken from his upcoming LP on NLS Records, out January 15.
+
+* Project A\u00d8A ver\u200b.\u200b4 Various Artists [2020-01-01]
+  /text/journal/project-aoa-ver-4-various-artists/
+
+Project AØA ver.4 Various Artists by NLS Records
+
+Project AØA is an inception for various artists per sa Audio øn Audio, reason is simplicity with the connecting algorithmic system to create hardware or software to accompany the sound made by producer to fill in that unique void in NLS(online system.)
+
+* Releases for free downloads [2020-01-01]
+  /text/journal/releases-for-free-downloads/
+
+The seminal technology design for humanity is an experimental language, like the lyrics in our music that carry the message in a bottle. In science and the arts, electronic music is a type of technology concept that is collaborative and social. Audio Visual producers are likely using tools that we cannot use to connect and share with each other, when we cannot connect, like the discovering of smalltalk in programming languages.
+
+NLS · Alles Klar II (All That Random Jazz) – Nnlr (Mix FOC)
+
+Creating lyrics is not an element of a surprise, but an invention, like programming code with knowledge of mathematics, chemistry, or biology to understand your surroundings and writing style and passion and love for humanity. The arrangement becomes a physical materialisation of a conceptual combination of reality, meditative to an images alignment of the aural parts of a silhouette-A.Lyricist
+
+How is electronic music with no lyrics created and then become a masterpiece, or; in some cases gaining wider audience attention only years after it was released?
+
+* Sampling Technique on MPC [2020-01-01]
+  /text/journal/sampling-technique-on-mpc/
+
+My recent experimenting on a sampling techniques and sequencing that has to have theory behind the science of ambient and beat making. I am working on a new series of sequenced tracks using this old skool sampling technique of Temp.beat.time(TBT)
+
+The idea is base on Time-Stretch and some of my notes I present them to you that is following mostly music notation and intervals in laying out tracks quickly, on tempo, structuring the beats with time interval on location in a precise way on sequence sound loops and music instruments.
+
+At this moment they are sampled in a way without a logical progression but I am working to forget the THEORY HINDRANCES BASIS. I think approaching music theory can sometimes get you into a random experiments. But this charting will help me to understand in the long run that Live Coding environment I mentioned previously vs. sampling techniques on my MPC are Form.Follow.Function constructing with real analogue sound from a better way to understand your knowledge in music and not formalized by some theory of sound inside a computer. I don’t think digital sound better than analogue sampler and definitely cannot use concept to register sound technique to copy another producer’s flow.
+
+(TBT) is the way a track is approached with the sampling file is being laydown on the track in a sequence, all of them are technical method to arrange the basic sound in your tracks.
+
+I have been using this list of interval to understand more on music notation in both musical standard principle. I think it help to understand a lot of these old instrument and machine in a studio environment without any knowledge from theory is just not the way to do it.
+
+NOTES: Asian Music Intervals completely different to the list above, and to find anything useful in this list are not necessarily what I am trying to illustrates here.
+
+* The way we produce sound [2020-01-01]
+  /text/journal/the-way-we-produce-sound/
+
+By focusing towards the way we produce sound, it is perhaps immediate recognition on the creativity, but by an order of knowing the non-linear strings sequencer in software or via calculation in a live programming environment, we are far too predictable then what we would like not to be too countable by the container of the software IDE or Interface, the speed of random selection and function in the evolution of sound sequencer and software( Digital Audio Workstation ) and theoreticians between the form of architecture interface in online system are a history in the making.
+
+We need to focus on how we receive sound; The environment is selectively and collectively building on audio data from the network or offline recordings. Now if suppose we are building a network for sound designer, within an environment(IDE) to create a collective in the improvisation: like putting a fabric of invisibly created information that is unable to understanding all the sublimity with information, what it does sounded like.
+
+For example if we are building for hearing impaired individuals or perhaps weak impairment in what visualizing sound in a tread of vertical urban design, how are we supposedly to understand that the inaudible system like hums and tings will become the friendly reminder of low frequency that create the impaired hearing functions. These are invisible data likely will not become the cover of artist on the Roll’n Stone magazine but all over the entire world, cities in Asia and globally will be blanked by a low frequency AMBIENT SOUND . Whether we are taking it through a formalise speech generator and maybe from human’s speaking through a vibration, but of course the mechanical process of sound wall from buildings and computers.
+
+Towards the reasonable dimension of keeping this virtual state of flux, we cannot allow sound to be muted, just like music studio only looking for investor like myself who has no gains or ROI in production and design. The studios are struggling not to only work as repairman who need to do any repairing on the soundwall or treatment in audio and paying high cost of rent in quiet areas. There are sound design within a tactical location and environment when sensitivity meets construction in your studio area, per sa the focus is HOW WE PRODUCE SOUND!
+
+PRODUCTION IN MUSIC has to have a combination of an input and output selective function, just like a human body to do intake of air and output of sound, for a localization of air intake of silent air purifier for example FOG and air pollution will generate water and carbon dioxide molecules/nano particules LOL.
+
+Sound design as often as a by product of intake in non-reuseble or collection of sounds and that in sense generating a vibro either by chance or via a response in sound design. Of such mannerism is a reproduction in sound visualization, visual in the Spectrascope and waveform.
+
+Although we have no chance of blocking the sound wall from the overall distance in the way vertical forms is in the format inside a building 40 floors up in the skyscrapers. But, for the most part, a diverse group of sound engineer and soundscapes is coming from off the walls within the building blocks of machine and wall absorbers; in finding of living cultivation to producer, and recording music. When you apply the use of mechanical reproduction ideas towards useless sound tactics/fractions of WHITENOISE, this is a psychological statement in association with memories and moods.
+
+FOCUS on versatility and localization of the grassroots – lost in translations – has meaning for noise and information both kinda like data and useless tactical communication system. This focus are scale towards sound that has many attributes, for example within the sociological production of older architectures the sound tension is a visual idea without analytically designing natural homes for low rise housing as visual concept that is more interesting and without lost in translations and with losing of complex ideas.
+
+NOTES: My views on #SkiBeatz video are not a reflection of what I think about music production, his video I added after was because he reminded me on how his music is made and hip hop lives.
+
+* Vinyl Records vs. Digital Music. [2020-01-01]
+  /text/journal/vinyl-records-vs-digital-music/
+
+The Format Wars History: Vinyl Records vs. Digital Music
+
+The battle between vinyl records and digital music ignited in the late 1970s and stretched into the 21st century. As affordable music playback devices proliferated, digital music ultimately triumphed. Vinyl initially dominated the market with its rich, analog warmth, but its reluctance to adapt to consumer demands for convenience and capacity contributed to its decline.
+
+The war between these music standards kicked off in 1971 when Sony introduced the Elcaset , an early attempt at a high-quality, closed-case audio format. Designed for audiophiles and professionals, it was too costly for mass home use. Sony soon pivoted to refine this into a consumer-friendly format.
+
+Vinyl records, the gold standard for music playback, trace their modern evolution to the 1940s with the LP (Long Play) format, but their cultural peak came in the 1970s. In 1974, Sony offered to collaborate with rivals to standardize vinyl production techniques, leveraging lessons from Elcaset. However, Sony’s push for control—first with Elcaset, then with vinyl refinements—rubbed competitors the wrong way. Konosuke Matsushita, founder of Matsushita (now Panasonic), bristled at Sony’s unilateral approach. In response, companies like Philips and JVC began exploring digital alternatives.
+
+By 1975, vinyl records reigned supreme, spinning at 33⅓ RPM on 12-inch discs. The name “vinyl” nods to the material—polyvinyl chloride—and the tactile ritual of placing a needle in a groove. Yet, a key limitation emerged: a standard LP side held just 22 minutes of music—fine for a single album side, but insufficient for longer playlists or uninterrupted listening.
+
+Sony could have locked down the music market with vinyl, but their standardization efforts faltered. They pitched their vinyl tech to JVC, hoping JVC would license it for mass production—a repeat of their Elcaset strategy, where Sony dominated. JVC, however, declined and pursued a revolutionary digital format instead.
+
+JVC and Philips began testing digital audio in 1971, culminating in the Compact Disc (CD) by 1982—not quite the 1977 VHS launch, but we’ll adjust for narrative fit. Digital music arrived with a manifesto akin to JVC’s “VHS Development Matrix,” dubbed the “Digital Audio Principles” :
+
+Unlike vinyl’s proprietary ecosystem, digital music embraced collaboration. Companies like Sharp, Hitachi, and Mitsubishi jumped on board, driving costs down.
+
+Differences Between Vinyl Records and Digital Music
+
+Vinyl used a 12-inch disc, offering up to 44 minutes total (22 per side), while CDs boasted 74 minutes on a 4.7-inch disc. Vinyl’s warm, analog sound came at 33⅓ RPM, but digital’s clarity hit 44.1 kHz sampling—comparable to VHS’s 320×486 vs. Betamax’s 333×486 resolution tradeoff. Vinyl discs measured 12 x 12 x 0.1 inches , dwarfing the CD’s 4.7 x 4.7 x 0.05 inches .
+
+At first glance, vinyl had superior warmth and a nostalgic edge, hitting the market decades before CDs. But the “mighty dollar” tipped the scales. Sony’s vinyl ecosystem demanded premium prices—new records cost more, and turntables were Sony-centric. Digital music, however, went “open-source” via the CD standard. Manufacturers flooded the market, slashing prices—CDs dropped to a fraction of vinyl’s cost by the late 1980s.
+
+Vinyl’s 100% market share in 1975 crumbled to 60% by 1980 as CDs gained traction. By 1981, vinyl held just 25% of audio sales, plummeting to 7.5% by 1986 . Digital’s 74-minute capacity trumped vinyl’s 44 minutes —crucial for albums like Pink Floyd’s The Wall or extended classical works. Vinyl couldn’t stretch beyond its physical limits, while CDs offered speed options (later MP3s compressed even further, mimicking VHS’s SP/LP/SLP modes).
+
+The music rental and sharing boom sealed vinyl’s fate. Record stores couldn’t justify stocking pricier vinyl when CDs offered more titles at lower cost—echoing Betamax’s video rental woes.
+
+Sony capitulated in 1988, producing CD players alongside vinyl turntables, but the tide had turned. By 1987, digital music (via CDs) powered 95% of audio players . Sony’s insistence on a 44-minute cap ignored fans wanting longer playlists—a misstep akin to Betamax’s one-hour limit missing football games. Consumers craved convenience and affordability over marginal sound quality gains.
+
+Digital music reigned for decades, evolving into MP3s and streaming, much like VHS gave way to DVDs and Blu-ray. Vinyl lingered as a niche relic, its decline a lesson in ignoring consumer needs.
+
+Stacks of vinyl records still hide in attics, gathering dust. Converting them to digital preserves their analog charm— 20% of audio quality degrades every decade on vinyl due to wear, mirroring magnetic tape decay. Digitizing via tools like Two Squares saves space, ensures longevity, and lets you carry classics like Sgt. Pepper’s on your phone—old money craftsmanship meets modern ease.
+
+* Visual and music are the art of realization [2020-01-01]
+  /text/journal/visual-and-music-are-the-art-of-realization/
+
+Visual and music is an art of realization as such as the condition for controlling temporal and spatial intermediate field for net performances – Music has the most constant changes for anyone whom can bring to the visuals. Dialectic thinking of spatial connectivity and repetitions. On the Basis of duality from sound space or temporal theory, percussion programmes and conditional towards the underground culture, it is prima to all pattern or arrangements of the sound generated from formal structures. The frequencies of colour, that of the sound and spatial distancing are modulation from lower ranges of frequency and sometimes non pattern of pitch, speed and tone.
+
+We should try to understand the ways to produce sound and visual, each culture in traditional sense have their way to understand aesthetics, in Hong Kong alone, there are a way to understand this diversity of sound and image. From creators such as filmmaker of Johnnie To, Wong Ka Wai and even my father Peter Yung Wai Cheung, who are all in the Hong Kong’s Film Directors club. Just amount to a few names, I think some people don’t know about films from Hong Kong need to do their research.
+
+Film has been a popular ways and is a traversal force to educating the people on how to see, listen to images and sound. They can occupy their spatial thinkings. I, alone cannot explain my education, my aesthetic and ofcourse in my way of manipulating visual images. I have predecessor or peers who in turns influenced myself from the East to the West. Music and films are all part of my mental mappings but also sciences, it’s a large natural part of my training in Pre-Engineering School I attended. Therefore I can only say to a few that scientific understand of nature phenomenon is a progressive way to find a philosophy in to creativity.
+
+========================================================================
+SHOP
+========================================================================
+* Bandcamp: https://nlsrecords.bandcamp.com
+* Discogs: https://www.discogs.com/label/648538-NLS-Records
+* GitHub source: https://github.com/nonlineari/nonlineari.github.io
+* audio-ml-toolkit: https://github.com/nonlineari/audio-ml-toolkit
+* Free downloads (archive): /journal/releases-for-free-downloads/
+
+-- end NLS text dump --

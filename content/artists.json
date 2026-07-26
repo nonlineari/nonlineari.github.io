@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "naked-nuras-loves-rave",
+    "name": "Naked Nuras Loves Rave",
+    "role": "Producer / project",
+    "summary": "Core NLS production alias. Ambient, rave residue, analogue sequences, and serial Project AOA releases.",
+    "body": "Naked Nuras Loves Rave is a primary artist vehicle on NLS Records \u2014 spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.",
+    "links": [
+      {
+        "label": "Catalogue",
+        "url": "/catalogue/"
+      }
+    ]
+  },
+  {
+    "slug": "jimmy-howe",
+    "name": "Jimmy Howe",
+    "role": "Producer \u00b7 A.Visualist",
+    "summary": "Music, prints, videos, and visual systems. Digital print series, A.Visualist drawings, and studio experiments.",
+    "body": "Jimmy Howe works across sound and image \u2014 from experimental lo-fi tracks to Digital Prints Series A/ASCII and A.Visualist concepts. Visual music as a system of realization.",
+    "links": [
+      {
+        "label": "A.Visualist",
+        "url": "/artists/a-visualist/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/nonlineari"
+      }
+    ]
+  },
+  {
+    "slug": "a-visualist",
+    "name": "A.Visualist",
+    "role": "Visual systems",
+    "summary": "Drawings, concepts, Dimension7 paintings, and system diagrams for performance and print.",
+    "body": "A.Visualist is the visual systems practice linked to NLS \u2014 drawings, concept plates, and Dimension7 work that sits beside the catalogue rather than illustrating it after the fact.",
+    "links": [
+      {
+        "label": "Jimmy Howe",
+        "url": "/artists/jimmy-howe/"
+      }
+    ]
+  },
+  {
+    "slug": "matthias-kispert",
+    "name": "Matthias Kispert",
+    "role": "Artist",
+    "summary": "Cross-linked practice noted on the NLS artists network.",
+    "body": "Matthias Kispert appears in the NLS archive network of artists and collaborators. Profile restored as a directory plate for the rebuild.",
+    "links": []
+  }
+]

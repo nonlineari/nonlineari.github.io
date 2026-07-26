@@ -1,0 +1,15 @@
+{
+  "name": "nonlineari.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NLS dark music-label site — Node-only static builder (no dependencies)",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "watch": "node build.js --watch",
+    "serve": "node scripts/serve.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

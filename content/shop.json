@@ -1,0 +1,31 @@
+{
+  "title": "Shop & listen",
+  "intro": "Listen and collect via Bandcamp and Discogs. Other lab links below.",
+  "links": [
+    {
+      "label": "Bandcamp",
+      "url": "https://nlsrecords.bandcamp.com",
+      "kind": "shop"
+    },
+    {
+      "label": "Discogs",
+      "url": "https://www.discogs.com/label/648538-NLS-Records",
+      "kind": "shop"
+    },
+    {
+      "label": "GitHub source",
+      "url": "https://github.com/nonlineari/nonlineari.github.io",
+      "kind": "code"
+    },
+    {
+      "label": "audio-ml-toolkit",
+      "url": "https://github.com/nonlineari/audio-ml-toolkit",
+      "kind": "lab"
+    },
+    {
+      "label": "Free downloads (archive)",
+      "url": "/journal/releases-for-free-downloads/",
+      "kind": "archive"
+    }
+  ]
+}

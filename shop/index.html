@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shop · NLS RECORDS</title>
+  <meta name="description" content="Listen and collect via Bandcamp and Discogs. Other lab links below." />
+  <meta name="theme-color" content="#050505" />
+  <meta name="application-name" content="NLS RECORDS" />
+  <link rel="canonical" href="https://iama.cc/shop/" />
+  <link rel="alternate" type="text/html" href="/text/shop/" title="Text mode" />
+  <meta property="og:title" content="Shop · NLS RECORDS" />
+  <meta property="og:description" content="Listen and collect via Bandcamp and Discogs. Other lab links below." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://iama.cc/shop/" />
+  <meta property="og:site_name" content="NLS RECORDS" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+  <script src="/assets/js/text-browser.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <a class="text-mode-banner" href="/text/shop/" id="text-mode-link">Text mode (terminal browsers)</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/" aria-label="NLS RECORDS home" title="NLS RECORDS">
+        <span class="logo-mark" aria-hidden="true"></span>
+        <span class="logo-text">NLS</span>
+        <span class="logo-full">NLS RECORDS</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/catalogue/">Catalogue</a>
+        <a href="/artists/">Artists</a>
+        <a href="/journal/">Journal</a>
+        <a href="/shop/" class="is-active">Shop</a>
+        <a href="/about/">About</a>
+        <a href="/text/">Text</a>
+        <a href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">GitHub</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+
+    <section class="page-hero wrap">
+      <p class="breadcrumb"><a href="/">Home</a> / Shop</p>
+      <h1>Shop &amp; listen</h1>
+      <p class="lede" style="margin-top:1rem">Listen and collect via Bandcamp and Discogs. Other lab links below.</p>
+    </section>
+    <section class="section wrap" style="border-bottom:0">
+      <div class="signal-grid shop-grid">
+        <a class="plate shop-link" href="https://nlsrecords.bandcamp.com" rel="noopener noreferrer" target="_blank">
+          <span class="cat">shop</span>
+          <h3>Bandcamp</h3>
+          <span class="text-link">open →</span>
+        </a>
+        <a class="plate shop-link" href="https://www.discogs.com/label/648538-NLS-Records" rel="noopener noreferrer" target="_blank">
+          <span class="cat">shop</span>
+          <h3>Discogs</h3>
+          <span class="text-link">open →</span>
+        </a>
+        <a class="plate shop-link" href="https://github.com/nonlineari/nonlineari.github.io" rel="noopener noreferrer" target="_blank">
+          <span class="cat">code</span>
+          <h3>GitHub source</h3>
+          <span class="text-link">open →</span>
+        </a>
+        <a class="plate shop-link" href="https://github.com/nonlineari/audio-ml-toolkit" rel="noopener noreferrer" target="_blank">
+          <span class="cat">lab</span>
+          <h3>audio-ml-toolkit</h3>
+          <span class="text-link">open →</span>
+        </a>
+        <a class="plate shop-link" href="/journal/releases-for-free-downloads/">
+          <span class="cat">archive</span>
+          <h3>Free downloads (archive)</h3>
+          <span class="text-link">open →</span>
+        </a>
+
+      </div>
+    </section>
+
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span class="footer-brand">NLS RECORDS</span>
+      <span class="footer-copy">© <span class="y"></span> nonlineari · all rights reserved</span>
+      <a class="footer-link" href="/text/shop/">Text mode</a>
+      <a class="footer-link" href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">github.com/nonlineari</a>
+    </div>
+  </footer>
+  <script>
+    document.querySelectorAll(".y").forEach(function (el) {
+      el.textContent = new Date().getFullYear();
+    });
+  </script>
+</body>
+</html>
