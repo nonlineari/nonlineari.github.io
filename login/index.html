@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Check-in · NLS RECORDS</title>
+  <meta name="description" content="Simple local check-in. Optional link to live Plate OS." />
+  <meta name="theme-color" content="#050505" />
+  <meta name="robots" content="noindex" />
+  <link rel="canonical" href="https://iama.cc/login/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .login-box {
+      max-width: 22rem;
+      margin: 2.5rem auto;
+      border: 1px solid #1a1a1a;
+      border-left: 3px solid #33f7dd;
+      background: #0c0c0c;
+      padding: 1.35rem 1.4rem;
+    }
+    .login-box h1 {
+      margin: 0 0 0.35rem;
+      font-size: 1rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .login-box .hint {
+      color: #8a8a8a;
+      font-size: 0.85rem;
+      margin: 0 0 1rem;
+    }
+    .login-box label {
+      display: block;
+      font-size: 0.75rem;
+      color: #8a8a8a;
+      margin-bottom: 0.75rem;
+    }
+    .login-box input {
+      display: block;
+      width: 100%;
+      margin-top: 0.3rem;
+      background: #000;
+      border: 1px solid #1a1a1a;
+      color: #e8e8e8;
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.85rem;
+      padding: 0.5rem 0.55rem;
+    }
+    .login-box .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin-top: 0.25rem;
+    }
+    .login-box .status {
+      margin-top: 1rem;
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.72rem;
+      color: #33f7dd;
+      min-height: 1.2rem;
+    }
+    .login-box .status.guest { color: #8a8a8a; }
+    .login-box .tiny {
+      margin-top: 1.1rem;
+      font-size: 0.75rem;
+      color: #666;
+    }
+    .login-box .tiny a { color: #33f7dd; }
+  </style>
+  <script src="/portal/live-config.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/" aria-label="NLS RECORDS home">
+        <span class="logo-mark" aria-hidden="true"></span>
+        <span class="logo-text">NLS</span>
+        <span class="logo-full">NLS RECORDS</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/">Home</a>
+        <a href="/catalogue/">Catalogue</a>
+        <a href="/portal/">Plate</a>
+        <a href="/login/" aria-current="page">Check-in</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <div class="login-box">
+      <h1>Check-in</h1>
+      <p class="hint">
+        Simple. Handle + optional phrase → SHA-256 in this browser only.
+        Does not change the catalogue. No email, no captcha.
+      </p>
+      <form id="checkin-form" autocomplete="off">
+        <label>
+          Handle
+          <input id="handle" name="handle" type="text" required placeholder="name" />
+        </label>
+        <label>
+          Phrase <span style="opacity:0.6">(optional)</span>
+          <input id="phrase" name="phrase" type="password" placeholder="optional" />
+        </label>
+        <div class="row">
+          <button class="btn primary" type="submit">Check in</button>
+          <button class="btn ghost" type="button" id="btn-out">Check out</button>
+        </div>
+      </form>
+      <p id="status" class="status guest">Guest</p>
+      <p class="tiny">
+        Full Plate OS (when local/ngrok is up):
+        <a id="link-plate" href="/portal/">open via portal →</a>
+        ·
+        <a id="link-accounts" href="#">accounts on live server</a>
+      </p>
+    </div>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>Original iama.cc · check-in is browser-local · CIM / NLS Records</p>
+  </footer>
+
+  <script>
+    const KEY = "nls-iama-checkin";
+
+    async function sha256Hex(text) {
+      const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+      return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, "0")).join("");
+    }
+
+    function load() {
+      try {
+        return JSON.parse(sessionStorage.getItem(KEY) || "null");
+      } catch (_) {
+        return null;
+      }
+    }
+
+    function save(obj) {
+      if (!obj) sessionStorage.removeItem(KEY);
+      else sessionStorage.setItem(KEY, JSON.stringify(obj));
+      paint();
+    }
+
+    function paint() {
+      const s = load();
+      const el = document.getElementById("status");
+      if (!el) return;
+      if (s) {
+        el.className = "status";
+        el.textContent = "Check-in: " + s.handle + " · " + s.token.slice(0, 12) + "…";
+      } else {
+        el.className = "status guest";
+        el.textContent = "Guest";
+      }
+    }
+
+    document.getElementById("checkin-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const handle = (document.getElementById("handle").value || "").trim();
+      const phrase = document.getElementById("phrase").value || "";
+      if (!handle) return;
+      // same formula as Plate OS app.js check-in
+      const token = await sha256Hex(handle + ":" + phrase + ":nls-plate-checkin");
+      save({
+        handle,
+        method: "checkin",
+        token,
+        at: new Date().toISOString(),
+        site: "iama.cc/login",
+      });
+    });
+
+    document.getElementById("btn-out").addEventListener("click", () => save(null));
+
+    function wireLive() {
+      const base = (window.NLS_PLATE_LIVE_BASE || "").replace(/\/$/, "");
+      const acc = document.getElementById("link-accounts");
+      if (acc && base) {
+        acc.href = base + "/#accounts";
+        acc.target = "_blank";
+        acc.rel = "noopener";
+      }
+    }
+
+    paint();
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", wireLive);
+    } else {
+      wireLive();
+    }
+    window.addEventListener("load", wireLive);
+  </script>
+</body>
+</html>

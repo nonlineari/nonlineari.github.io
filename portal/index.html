@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Plate addon · NLS RECORDS</title>
+  <meta name="description" content="Optional addon link to the local NLS Plate OS (ngrok). Main site stays original." />
+  <meta name="theme-color" content="#050505" />
+  <meta name="robots" content="noindex" />
+  <link rel="canonical" href="https://iama.cc/portal/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .addon-box {
+      max-width: 36rem;
+      margin: 2rem 0;
+      border: 1px solid #1a1a1a;
+      border-left: 3px solid #33f7dd;
+      background: #0c0c0c;
+      padding: 1.25rem 1.35rem;
+    }
+    .addon-box h1 {
+      margin: 0 0 0.5rem;
+      font-size: 1.1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .addon-box p { color: #8a8a8a; margin: 0 0 0.85rem; }
+    .addon-box code {
+      font-size: 0.8rem;
+      color: #33f7dd;
+      word-break: break-all;
+    }
+    #live-status {
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #8a8a8a;
+    }
+    #live-status.on { color: #33f7dd; }
+    .actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; }
+  </style>
+  <script src="/portal/live-config.js" defer></script>
+  <script src="/portal/bridge.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/" aria-label="NLS RECORDS home">
+        <span class="logo-mark" aria-hidden="true"></span>
+        <span class="logo-text">NLS</span>
+        <span class="logo-full">NLS RECORDS</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/">Home</a>
+        <a href="/catalogue/">Catalogue</a>
+        <a href="/journal/">Journal</a>
+        <a href="/portal/" aria-current="page">Plate</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap section">
+    <p class="eyebrow">addon · original site unchanged</p>
+    <div class="addon-box">
+      <h1>Local Plate OS</h1>
+      <p>
+        The main iama.cc catalogue stays as-is. This page only links to the
+        <strong>workstation Plate OS</strong> when it is running (usually via ngrok).
+      </p>
+      <p>
+        <span id="live-status">checking…</span><br />
+        <code id="live-url"></code>
+      </p>
+      <div class="actions">
+        <a class="btn primary" id="btn-live-plate" href="#">Open local server</a>
+        <a class="btn ghost" href="/login/">Simple check-in (this site)</a>
+        <a class="btn ghost" id="btn-live-accounts" href="#">Full accounts (live)</a>
+        <a class="btn ghost" id="btn-live-mobility" href="#">nlsmobility demo</a>
+        <a class="btn ghost" href="/">← Back to site</a>
+      </div>
+      <p style="margin-top:1.25rem;margin-bottom:0">
+        Optional open docs hub:
+        <a href="/portal-opensource/">/portal-opensource/</a>
+        (CIM · licenses · subedit notes). Alias later: <code>cim.iama.cc/portal-opensource</code>.
+      </p>
+    </div>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>NLS RECORDS · original catalogue + optional local link</p>
+  </footer>
+</body>
+</html>

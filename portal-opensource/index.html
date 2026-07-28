@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portal opensource · CIM · iama.cc</title>
+  <meta name="description" content="Open CIM / NLS Plate OS portal — architecture, licenses, mobility. Subedit from main iama.cc git." />
+  <meta name="theme-color" content="#050505" />
+  <link rel="canonical" href="https://iama.cc/portal-opensource/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .os-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+    .os-card {
+      border: 1px solid #1a1a1a;
+      border-left: 3px solid #33f7dd;
+      background: #0c0c0c;
+      padding: 1rem 1.1rem;
+    }
+    .os-card h2 {
+      margin: 0 0 0.45rem;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .os-card p { margin: 0 0 0.75rem; color: #8a8a8a; font-size: 0.9rem; }
+    .os-card code {
+      font-size: 0.75rem;
+      color: #33f7dd;
+    }
+    #live-banner {
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.8rem;
+      padding: 0.65rem 0.85rem;
+      border: 1px solid #1a6b60;
+      background: #0a1210;
+      margin: 1rem 0 1.5rem;
+      word-break: break-all;
+    }
+    #live-banner.off { border-color: #333; color: #8a8a8a; }
+  </style>
+  <script src="/portal/live-config.js" defer></script>
+  <script src="/portal/bridge.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/" aria-label="NLS RECORDS home">
+        <span class="logo-mark" aria-hidden="true"></span>
+        <span class="logo-text">NLS</span>
+        <span class="logo-full">NLS RECORDS</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/catalogue/">Catalogue</a>
+        <a href="/portal/">Portal</a>
+        <a href="/portal-opensource/" aria-current="page">Open source</a>
+        <a href="/journal/">Journal</a>
+        <a href="https://github.com/nonlineari" target="_blank" rel="noopener">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap section">
+    <p class="eyebrow">cim · portal-opensource · addon (original site stays put)</p>
+    <h1>Portal opensource</h1>
+    <p class="lede">
+      Optional open hub. The main iama.cc catalogue is unchanged — this only
+      <strong>links</strong> to the local Plate OS (ngrok) when running.
+      Editable under <code>portal-opensource/</code> in the main git.
+    </p>
+
+    <div id="live-banner" class="off">Resolving live Plate OS URL…</div>
+
+    <div class="os-grid">
+      <article class="os-card">
+        <h2>1 · Live Plate OS</h2>
+        <p>Architecture viewer: diagrams, mine/mint, crate trade, accounts, assets.</p>
+        <a class="btn primary" id="btn-live-plate" href="#">Open live</a>
+        <p style="margin-top:0.75rem"><code>#overview</code> · <code>#diagrams</code> · <code>#demo</code></p>
+      </article>
+      <article class="os-card">
+        <h2>2 · Test login</h2>
+        <p>Check-in (local secondary) or Option 1 mobile+Noise demo. No silo unlock.</p>
+        <a class="btn primary" id="btn-live-accounts" href="#">Accounts / check-in</a>
+      </article>
+      <article class="os-card">
+        <h2>3 · CIM licenses</h2>
+        <p>Privacy + licensing architecture — Disinformation Architecture.</p>
+        <a class="btn ghost" id="btn-live-licenses" href="#">Licenses hub</a>
+      </article>
+      <article class="os-card">
+        <h2>4 · nlsmobility</h2>
+        <p>Momentum · nonlineari · simcolliges — Visualist AV mint livecode music.</p>
+        <a class="btn ghost" id="btn-live-mobility" href="#">Demo shell</a>
+      </article>
+      <article class="os-card">
+        <h2>5 · Assets / logo</h2>
+        <p>NLS mark + favicon pack.</p>
+        <a class="btn ghost" id="btn-live-assets" href="#">Assets</a>
+      </article>
+      <article class="os-card">
+        <h2>6 · Git subedit</h2>
+        <p>Edit in main repo; rebuild not required for these static portal pages.</p>
+        <a class="btn ghost" href="https://github.com/nonlineari/nonlineari.github.io/tree/main/portal-opensource" target="_blank" rel="noopener">GitHub folder</a>
+      </article>
+    </div>
+
+    <h2>DNS / alias note</h2>
+    <p class="section-sub">
+      Public path today: <strong>https://iama.cc/portal-opensource/</strong><br />
+      Optional future host: <strong>cim.iama.cc</strong> → same open portal (CNAME to Pages + path or reverse proxy).<br />
+      Live tunnel: set <code>PLATE_LIVE_BASE</code> in <code>/portal/live-config.js</code> after ngrok restart.
+    </p>
+
+    <h2>Local restart (workstation)</h2>
+    <pre style="background:#0a0a0a;border:1px solid #1a1a1a;padding:0.85rem;overflow:auto;font-size:0.8rem;color:#b8fff4">
+cd ~/Videos/nls-plate-graal && ./run-arch.sh 8767
+ngrok http 8767
+# update portal/live-config.js with new https://….ngrok-free.dev
+# test: open /portal-opensource/ → Accounts → Check in
+    </pre>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>Disinformation Architecture — CIM / NLS Records · MIT software · open subedit</p>
+  </footer>
+</body>
+</html>
