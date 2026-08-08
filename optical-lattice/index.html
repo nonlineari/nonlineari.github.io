@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Optical Lattice Storage &amp; Unfolding Mechanisms · NLS RECORDS</title>
+  <meta name="description" content="Optical lattice crystal memory, tesseract carriers, Hellschreiber readout, metatronics and unfolding form factors — La Crahc01 / CO-I-CO continuum." />
+  <meta name="theme-color" content="#050505" />
+  <link rel="canonical" href="https://iama.cc/optical-lattice/" />
+  <meta property="og:title" content="Optical Lattice Storage &amp; Unfolding Mechanisms · NLS RECORDS" />
+  <meta property="og:description" content="Crystal memory · Metatronics · Hellschreiber · Tesseract lattice · Network flux" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://iama.cc/optical-lattice/" />
+  <meta property="og:site_name" content="NLS RECORDS" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    /* page-specific additions that stay inside the site language */
+    .ol-hero {
+      padding: 4rem 0 2.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .ol-hero .eyebrow {
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin: 0 0 1rem;
+    }
+    .ol-hero h1 {
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-weight: 600;
+      line-height: 1.15;
+      margin: 0 0 0.75rem;
+      letter-spacing: -0.02em;
+    }
+    .ol-hero h1 .accent { color: var(--accent); }
+    .ol-hero .lede {
+      max-width: 42rem;
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      margin: 0 0 1.5rem;
+    }
+    .ol-meta {
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .ol-section {
+      padding: 3.5rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .ol-section:last-of-type { border-bottom: 0; }
+    .ol-section h2 {
+      font-size: 1.35rem;
+      font-weight: 600;
+      margin: 0 0 0.5rem;
+      letter-spacing: -0.01em;
+    }
+    .ol-section .section-num {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      color: var(--accent);
+      letter-spacing: 0.06em;
+      display: block;
+      margin-bottom: 0.35rem;
+    }
+    .ol-section p {
+      color: var(--text-muted);
+      max-width: 48rem;
+      margin: 0 0 1rem;
+    }
+    .ol-section ul {
+      margin: 1rem 0 0;
+      padding: 0;
+      list-style: none;
+    }
+    .ol-section li {
+      position: relative;
+      padding-left: 1.1rem;
+      margin-bottom: 0.45rem;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+    .ol-section li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.55em;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+    .ol-figure {
+      margin: 1.75rem 0 0;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .ol-figure img {
+      display: block;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+    }
+    .ol-figure figcaption {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      padding: 0.65rem 0.9rem;
+      border-top: 1px solid var(--border);
+    }
+    .ol-grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+      margin-top: 1.5rem;
+    }
+    .ol-grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+    @media (max-width: 820px) {
+      .ol-grid-2, .ol-grid-3 { grid-template-columns: 1fr; }
+    }
+    .ol-card {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .ol-card img { width: 100%; height: auto; display: block; }
+    .ol-card .body {
+      padding: 0.85rem 1rem;
+    }
+    .ol-card h3 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin: 0 0 0.25rem;
+    }
+    .ol-card p {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      margin: 0;
+    }
+    .ol-closing {
+      text-align: center;
+      padding: 4rem 0 3rem;
+    }
+    .ol-closing h2 {
+      font-size: 1.4rem;
+      margin-bottom: 1.5rem;
+    }
+    .ol-closing .line {
+      font-family: var(--mono);
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin: 0.4rem 0;
+    }
+    .ol-closing .quote {
+      margin-top: 2rem;
+      font-style: italic;
+      color: var(--text-dim);
+      font-size: 0.9rem;
+      max-width: 36rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .ol-nav-back {
+      display: inline-block;
+      margin-top: 1.5rem;
+      font-family: var(--mono);
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/" aria-label="NLS RECORDS home" title="NLS RECORDS">
+        <span class="logo-mark" aria-hidden="true"></span>
+        <span class="logo-text">NLS</span>
+        <span class="logo-full">NLS RECORDS</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/catalogue/">Catalogue</a>
+        <a href="/artists/">Artists</a>
+        <a href="/journal/">Journal</a>
+        <a href="/shop/">Shop</a>
+        <a href="/about/">About</a>
+        <a href="/text/">Text</a>
+        <a href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- HERO -->
+    <section class="ol-hero wrap">
+      <p class="eyebrow">La Crahc01 · CO-I-CO · Crystal Memory</p>
+      <h1>
+        Optical Lattice Storage<br>
+        <span class="accent">&amp; Unfolding Mechanisms</span>
+      </h1>
+      <p class="lede">
+        From Hellschreiber pixel commitment to volumetric tesseract carriers.
+        Light circuits, multi-axis laser readout, and portable crystal archives
+        that close the cloud–freelancer–origin circle.
+      </p>
+      <div class="ol-meta">
+        <span>Hellschreiber</span>
+        <span>//</span>
+        <span>Tesseract lattice</span>
+        <span>//</span>
+        <span>Metatronics</span>
+        <span>//</span>
+        <span>NLS Interface</span>
+      </div>
+    </section>
+
+    <!-- 01 CORE VISION -->
+    <section class="ol-section wrap">
+      <span class="section-num">01</span>
+      <h2>Core Vision — Printed Pixel to Volumetric Crystal</h2>
+      <p>
+        The optical lattice carrier is a transparent three-dimensional structure —
+        a projected tesseract containing a carbon-stone lattice. Data is encoded as
+        refractive-index variations and Hellschreiber-style pixel densities rather
+        than magnetic domains. Multi-axis coherent laser beams interrogate the lattice;
+        interference patterns reconstruct both short-format visual tokens and long-format
+        sound-like payloads.
+      </p>
+      <ul>
+        <li>Multi-directional readability (Sator principle + Hellschreiber robustness)</li>
+        <li>Permanent light / ink commitment — survives noise and physical wear</li>
+        <li>Hybrid production: continuous tape for volume → lattice objects for critical archives</li>
+        <li>Compatible with Analog↔Digital control class (ASR, Additive, Mobility/Momentum)</li>
+      </ul>
+      <figure class="ol-figure">
+        <img src="assets/carrier.jpg" alt="Tesseract Crystal Memory Carrier with multi-axis laser readout" width="1200" height="800" loading="lazy" />
+        <figcaption>Tesseract Crystal Memory Carrier — 4D hypercube projection with internal carbon-stone lattice and multi-axis laser readout</figcaption>
+      </figure>
+    </section>
+
+    <!-- 02 UNFOLDING -->
+    <section class="ol-section wrap">
+      <span class="section-num">02</span>
+      <h2>Unfolding Mechanisms — Three Form Factors</h2>
+      <p>
+        One lattice, three physical realisations. Desktop dock, vehicle cockpit retro-fit,
+        and phone-back unfolding panel all read the same crystal object.
+      </p>
+      <div class="ol-grid-3">
+        <div class="ol-card">
+          <img src="assets/desktop.jpg" alt="Desktop laser playback unit" loading="lazy" />
+          <div class="body">
+            <h3>Desktop / Laptop Dock</h3>
+            <p>Recessed multi-axis laser bay, full Analog↔Digital pipeline, DSP and Noise authentication.</p>
+          </div>
+        </div>
+        <div class="ol-card">
+          <img src="assets/cockpit-dock.jpg" alt="Cockpit secure crystal memory dock" loading="lazy" />
+          <div class="body">
+            <h3>Vehicle Cockpit Retro-Fit</h3>
+            <p>Secure centre-console dock. Live mobility/momentum vectors and ASR envelopes while in motion.</p>
+          </div>
+        </div>
+        <div class="ol-card">
+          <img src="assets/phone-unfold-seq.jpg" alt="Phone-back unfolding sequence" loading="lazy" />
+          <div class="body">
+            <h3>Phone-Back Unfolding</h3>
+            <p>Carbon-fibre panel unfolds into transparent tesseract. Compact laser diode + sensor array.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 03 PORTABLE & IN-VEHICLE -->
+    <section class="ol-section wrap">
+      <span class="section-num">03</span>
+      <h2>Portable &amp; In-Vehicle Realisations</h2>
+      <div class="ol-grid-2">
+        <figure class="ol-figure" style="margin:0">
+          <img src="assets/phone-unfold.jpg" alt="Phone-back unfolding crystal carrier sequence" loading="lazy" />
+          <figcaption>Phone-back unfolding sequence — folded → hinged → fully 3D tesseract</figcaption>
+        </figure>
+        <figure class="ol-figure" style="margin:0">
+          <img src="assets/cockpit-controls.jpg" alt="Cockpit laser playback with live control class displays" loading="lazy" />
+          <figcaption>Cockpit laser playback with live waveform, ASR envelope, additive partials and mobility vector</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- 04 METATRONICS & NETWORK -->
+    <section class="ol-section wrap">
+      <span class="section-num">04</span>
+      <h2>Metatronics &amp; Network Layer</h2>
+      <p>
+        Metatronics replaces electronic current with light paths. Refractive lattices and
+        printed optical waveguides become both storage and processing medium. The CAP2N layer
+        supplies dual-redundant deterministic networking, atomic-clock synchronisation,
+        Noise XX/IK handshakes and parallax multi-axis addressing. Sequence numbers remain
+        locked to a common time base; the lattice itself acts as the IP routing medium.
+      </p>
+      <figure class="ol-figure">
+        <img src="assets/network-cap2n.jpg" alt="Network and CAP2N architecture layer" loading="lazy" />
+        <figcaption>Network &amp; CAP2N Architecture Layer — carbon-stone lattice as IP routing medium, atomic clocks, Noise handshakes, parallax axes</figcaption>
+      </figure>
+    </section>
+
+    <!-- 05 MEDIA RELEASE -->
+    <section class="ol-section wrap">
+      <span class="section-num">05</span>
+      <h2>Media Release &amp; Distribution Layer</h2>
+      <p>
+        Hierarchical archival workflow from Single → Track → Album → Bundle → Distribution → Data → Promote.
+        Short-format compact records for discovery; long-format full payloads for immersion.
+        Sator Square foundation supplies the multi-readable invariant. Access is Noise-authenticated —
+        invalid readers see null surface.
+      </p>
+      <figure class="ol-figure">
+        <img src="assets/media-release.jpg" alt="Media release and distribution layer with Sator foundation" loading="lazy" />
+        <figcaption>Media Release &amp; Distribution Layer — hierarchical flow, Sator foundation, Esotropia inward-turning rule, lattice coordinate addressing</figcaption>
+      </figure>
+    </section>
+
+    <!-- 06 INFO ARCHITECTURE & CLOUD -->
+    <section class="ol-section wrap">
+      <span class="section-num">06</span>
+      <h2>Information Architecture as Flux · Cloud Circle</h2>
+      <p>
+        Unlike physical buildings, information architecture is always in flux. Nodes, bases,
+        layers and stages form a surface that is simultaneously a building and a landscape.
+        Once work is uploaded it lives in the cloud, ready for instant response across geographies.
+        A smartphone carries the network preferences for an entire journey. Within flight time
+        thousands of potential readers and re-senders can be reached. The smart-send-tag returns
+        a reply toward the origin — the sender themselves — closing the circle. The lattice carrier
+        itself becomes a physical datacapsule: portable, multi-readable, authenticable.
+      </p>
+      <ul>
+        <li>Design of information is the design of environments that notice their own changes</li>
+        <li>Codes perform function, interaction and performance aspects simultaneously</li>
+        <li>Sound (intensity · shape · tone) becomes a modelling and rendering action inside the lattice</li>
+        <li>Freelancer displacement and free-agent status form the realistic background for portable optical archives</li>
+      </ul>
+    </section>
+
+    <!-- 07 CONTROL CLASS -->
+    <section class="ol-section wrap">
+      <span class="section-num">07</span>
+      <h2>Control Class &amp; Experimental Sound</h2>
+      <p>
+        Once the laser reconstructs the lattice data, the stream enters the control class:
+        Attack/Sustain/Release envelopes, Additive Synthesis (harmonic &amp; inharmonic clusters),
+        Subharmonic paths, and the diamond Mobility/Momentum vector. The NLS interface provides
+        non-linear shaping and feedback. The same control surface works on desktop, in-cockpit
+        and on the unfolded phone carrier.
+      </p>
+      <ul>
+        <li>Laser multi-axis scan → Optical reconstruction → Short-format index</li>
+        <li>Long-format sound stream → ASR envelope shaping → Additive / sub-harmonic synthesis</li>
+        <li>Mobility/Momentum vector → NLS interface → Audio DAC output</li>
+      </ul>
+      <figure class="ol-figure">
+        <img src="assets/desktop.jpg" alt="Integrated laser playback system signal path" loading="lazy" />
+        <figcaption>Integrated Laser Playback System — full signal path from multi-axis scan through Noise-secured audio DAC</figcaption>
+      </figure>
+    </section>
+
+    <!-- CLOSING -->
+    <section class="ol-closing wrap">
+      <h2>Closing Vision</h2>
+      <p class="line">A physical object that is simultaneously</p>
+      <p class="line" style="color:var(--accent);font-weight:500">archive · instrument · network node · light circuit</p>
+      <div style="margin:1.75rem 0 0">
+        <p class="line">Optical lattice written by light, read by laser</p>
+        <p class="line">Unfolding from flat panel to volumetric tesseract</p>
+        <p class="line">Hellschreiber robustness + Sator multi-directionality</p>
+        <p class="line">Metatronics: light as both medium and message</p>
+        <p class="line">Control class live on every form factor</p>
+        <p class="line">Cloud circle completed by a portable crystal carrier</p>
+      </div>
+      <p class="quote">
+        “Information is design to reveal the stated intends…<br>
+        a purpose is needed to serve the output and the overall design.”
+      </p>
+      <a class="ol-nav-back" href="/journal/">← Journal</a>
+      &nbsp;·&nbsp;
+      <a class="ol-nav-back" href="/">Home</a>
+    </section>
+  </main>
+
+  <footer style="border-top:1px solid var(--border);padding:2rem 0;margin-top:2rem">
+    <div class="wrap" style="font-family:var(--mono);font-size:0.75rem;color:var(--text-dim);display:flex;justify-content:space-between;flex-wrap:wrap;gap:0.5rem">
+      <span>NLS RECORDS · nonlineari · iama.cc</span>
+      <span>Optical Lattice Continuum · La Crahc01</span>
+    </div>
+  </footer>
+</body>
+</html>
