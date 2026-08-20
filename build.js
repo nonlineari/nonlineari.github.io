@@ -223,6 +223,7 @@ ${body}
       <span class="footer-brand">${esc(brand)}</span>
       <span class="footer-copy">© <span class="y"></span> nonlineari · all rights reserved</span>
       <a class="footer-link" href="${esc(textPath)}">Text mode</a>
+      <a class="footer-link shadow-pager" href="/section9/" title="Section 9 · NLSAR shadow pager">§9</a>
       <a class="footer-link" href="${esc(site.github)}" rel="noopener noreferrer" target="_blank">github.com/nonlineari</a>
     </div>
   </footer>
@@ -678,6 +679,7 @@ function build404(site) {
       <h1>Plate not found</h1>
       <p style="color:var(--text-muted);max-width:28rem">
         This path is empty. Return to the catalogue or the main plate.
+        <span class="shadow-hint"> Or the <a href="/section9/">§9 shadow pager</a>.</span>
       </p>
       <div class="hero-actions" style="margin-top:1.5rem">
         <a class="btn primary" href="/">Home</a>

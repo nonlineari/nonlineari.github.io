@@ -403,6 +403,19 @@ code {
 .footer-link:hover {
   color: var(--accent);
 }
+.footer-link.shadow-pager {
+  margin-left: 0;
+  opacity: 0.4;
+  font-family: var(--mono);
+  letter-spacing: 0.08em;
+}
+.footer-link.shadow-pager:hover {
+  opacity: 1;
+}
+.shadow-hint {
+  color: var(--text-dim);
+  font-size: 0.85em;
+}
 
 @media (max-width: 640px) {
   .hero {

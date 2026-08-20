@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Section 9 · NLSAR shadow pager · NLS RECORDS</title>
+  <meta name="description" content="Section 9: injecting music during play, AI bot chat, and gaming is the Visualist interface. NLSAR research news + injector node." />
+  <meta name="theme-color" content="#050505" />
+  <link rel="canonical" href="https://iama.cc/section9/" />
+  <link rel="alternate" type="text/html" href="/text/section9/" title="Text mode" />
+  <meta property="og:title" content="Section 9 · NLSAR shadow pager" />
+  <meta property="og:description" content="Music injection during play + AI chat + gaming = Visualist interface." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://iama.cc/section9/" />
+  <meta property="og:site_name" content="NLS RECORDS" />
+  <meta name="robots" content="noindex,follow" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .s9-hero { padding: 3.5rem 0 1.5rem; border-bottom: 1px solid var(--border); }
+    .s9-hero .eyebrow { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); }
+    .s9-hero h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 0.4rem 0 0.75rem; letter-spacing: -0.02em; }
+    .s9-hero .lede { max-width: 40rem; color: var(--text-muted); }
+    .pager-chrome { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin: 1.25rem 0; font-family: var(--mono); font-size: 0.78rem; }
+    .pager-chrome button { background: var(--bg-elevated); color: var(--accent); border: 1px solid var(--border); padding: 0.4rem 0.75rem; cursor: pointer; font: inherit; }
+    .pager-chrome button:hover { border-color: var(--accent); }
+    #pager { min-height: 12rem; border: 1px solid var(--border); background: var(--bg-elevated); padding: 1.25rem 1.4rem; margin-bottom: 2rem; }
+    #pager [data-n] { font-family: var(--mono); color: var(--accent); font-size: 0.75rem; letter-spacing: 0.1em; }
+    #pager [data-title] { margin: 0.35rem 0 0.6rem; font-size: 1.25rem; }
+    #pager [data-body] { color: var(--text-muted); max-width: 40rem; }
+    #node-live { font-family: var(--mono); font-size: 0.75rem; color: var(--text-dim); }
+    #node-live[data-live="1"] { color: var(--accent); }
+    .s9-grid { display: grid; gap: 1px; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); background: var(--border); margin: 0 0 3rem; }
+    .s9-grid article { background: var(--bg); padding: 1.1rem 1.2rem; }
+    .s9-grid h3 { margin: 0 0 0.4rem; font-size: 0.95rem; }
+    .s9-grid p { margin: 0; color: var(--text-muted); font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/" aria-label="NLS RECORDS home" title="NLS RECORDS">
+        <span class="logo-mark" aria-hidden="true"></span>
+        <span class="logo-text">NLS</span>
+        <span class="logo-full">NLS RECORDS</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/catalogue/">Catalogue</a>
+        <a href="/artists/">Artists</a>
+        <a href="/journal/">Journal</a>
+        <a href="/shop/">Shop</a>
+        <a href="/about/">About</a>
+        <a href="/text/">Text</a>
+        <a href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">GitHub</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="s9-hero wrap">
+      <p class="eyebrow">§9 · shadow pager · not in catalogue nav</p>
+      <h1>NLSAR is the Visualist interface</h1>
+      <p class="lede" id="pager-status">
+        Injecting music during play, an AI bot chat, and a gaming surface
+        occupy one plate. That stack is the interface for a Visualist — or even visual.
+      </p>
+      <p id="node-live">checking local NLSAR node…</p>
+    </section>
+
+    <section class="wrap">
+      <div class="pager-chrome">
+        <button type="button" id="pager-prev" aria-label="Previous plate">←</button>
+        <span id="pager-idx">1 / 9</span>
+        <button type="button" id="pager-next" aria-label="Next plate">→</button>
+        <span>keys ← →</span>
+      </div>
+      <article id="pager">
+        <div data-n>01</div>
+        <h2 data-title>Visualist interface</h2>
+        <p data-body>Loading plates…</p>
+      </article>
+    </section>
+
+    <section class="wrap">
+      <header class="section-head">
+        <h2>Strategic arch · Section 9</h2>
+        <p class="section-sub">future work · CIM a priori · injector node</p>
+      </header>
+      <div class="s9-grid">
+        <article>
+          <h3>Play · inject</h3>
+          <p>Client Web Audio / MIDI overlay during a session. One AudioContext. Portal pages stay server-rendered.</p>
+        </article>
+        <article>
+          <h3>Chat · news</h3>
+          <p>AI chat is research news against the corpus: TheFormat, Noise Protocol, CIM STEMs, Bandcamp, public socials.</p>
+        </article>
+        <article>
+          <h3>Game · station</h3>
+          <p>Sound station while live; information portal injector; simulation when offline. Visualist continuity.</p>
+        </article>
+        <article>
+          <h3>A priori CIM</h3>
+          <p>RAND B \ RAND A | YOLODarket STEM | OSINT Agent STEM — github.com/nonlineari/cim SYSTEMS.md</p>
+        </article>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span class="footer-brand">NLS RECORDS</span>
+      <span class="footer-copy">© <span class="y"></span> nonlineari · all rights reserved</span>
+      <a class="footer-link" href="/text/section9/">Text mode</a>
+      <a class="footer-link shadow-pager" href="/section9/" title="Section 9 · NLSAR shadow pager">§9</a>
+      <a class="footer-link" href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">github.com/nonlineari</a>
+    </div>
+  </footer>
+  <script>
+    document.querySelectorAll(".y").forEach(function (el) {
+      el.textContent = new Date().getFullYear();
+    });
+  </script>
+  <script src="./pager.js"></script>
+</body>
+</html>
