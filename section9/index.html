@@ -13,7 +13,6 @@
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://iama.cc/section9/" />
   <meta property="og:site_name" content="NLS RECORDS" />
-  <meta name="robots" content="noindex,follow" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,15 +22,27 @@
     .s9-hero { padding: 3.5rem 0 1.5rem; border-bottom: 1px solid var(--border); }
     .s9-hero .eyebrow { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); }
     .s9-hero h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 0.4rem 0 0.75rem; letter-spacing: -0.02em; }
-    .s9-hero .lede { max-width: 40rem; color: var(--text-muted); }
-    .pager-chrome { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin: 1.25rem 0; font-family: var(--mono); font-size: 0.78rem; }
-    .pager-chrome button { background: var(--bg-elevated); color: var(--accent); border: 1px solid var(--border); padding: 0.4rem 0.75rem; cursor: pointer; font: inherit; }
-    .pager-chrome button:hover { border-color: var(--accent); }
-    #pager { min-height: 12rem; border: 1px solid var(--border); background: var(--bg-elevated); padding: 1.25rem 1.4rem; margin-bottom: 2rem; }
-    #pager [data-n] { font-family: var(--mono); color: var(--accent); font-size: 0.75rem; letter-spacing: 0.1em; }
-    #pager [data-title] { margin: 0.35rem 0 0.6rem; font-size: 1.25rem; }
-    #pager [data-body] { color: var(--text-muted); max-width: 40rem; }
-    #node-live { font-family: var(--mono); font-size: 0.75rem; color: var(--text-dim); }
+    .s9-hero .lede { max-width: 42rem; color: var(--text-muted); }
+    .pager-chrome { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin: 1.25rem 0; font-family: var(--mono); font-size: 0.85rem; }
+    .pager-chrome button {
+      background: var(--accent); color: #050505; border: 0; padding: 0.55rem 1rem;
+      cursor: pointer; font: inherit; font-weight: 600;
+    }
+    .pager-chrome button:hover { filter: brightness(1.1); }
+    #pager {
+      min-height: 14rem; border: 1px solid var(--accent); background: var(--bg-elevated);
+      padding: 1.5rem 1.5rem 2rem; margin-bottom: 1rem;
+    }
+    #pager [data-n] { font-family: var(--mono); color: var(--accent); font-size: 0.8rem; letter-spacing: 0.14em; }
+    #pager [data-title] { margin: 0.45rem 0 0.75rem; font-size: 1.45rem; }
+    #pager [data-body] { color: var(--text); max-width: 42rem; font-size: 1.05rem; line-height: 1.55; }
+    .pager-dots { display: flex; gap: 0.35rem; flex-wrap: wrap; margin: 0 0 2.5rem; }
+    .pager-dots button {
+      width: 2rem; height: 2rem; border: 1px solid var(--border); background: var(--bg);
+      color: var(--accent); font-family: var(--mono); cursor: pointer;
+    }
+    .pager-dots button.is-on { background: var(--accent); color: #050505; border-color: var(--accent); }
+    #node-live { font-family: var(--mono); font-size: 0.8rem; color: var(--text-dim); margin-top: 0.75rem; }
     #node-live[data-live="1"] { color: var(--accent); }
     .s9-grid { display: grid; gap: 1px; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); background: var(--border); margin: 0 0 3rem; }
     .s9-grid article { background: var(--bg); padding: 1.1rem 1.2rem; }
@@ -55,58 +66,43 @@
         <a href="/shop/">Shop</a>
         <a href="/about/">About</a>
         <a href="/text/">Text</a>
+        <a href="/section9/" class="is-active">§9</a>
         <a href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">GitHub</a>
       </nav>
     </div>
   </header>
   <main id="main">
     <section class="s9-hero wrap">
-      <p class="eyebrow">§9 · shadow pager · not in catalogue nav</p>
+      <p class="eyebrow">Section 9 · NLSAR shadow pager</p>
       <h1>NLSAR is the Visualist interface</h1>
       <p class="lede" id="pager-status">
         Injecting music during play, an AI bot chat, and a gaming surface
         occupy one plate. That stack is the interface for a Visualist — or even visual.
       </p>
-      <p id="node-live">checking local NLSAR node…</p>
+      <p id="node-live">Local NLSAR node: open /bot on :4212 when the backend is running.</p>
     </section>
 
     <section class="wrap">
       <div class="pager-chrome">
-        <button type="button" id="pager-prev" aria-label="Previous plate">←</button>
+        <button type="button" id="pager-prev" aria-label="Previous plate">← prev</button>
         <span id="pager-idx">1 / 9</span>
-        <button type="button" id="pager-next" aria-label="Next plate">→</button>
-        <span>keys ← →</span>
+        <button type="button" id="pager-next" aria-label="Next plate">next →</button>
+        <span>or keys ← →</span>
       </div>
       <article id="pager">
         <div data-n>01</div>
         <h2 data-title>Visualist interface</h2>
-        <p data-body>Loading plates…</p>
+        <p data-body>The architecture of injecting music during play, together with an AI bot chat and a gaming surface, is the interface for a Visualist — or even visual. Sound, talk, and play occupy one plate. The overlay is the instrument.</p>
       </article>
+      <div class="pager-dots" id="pager-dots" role="tablist" aria-label="Plates"></div>
     </section>
 
     <section class="wrap">
       <header class="section-head">
-        <h2>Strategic arch · Section 9</h2>
-        <p class="section-sub">future work · CIM a priori · injector node</p>
+        <h2>Nine plates (always visible)</h2>
+        <p class="section-sub">strategic arch · GravityDesktop | SCIS backend · browser bot frontend</p>
       </header>
-      <div class="s9-grid">
-        <article>
-          <h3>Play · inject</h3>
-          <p>Client Web Audio / MIDI overlay during a session. One AudioContext. Portal pages stay server-rendered.</p>
-        </article>
-        <article>
-          <h3>Chat · news</h3>
-          <p>AI chat is research news against the corpus: TheFormat, Noise Protocol, CIM STEMs, Bandcamp, public socials.</p>
-        </article>
-        <article>
-          <h3>Game · station</h3>
-          <p>Sound station while live; information portal injector; simulation when offline. Visualist continuity.</p>
-        </article>
-        <article>
-          <h3>A priori CIM</h3>
-          <p>RAND B \ RAND A | YOLODarket STEM | OSINT Agent STEM — github.com/nonlineari/cim SYSTEMS.md</p>
-        </article>
-      </div>
+      <div class="s9-grid" id="plate-grid"></div>
     </section>
   </main>
   <footer class="site-footer">
@@ -114,15 +110,28 @@
       <span class="footer-brand">NLS RECORDS</span>
       <span class="footer-copy">© <span class="y"></span> nonlineari · all rights reserved</span>
       <a class="footer-link" href="/text/section9/">Text mode</a>
-      <a class="footer-link shadow-pager" href="/section9/" title="Section 9 · NLSAR shadow pager">§9</a>
+      <a class="footer-link shadow-pager" href="/section9/">§9 NLSAR</a>
       <a class="footer-link" href="https://github.com/nonlineari" rel="noopener noreferrer" target="_blank">github.com/nonlineari</a>
     </div>
   </footer>
+  <script type="application/json" id="arch-data">
+{"id":"section9","interface":"Music injection during play + AI bot chat + gaming is the Visualist (and visual) interface.","plates":[
+{"n":"01","id":"interface","title":"Visualist interface","body":"The architecture of injecting music during play, together with an AI bot chat and a gaming surface, is the interface for a Visualist — or even visual. Sound, talk, and play occupy one plate. The overlay is the instrument."},
+{"n":"02","id":"inject","title":"Music during play","body":"A client-only Web Audio / MIDI graph injects live sound into the portal without remounting the server page. One AudioContext per session. Resume on gesture. MIDI note-on schedules frequency. Analyser feeds the Momentum strip."},
+{"n":"03","id":"chat","title":"AI bot chat","body":"Browser frontend /bot talks to a GravityDesktop|SCIS backend (handshake, gravity_update, signal). Chat is research news against the NLSAR corpus. View/search only."},
+{"n":"04","id":"game","title":"Gaming surface","body":"Play is a session flag. The injector node sits over a game or portal as sound station, information portal, or simulation. Continuity holds when the operator is offline — Visualist catalog style."},
+{"n":"05","id":"nlsar","title":"NLSAR node","body":"Research news generator + decentralized injector. CODE BUS :4212. Surfaces: /news /station /play /bot /api/comm. Later a GravityDesktop connection node."},
+{"n":"06","id":"cim","title":"A priori CIM","body":"From github.com/nonlineari/cim SYSTEMS.md: RAND BlockCode Java, RAND System A (neat stacking), RAND System B (cloud collision), NLS YOLODarket STEM, NLS OSINT Agent STEM, NLS Visualist."},
+{"n":"07","id":"format","title":"TheFormat · token","body":"Music as 4D tesseract / 6-sequence TIME FREQ AMP PHASE ENTROPY CORR. AOA recording (Jimmy Howe). Tokenise · mine · mint stay separate. Bandcamp holds solid-state media (nlsrecords, nnlr)."},
+{"n":"08","id":"noise","title":"Noise · IoT · signaling","body":"SCIS Noise Protocol (XX handshake, NEAR integrity, CIM transfer XML) and SCIS-bit-IOT. Signaling events pulse the injector. Signal app itself is not scraped."},
+{"n":"09","id":"shadow","title":"Shadow pager","body":"This page is Section 9 of the strategic architecture on iama.cc. A pager through nine plates. Offline visualist continuity: last session + generated research news keep serving when you are not live."}
+]}
+  </script>
   <script>
     document.querySelectorAll(".y").forEach(function (el) {
       el.textContent = new Date().getFullYear();
     });
   </script>
-  <script src="./pager.js"></script>
+  <script src="/section9/pager.js"></script>
 </body>
 </html>

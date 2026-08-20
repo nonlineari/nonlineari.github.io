@@ -134,6 +134,7 @@ function nav(active) {
     ["shop", "/shop/", "Shop"],
     ["about", "/about/", "About"],
     ["text", "/text/", "Text"],
+    ["section9", "/section9/", "§9"],
     ["github", "https://github.com/nonlineari", "GitHub"],
   ];
   return links
@@ -223,7 +224,7 @@ ${body}
       <span class="footer-brand">${esc(brand)}</span>
       <span class="footer-copy">© <span class="y"></span> nonlineari · all rights reserved</span>
       <a class="footer-link" href="${esc(textPath)}">Text mode</a>
-      <a class="footer-link shadow-pager" href="/section9/" title="Section 9 · NLSAR shadow pager">§9</a>
+      <a class="footer-link shadow-pager" href="/section9/" title="Section 9 · NLSAR shadow pager">§9 NLSAR</a>
       <a class="footer-link" href="${esc(site.github)}" rel="noopener noreferrer" target="_blank">github.com/nonlineari</a>
     </div>
   </footer>
@@ -382,6 +383,11 @@ ${journal || '        <li class="card"><p>No posts yet.</p></li>'}
           <h3>Text / terminal</h3>
           <p>Plain HTML for lynx, w3m, links — plus a single all.txt dump.</p>
           <a class="text-link" href="/text/">open text mode →</a>
+        </article>
+        <article class="plate">
+          <h3>§9 NLSAR</h3>
+          <p>Shadow pager: music inject during play + AI bot chat + gaming as the Visualist interface.</p>
+          <a class="text-link" href="/section9/">open section 9 →</a>
         </article>
       </div>
     </section>
