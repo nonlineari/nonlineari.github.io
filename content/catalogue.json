@@ -11,7 +11,7 @@
       "friday-drop",
       "magma"
     ],
-    "summary": "AOA EP. GETAFIX and TRACK FOR stream. MAGMA interpreter. Git for @nlsrecords. Friday drop 18 September 2026.",
+    "summary": "AOA EP. MORE'S LOW, TRACK FOR, GETAFIX stream. MAGMA. Git for @nlsrecords. Friday drop 18 September 2026.",
     "body": "AOA EP is a four-track plate from the 010819 master session, released as a Friday drop on iama.cc, as MAGMA, and as a public git for @nlsrecords.\n\nMAGMA is the neuro-linguistic visual interpreter: type a sentence; the four axioms grow it as magma. Dual machines — Noise protocol vs Improved Noise — ride MORE'S LOW and TRACK FOR. GETAFIX is MixKey. TRYTO is surplus circulation.\n\nNaked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the distribution: clone, play, keep.",
     "cover": "/assets/covers/aoa.svg",
     "shop_url": "https://github.com/nonlineari/aoa-ep",
@@ -20,8 +20,8 @@
     "tracks": [
       {
         "title": "MORE'S LOW",
-        "duration": "13:10",
-        "note": "WAV master 010819 — in git when dropped"
+        "duration": "8:10",
+        "audio": "/assets/audio/aoa/mores-low.mp3"
       },
       {
         "title": "TRACK FOR",

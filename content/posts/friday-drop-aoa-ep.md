@@ -9,7 +9,7 @@ AOA EP is the Friday drop.
 
 Four masters from the 010819 session, issued as a plate on iama.cc, as MAGMA, and as a public git for @nlsrecords.
 
-1. MORE'S LOW — 13:10
+1. MORE'S LOW — 8:10
 2. TRACK FOR — 8:15
 3. GETAFIX — 5:37
 4. TRYTO — 11:37
