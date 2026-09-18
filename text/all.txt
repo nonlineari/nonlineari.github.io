@@ -12,6 +12,22 @@ Browse with:  lynx https://iama.cc/text/
 CATALOGUE
 ========================================================================
 
+* AOA (2026)
+  FRIDAY DROP | /text/catalogue/aoa/
+
+AOA EP is a four-track plate from the 010819 master session, released as a Friday drop on iama.cc and as a public git for @nlsrecords.
+
+MORE'S LOW is the strata bus — form follows function, the sorting device. TRACK FOR is the meshwork curl. GETAFIX is MixKey: the potion when the two machines agree. TRYTO is surplus circulation, the try.
+
+Naked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the distribution: clone, play, keep.
+  tracks:
+    1. MORE'S LOW  13:10
+    2. TRACK FOR  13:45
+    3. GETAFIX  5:37
+    4. TRYTO  11:37
+  git: https://github.com/nonlineari/aoa-ep
+  shop: https://github.com/nonlineari/aoa-ep
+
 * Discrete Geometry (2020)
   AMBIENT | /text/catalogue/discrete-geometry/
 
@@ -71,6 +87,8 @@ ARTISTS
 
 Naked Nuras Loves Rave is a primary artist vehicle on NLS Records — spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.
 
+AOA EP (Friday drop 18 September 2026) collects four 010819 masters — MORE'S LOW, TRACK FOR, GETAFIX, TRYTO — as a public git on GitHub and a plate on iama.cc.
+
 * Jimmy Howe — Producer · A.Visualist
   /text/artists/jimmy-howe/
 
@@ -89,6 +107,25 @@ Matthias Kispert appears in the NLS archive network of artists and collaborators
 ========================================================================
 JOURNAL
 ========================================================================
+
+* Friday drop: AOA EP [2026-09-18]
+  /text/journal/friday-drop-aoa-ep/
+
+AOA EP is the Friday drop.
+
+Four masters from the 010819 session, issued as a plate on iama.cc and as a public git for @nlsrecords.
+
+1. MORE'S LOW — 13:10
+2. TRACK FOR — 13:45
+3. GETAFIX — 5:37
+4. TRYTO — 11:37
+
+Naked Nuras Loves Rave. NLS Records. Hong Kong.
+
+The distribution is the git: clone, play, keep. GETAFIX streams on the site. The other three WAV masters sit in the same session and land in the repo when they are dropped.
+
+Catalogue: https://iama.cc/catalogue/aoa/
+Git: https://github.com/nonlineari/aoa-ep
 
 * antiaøthøicificialintelligent [2026-07-28]
   /text/journal/anti-aesthetic-fiction/
@@ -390,6 +427,7 @@ Film has been a popular ways and is a traversal force to educating the people on
 ========================================================================
 SHOP
 ========================================================================
+* AOA EP git: https://github.com/nonlineari/aoa-ep
 * Bandcamp: https://nlsrecords.bandcamp.com
 * Discogs: https://www.discogs.com/label/648538-NLS-Records
 * GitHub source: https://github.com/nonlineari/nonlineari.github.io

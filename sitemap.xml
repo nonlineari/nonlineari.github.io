@@ -13,6 +13,8 @@
   <url><loc>https://iama.cc/text/shop/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/text/about/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/text/all.txt</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://iama.cc/catalogue/aoa/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://iama.cc/text/catalogue/aoa/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/catalogue/discrete-geometry/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/text/catalogue/discrete-geometry/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/catalogue/echo-clone-internet-2/</loc><changefreq>weekly</changefreq></url>
@@ -41,6 +43,8 @@
   <url><loc>https://iama.cc/text/artists/a-visualist/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/artists/matthias-kispert/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/text/artists/matthias-kispert/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://iama.cc/journal/friday-drop-aoa-ep/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://iama.cc/text/journal/friday-drop-aoa-ep/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/journal/anti-aesthetic-fiction/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/text/journal/anti-aesthetic-fiction/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://iama.cc/journal/a-documentary-about-modular-synthesizer-ems/</loc><changefreq>weekly</changefreq></url>

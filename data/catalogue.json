@@ -1,5 +1,45 @@
 [
   {
+    "slug": "aoa",
+    "title": "AOA",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "FRIDAY DROP",
+    "cats": [
+      "ambient",
+      "nlsrecords",
+      "aoa",
+      "friday-drop"
+    ],
+    "summary": "AOA EP. Four 010819 masters. Naked Nuras Loves Rave. Friday drop 18 September 2026. Git for @nlsrecords.",
+    "body": "AOA EP is a four-track plate from the 010819 master session, released as a Friday drop on iama.cc and as a public git for @nlsrecords.\n\nMORE'S LOW is the strata bus — form follows function, the sorting device. TRACK FOR is the meshwork curl. GETAFIX is MixKey: the potion when the two machines agree. TRYTO is surplus circulation, the try.\n\nNaked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the distribution: clone, play, keep.",
+    "cover": "/assets/covers/aoa.svg",
+    "shop_url": "https://github.com/nonlineari/aoa-ep",
+    "git_url": "https://github.com/nonlineari/aoa-ep",
+    "year": "2026",
+    "tracks": [
+      {
+        "title": "MORE'S LOW",
+        "duration": "13:10",
+        "note": "WAV master 010819 — in git when dropped"
+      },
+      {
+        "title": "TRACK FOR",
+        "duration": "13:45",
+        "note": "WAV master 010819 — in git when dropped"
+      },
+      {
+        "title": "GETAFIX",
+        "duration": "5:37",
+        "audio": "/assets/audio/aoa/getafix.mp3"
+      },
+      {
+        "title": "TRYTO",
+        "duration": "11:37",
+        "note": "WAV master 010819 — in git when dropped"
+      }
+    ]
+  },
+  {
     "slug": "discrete-geometry",
     "title": "Discrete Geometry",
     "cat_label": "AMBIENT",

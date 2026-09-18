@@ -4,8 +4,12 @@
     "name": "Naked Nuras Loves Rave",
     "role": "Producer / project",
     "summary": "Core NLS production alias. Ambient, rave residue, analogue sequences, and serial Project AOA releases.",
-    "body": "Naked Nuras Loves Rave is a primary artist vehicle on NLS Records \u2014 spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.",
+    "body": "Naked Nuras Loves Rave is a primary artist vehicle on NLS Records — spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.\n\nAOA EP (Friday drop 18 September 2026) collects four 010819 masters — MORE'S LOW, TRACK FOR, GETAFIX, TRYTO — as a public git on GitHub and a plate on iama.cc.",
     "links": [
+      {
+        "label": "AOA EP",
+        "url": "/catalogue/aoa/"
+      },
       {
         "label": "Catalogue",
         "url": "/catalogue/"
@@ -15,9 +19,9 @@
   {
     "slug": "jimmy-howe",
     "name": "Jimmy Howe",
-    "role": "Producer \u00b7 A.Visualist",
+    "role": "Producer · A.Visualist",
     "summary": "Music, prints, videos, and visual systems. Digital print series, A.Visualist drawings, and studio experiments.",
-    "body": "Jimmy Howe works across sound and image \u2014 from experimental lo-fi tracks to Digital Prints Series A/ASCII and A.Visualist concepts. Visual music as a system of realization.",
+    "body": "Jimmy Howe works across sound and image — from experimental lo-fi tracks to Digital Prints Series A/ASCII and A.Visualist concepts. Visual music as a system of realization.",
     "links": [
       {
         "label": "A.Visualist",
@@ -34,7 +38,7 @@
     "name": "A.Visualist",
     "role": "Visual systems",
     "summary": "Drawings, concepts, Dimension7 paintings, and system diagrams for performance and print.",
-    "body": "A.Visualist is the visual systems practice linked to NLS \u2014 drawings, concept plates, and Dimension7 work that sits beside the catalogue rather than illustrating it after the fact.",
+    "body": "A.Visualist is the visual systems practice linked to NLS — drawings, concept plates, and Dimension7 work that sits beside the catalogue rather than illustrating it after the fact.",
     "links": [
       {
         "label": "Jimmy Howe",

@@ -423,6 +423,30 @@ ${releaseCards(catalogue)}
   });
 }
 
+function tracklistHtml(a) {
+  const tracks = a.tracks || [];
+  if (!tracks.length) return "";
+  const rows = tracks
+    .map((t, i) => {
+      const n = String(i + 1).padStart(2, "0");
+      const audio = t.audio
+        ? `<audio controls preload="none" src="${esc(t.audio)}"><a href="${esc(t.audio)}">download</a></audio>`
+        : t.note
+          ? `<span class="track-note">${esc(t.note)}</span>`
+          : "";
+      return `            <li>
+              <span class="track-n">${n}</span>
+              <span class="track-title">${esc(t.title)}</span>
+              <span class="track-dur">${esc(t.duration || "")}</span>
+              ${audio}
+            </li>`;
+    })
+    .join("\n");
+  return `<ol class="tracklist" aria-label="Tracklist">
+${rows}
+          </ol>`;
+}
+
 function buildRelease(site, a) {
   const tags = (a.cats || [])
     .map((c) => `<span class="tag">${esc(c)}</span>`)
@@ -449,13 +473,16 @@ function buildRelease(site, a) {
         <div class="release-copy">
           <span class="cat">${esc(a.cat_label || "NLR")}${a.year ? ` · ${esc(a.year)}` : ""}</span>
           <h1>${esc(a.title)}</h1>
+          ${a.artist ? `<p class="release-artist">${esc(a.artist)}</p>` : ""}
           <div class="body">
             ${bodyToHtml(a.body || a.summary)}
           </div>
+          ${tracklistHtml(a)}
           <div class="tags">${tags}</div>
           <div class="back-row hero-actions">
             <a class="btn ghost" href="/catalogue/">← All plates</a>
             ${shop}
+            ${a.git_url ? `<a class="btn ghost" href="${esc(a.git_url)}" rel="noopener noreferrer" target="_blank">Git @nlsrecords</a>` : ""}
           </div>
         </div>
       </div>
@@ -1220,6 +1247,13 @@ ${shopPending ? `<h2>Pending</h2><ul>${shopPending}</ul>` : ""}
     lines.push(`  ${a.cat_label || "NLR"} | /text/catalogue/${a.slug}/`);
     lines.push("");
     lines.push(plainBlock(a.body || a.summary));
+    if (a.tracks && a.tracks.length) {
+      lines.push("  tracks:");
+      a.tracks.forEach((t, i) => {
+        lines.push(`    ${i + 1}. ${t.title}${t.duration ? `  ${t.duration}` : ""}`);
+      });
+    }
+    if (a.git_url) lines.push(`  git: ${a.git_url}`);
     if (a.shop_url) lines.push(`  shop: ${a.shop_url}`);
   }
   lines.push("");
