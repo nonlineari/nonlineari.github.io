@@ -4,11 +4,15 @@
     "name": "Naked Nuras Loves Rave",
     "role": "Producer / project",
     "summary": "Core NLS production alias. Ambient, rave residue, analogue sequences, and serial Project AOA releases.",
-    "body": "Naked Nuras Loves Rave is a primary artist vehicle on NLS Records — spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.\n\nAOA EP (Friday drop 18 September 2026) collects four 010819 masters — MORE'S LOW, TRACK FOR, GETAFIX, TRYTO — as a public git on GitHub and a plate on iama.cc.",
+    "body": "Naked Nuras Loves Rave is a primary artist vehicle on NLS Records — spanning ambient plates, free downloads, and the Project AOA series. The work treats production as an environmental practice: storm sessions, urban silence, and network-era loudness.\n\nAOA EP (Friday drop 18 September 2026) collects four 010819 masters — MORE'S LOW, TRACK FOR, GETAFIX, TRYTO — as a public git on GitHub and a plate on iama.cc. MAGMA is the live interpreter for the drop.",
     "links": [
       {
         "label": "AOA EP",
         "url": "/catalogue/aoa/"
+      },
+      {
+        "label": "MAGMA interpreter",
+        "url": "https://cobalt-tulip-royal-orchid.grok.me/"
       },
       {
         "label": "Catalogue",

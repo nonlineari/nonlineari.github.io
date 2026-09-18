@@ -316,8 +316,8 @@ function buildIndex(site, catalogue, posts, artists) {
         Minimal plate. Cyan stamp. No soft edges.
       </p>
       <div class="hero-actions">
-        <a class="btn primary" href="/catalogue/">Enter catalogue</a>
-        <a class="btn ghost" href="/journal/">Journal</a>
+        <a class="btn primary" href="/catalogue/aoa/">AOA EP</a>
+        <a class="btn ghost" href="https://cobalt-tulip-royal-orchid.grok.me/" rel="noopener noreferrer" target="_blank">MAGMA</a>
       </div>
       <div class="hero-meta" aria-hidden="true">
         <span>CH 01–42</span>
@@ -364,6 +364,11 @@ ${journal || '        <li class="card"><p>No posts yet.</p></li>'}
         <p class="section-sub">stack · shop · source</p>
       </header>
       <div class="signal-grid">
+        <article class="plate">
+          <h3>MAGMA</h3>
+          <p>Neuro-linguistic visual interpreter for the AOA Friday drop. Type a sentence; the four axioms grow it as magma.</p>
+          <a class="text-link" href="https://cobalt-tulip-royal-orchid.grok.me/" rel="noopener noreferrer" target="_blank">open MAGMA →</a>
+        </article>
         <article class="plate">
           <h3>Protocol lab</h3>
           <p>ML-KEM · Noise XX · X3DH · MIDI/NLS channels 1–42.</p>
@@ -462,9 +467,13 @@ function buildRelease(site, a) {
           })}
         </figure>`
     : "";
-  const shop = a.shop_url
-    ? `<a class="btn primary" href="${esc(a.shop_url)}" rel="noopener noreferrer" target="_blank">Buy / listen</a>`
+  const magma = a.magma_url
+    ? `<a class="btn primary" href="${esc(a.magma_url)}" rel="noopener noreferrer" target="_blank">MAGMA interpreter</a>`
     : "";
+  const shop =
+    a.shop_url && a.shop_url !== a.git_url && a.shop_url !== a.magma_url
+      ? `<a class="${magma ? "btn ghost" : "btn primary"}" href="${esc(a.shop_url)}" rel="noopener noreferrer" target="_blank">Buy / listen</a>`
+      : "";
   const body = `
     <article class="wrap release${hasCover ? " release--with-cover" : ""}">
       <p class="breadcrumb"><a href="/">Home</a> / <a href="/catalogue/">Catalogue</a> / ${esc(a.title)}</p>
@@ -481,6 +490,7 @@ function buildRelease(site, a) {
           <div class="tags">${tags}</div>
           <div class="back-row hero-actions">
             <a class="btn ghost" href="/catalogue/">← All plates</a>
+            ${magma}
             ${shop}
             ${a.git_url ? `<a class="btn ghost" href="${esc(a.git_url)}" rel="noopener noreferrer" target="_blank">Git @nlsrecords</a>` : ""}
           </div>
@@ -1094,6 +1104,7 @@ ${catalogue
 <h1>${esc(a.title)}</h1>
 <p><strong>${esc(a.cat_label || "NLR")}</strong>${a.year ? ` · ${esc(a.year)}` : ""}${tags ? ` · ${tags}` : ""}</p>
 ${parasText(a.body || a.summary)}
+${a.magma_url ? `<p>MAGMA interpreter: <a href="${esc(a.magma_url)}">${esc(a.magma_url)}</a></p>` : ""}
 ${a.shop_url ? `<p>Shop / listen: <a href="${esc(a.shop_url)}">${esc(a.shop_url)}</a></p>` : ""}
 <p>Graphical page: <a href="/catalogue/${esc(a.slug)}/">/catalogue/${esc(a.slug)}/</a></p>
 </main>`,
@@ -1254,6 +1265,7 @@ ${shopPending ? `<h2>Pending</h2><ul>${shopPending}</ul>` : ""}
       });
     }
     if (a.git_url) lines.push(`  git: ${a.git_url}`);
+    if (a.magma_url) lines.push(`  magma: ${a.magma_url}`);
     if (a.shop_url) lines.push(`  shop: ${a.shop_url}`);
   }
   lines.push("");

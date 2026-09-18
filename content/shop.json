@@ -3,6 +3,11 @@
   "intro": "Listen and collect via Bandcamp and Discogs. Other lab links below.",
   "links": [
     {
+      "label": "MAGMA interpreter",
+      "url": "https://cobalt-tulip-royal-orchid.grok.me/",
+      "kind": "lab"
+    },
+    {
       "label": "AOA EP git",
       "url": "https://github.com/nonlineari/aoa-ep",
       "kind": "code"

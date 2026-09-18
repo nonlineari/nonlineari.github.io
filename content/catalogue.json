@@ -8,10 +8,11 @@
       "ambient",
       "nlsrecords",
       "aoa",
-      "friday-drop"
+      "friday-drop",
+      "magma"
     ],
-    "summary": "AOA EP. Four 010819 masters. Naked Nuras Loves Rave. Friday drop 18 September 2026. Git for @nlsrecords.",
-    "body": "AOA EP is a four-track plate from the 010819 master session, released as a Friday drop on iama.cc and as a public git for @nlsrecords.\n\nMORE'S LOW is the strata bus — form follows function, the sorting device. TRACK FOR is the meshwork curl. GETAFIX is MixKey: the potion when the two machines agree. TRYTO is surplus circulation, the try.\n\nNaked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the distribution: clone, play, keep.",
+    "summary": "AOA EP. Four 010819 masters. MAGMA interpreter. Git for @nlsrecords. Friday drop 18 September 2026.",
+    "body": "AOA EP is a four-track plate from the 010819 master session, released as a Friday drop on iama.cc, as MAGMA, and as a public git for @nlsrecords.\n\nMAGMA is the neuro-linguistic visual interpreter: type a sentence; the four axioms grow it as magma. Dual machines — Noise protocol vs Improved Noise — ride MORE'S LOW and TRACK FOR. GETAFIX is MixKey. TRYTO is surplus circulation.\n\nNaked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the distribution: clone, play, keep.",
     "cover": "/assets/covers/aoa.svg",
     "shop_url": "https://github.com/nonlineari/aoa-ep",
     "git_url": "https://github.com/nonlineari/aoa-ep",
@@ -37,7 +38,8 @@
         "duration": "11:37",
         "note": "WAV master 010819 — in git when dropped"
       }
-    ]
+    ],
+    "magma_url": "https://cobalt-tulip-royal-orchid.grok.me/"
   },
   {
     "slug": "discrete-geometry",
