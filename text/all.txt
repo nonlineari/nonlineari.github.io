@@ -26,7 +26,7 @@ Naked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the dis
     3. GETAFIX  5:37
     4. TRYTO  8:07
   git: https://github.com/nonlineari/aoa-ep
-  magma: https://iama.cc/magma/
+  magma: https://opal-sapphire-leaf-spark.grok.me/
   shop: https://github.com/nonlineari/aoa-ep
 
 * Discrete Geometry (2020)
@@ -123,7 +123,7 @@ Four masters from the 010819 session, issued as a plate on iama.cc, as MAGMA, an
 
 MAGMA is the neuro-linguistic visual interpreter for the plate. Type a sentence; the four axioms grow it as magma. Dual machines — protocol vs improved — ride the two long masters. GETAFIX is MixKey. TRYTO is the try.
 
-Open MAGMA: https://iama.cc/magma/
+Open MAGMA: https://opal-sapphire-leaf-spark.grok.me/
 
 Naked Nuras Loves Rave. NLS Records. Hong Kong.
 
@@ -432,7 +432,7 @@ Film has been a popular ways and is a traversal force to educating the people on
 ========================================================================
 SHOP
 ========================================================================
-* MAGMA interpreter: https://iama.cc/magma/
+* MAGMA interpreter: https://opal-sapphire-leaf-spark.grok.me/
 * AOA EP git: https://github.com/nonlineari/aoa-ep
 * Bandcamp: https://nlsrecords.bandcamp.com
 * Discogs: https://www.discogs.com/label/648538-NLS-Records

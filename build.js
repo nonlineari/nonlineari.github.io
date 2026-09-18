@@ -318,7 +318,7 @@ function buildIndex(site, catalogue, posts, artists) {
       </p>
       <div class="hero-actions">
         <a class="btn primary" href="/catalogue/aoa/">AOA EP</a>
-        <a class="btn ghost" href="/magma/">MAGMA</a>
+        <a class="btn ghost" href="https://opal-sapphire-leaf-spark.grok.me/" rel="noopener noreferrer" target="_blank">MAGMA</a>
       </div>
       <div class="hero-meta" aria-hidden="true">
         <span>CH 01–42</span>
@@ -368,7 +368,7 @@ ${journal || '        <li class="card"><p>No posts yet.</p></li>'}
         <article class="plate">
           <h3>MAGMA</h3>
           <p>Neuro-linguistic visual interpreter for the AOA Friday drop. Type a sentence; the four axioms grow it as magma.</p>
-          <a class="text-link" href="/magma/">open MAGMA →</a>
+          <a class="text-link" href="https://opal-sapphire-leaf-spark.grok.me/" rel="noopener noreferrer" target="_blank">open MAGMA →</a>
         </article>
         <article class="plate">
           <h3>Protocol lab</h3>
@@ -701,11 +701,12 @@ function buildMagma(site) {
           <p class="release-artist">Naked Nuras Loves Rave</p>
           <div class="body">
             <p>MAGMA is the plugin host. Four sockets. MixKey observes. Until handshake the Nura is alive and dead. Mute is <strong>NOT IN SERVICE</strong>.</p>
-            <p>This page is the house URL: <code>iama.cc/magma/</code>. The plate is <a href="/catalogue/aoa/">AOA EP</a>. The git is the distribution.</p>
+            <p>Live interpreter: <a href="https://opal-sapphire-leaf-spark.grok.me/" rel="noopener noreferrer" target="_blank">opal-sapphire-leaf-spark.grok.me</a>. House plate: <a href="/catalogue/aoa/">AOA EP</a>. Git is the distribution.</p>
           </div>
           <p class="mono-line">plugin all · cat · slit 0.32 · observe · nis</p>
           <div class="actions" style="margin-top:1.25rem;display:flex;flex-wrap:wrap;gap:.6rem">
-            <a class="btn primary" href="/catalogue/aoa/">AOA EP</a>
+            <a class="btn primary" href="https://opal-sapphire-leaf-spark.grok.me/" rel="noopener noreferrer" target="_blank">Open MAGMA</a>
+            <a class="btn ghost" href="/catalogue/aoa/">AOA EP</a>
             <a class="btn ghost" href="https://github.com/nonlineari/aoa-ep" rel="noopener noreferrer" target="_blank">Git</a>
           </div>
           <ol class="tracklist" aria-label="AOA buses" style="margin-top:1.5rem">
