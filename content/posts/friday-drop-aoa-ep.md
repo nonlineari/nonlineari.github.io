@@ -16,7 +16,7 @@ Four masters from the 010819 session, issued as a plate on iama.cc, as MAGMA, an
 
 MAGMA is the neuro-linguistic visual interpreter for the plate. Type a sentence; the four axioms grow it as magma. Dual machines — protocol vs improved — ride the two long masters. GETAFIX is MixKey. TRYTO is the try.
 
-Open MAGMA: https://cobalt-tulip-royal-orchid.grok.me/
+Open MAGMA: https://iama.cc/magma/
 
 Naked Nuras Loves Rave. NLS Records. Hong Kong.
 
