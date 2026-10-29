@@ -39,63 +39,1649 @@
         "audio": "/assets/audio/aoa/tryto.mp3"
       }
     ],
-    "magma_url": "https://opal-sapphire-leaf-spark.grok.me/"
+    "magma_url": "https://opal-sapphire-leaf-spark.grok.me/",
+    "artist_url": "/artists/naked-nuras-loves-rave/",
+    "released": "18 Sep 2026"
   },
   {
-    "slug": "discrete-geometry",
-    "title": "Discrete Geometry",
+    "slug": "pansonic",
+    "title": "Pansonic",
+    "artist": "Naked Nuras Loves Rave",
     "cat_label": "AMBIENT",
     "cats": [
       "ambient",
-      "nlsrecords"
+      "ambient electronic sound",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
     ],
-    "summary": "Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely using a different…",
-    "body": "Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely using a different way to build the compositions from the same producer Naked Nuras Loves Rave. These tracks are entirely played using analogue synths and instruments and […]",
-    "cover": "",
-    "shop_url": "",
-    "year": "2020"
+    "summary": "The moment you step off you bed and into the desk, the separation of the world is at the most exceptional movement in an instance. The idea coming from your…",
+    "body": "The moment you step off you bed and into the desk, the separation of the world is at the most exceptional movement in an instance. The idea coming from your mind as a psychological response to the music in your device, playing to the dance you bring to your portal of creativity. The digital world can identify your mood, the diaspora of social engineered prison of your mental state, the disregarding of private live of the creator, noise from the street, the people you live with and the connection on social network all is a force by your own network of your mentalism. The noise left you wondering how long you have time to work before your hours of creativeness is left, how emails and messages, shouting or bleeps from your laptop or cell phone starts to send you off into another space in front of you. The fact is clear, we are constantly bombarded with ideas, sound field and visual synthesia. When you sleep your mind have dream of unwanted messages, images or character of an unknown reason. The rime of state of sleep can be rather like the internet, the portal to a world you have yet to discover. (The SARC oncogene)",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Rosalyn",
+        "duration": "9:22"
+      },
+      {
+        "n": 2,
+        "title": "Step of Emergency Part 1",
+        "duration": "14:29"
+      },
+      {
+        "n": 3,
+        "title": "Step of Emergency Part 2",
+        "duration": "14:18"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/pansonic.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/pansonic",
+    "year": "2023",
+    "released": "13 Oct 2023",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "nonlineari",
+    "title": "NONLINEARI",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "downtempo",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo experimental",
+      "experimental ambient"
+    ],
+    "summary": "It is an infinite composition or not of competition instead looking for ways to design and improve the technical side of things but of course one that you are…",
+    "body": "It is an infinite composition or not of competition instead looking for ways to design and improve the technical side of things but of course one that you are following the people who is more capable of designing an infinite state of loop in Sound Design but correct me for waiting on the next project these practices are worth exploring.\n\nprecision of a musician\nThe concept of rhythmic precision is all about having the control to perform rhythms accurately every time we play. People argue that good, organic music has a loose feel, and I agree with that. But even that loose feeling needs to be accurately executed for it to sound loose at all times.\n\nIn our relational universe, memory can be conceived by the collapse of any system. I like, remembering, reconnecting and doesn't have to be reflections or nostalgia about some information like chaos has an explanation in random solo equations....",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Louder at Midnight",
+        "duration": "5:32"
+      },
+      {
+        "n": 2,
+        "title": "Tissue",
+        "duration": "2:27"
+      },
+      {
+        "n": 3,
+        "title": "HipHop Technics",
+        "duration": "0:27"
+      },
+      {
+        "n": 4,
+        "title": "Seven Discrete Dimensions (Hidden Bside Remix)",
+        "duration": "4:15"
+      },
+      {
+        "n": 5,
+        "title": "Tetron in Growth Hormones",
+        "duration": "6:57"
+      },
+      {
+        "n": 6,
+        "title": "Upper Decker Ninja",
+        "duration": "3:55"
+      },
+      {
+        "n": 7,
+        "title": "Who Cares about the Distance",
+        "duration": "4:38"
+      },
+      {
+        "n": 8,
+        "title": "Jet (NNLR Remix)",
+        "duration": "11:55"
+      },
+      {
+        "n": 9,
+        "title": "ENL",
+        "duration": "3:16"
+      },
+      {
+        "n": 10,
+        "title": "Pascal Triagulation (with Peter Gardiner)",
+        "duration": "2:25"
+      },
+      {
+        "n": 11,
+        "title": "Satori (with Yuki Kai)",
+        "duration": "6:12"
+      },
+      {
+        "n": 12,
+        "title": "Message from Her Mastermind",
+        "duration": "4:08"
+      },
+      {
+        "n": 13,
+        "title": "The Fifth Wave",
+        "duration": "14:29"
+      },
+      {
+        "n": 14,
+        "title": "The Project Declaimer Third",
+        "duration": "10:41"
+      },
+      {
+        "n": 15,
+        "title": "Average Reason",
+        "duration": "4:27"
+      },
+      {
+        "n": 16,
+        "title": "Como io Como io",
+        "duration": "4:56"
+      },
+      {
+        "n": 17,
+        "title": "Standard English",
+        "duration": "3:35"
+      },
+      {
+        "n": 18,
+        "title": "Fader Fox",
+        "duration": "13:29"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/nonlineari.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/nonlineari",
+    "year": "2023",
+    "released": "2 Jun 2023",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "soul-sonic",
+    "title": "Soul Sonic",
+    "artist": "Jimmy Howe",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient experimental",
+      "ambient minimal",
+      "ambient techno",
+      "didm",
+      "idm"
+    ],
+    "summary": "From the refinery: From the side country to the backcountry, a tour that group of youngster share with the new mountain range. Foremost the region is hard to…",
+    "body": "From the refinery:\n\nFrom the side country to the backcountry, a tour that group of youngster share with the new mountain range. Foremost the region is hard to reach for and our guide is as awesome as man who have dominated this sport for decades. The kindness, caring and strong she is, as well as natural beauty with the perfect movement and standing from great command on her boarding.\n\nThe way as a tall kind of girl, slim but strong…, appeal more to these girls that define the best out of anyone, and that is a pro, with creative, energetic and most of all, cool. Soon the status if they know they have all earn their turns and make the most of each run, awesome run and unbelievable geometrics, biometric higher than most peaks they run on.., turning in high speed pulling out the turns, and spins, each with form, is unbelievable.\n\nThe legacy of those lines, the mountain did no justice, does no harm's way…. As the way the acknowledgement of a society, and the common goal to contour the range as freestyle and ride solitary..with you or another friend, your soul mate, the one who saves you, maybe.\n\nThe intended character should be a young woman who need to come to term with herself with her wish to start a family, and with the struggle between her life in the mountains and the county she grown up in Japan, a distance that she wants from knowing she rather travel the world then seeking love in her life.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Soul Sonic",
+        "duration": "2:58"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/soul-sonic.jpg",
+    "shop_url": "https://jimmyhowe.bandcamp.com/track/soul-sonic",
+    "year": "2023",
+    "released": "27 Jan 2023",
+    "artist_url": "/artists/jimmy-howe/"
   },
   {
     "slug": "echo-clone-internet-2",
     "title": "Echo Clone (Internet 2)",
-    "cat_label": "BEATS",
+    "artist": "Jimmy Howe",
+    "cat_label": "AMBIENT",
     "cats": [
-      "beats"
+      "ambient",
+      "ambient experimental",
+      "ambient minimal",
+      "didm",
+      "idm",
+      "instrumental"
     ],
-    "summary": "Design. and arranged all by Linear Perc.",
-    "body": "Design. and arranged all by Linear Perc.",
-    "cover": "",
-    "shop_url": "",
-    "year": null
+    "summary": "Remarks: Science of silence I have seen their point of views and their sight of the post modernist. What have I had to conclude or collude with these post…",
+    "body": "Remarks:\nScience of silence\nI have seen their point of views and their sight of the post modernist. What have I had to conclude or collude with these post modernist at most in some dance off parties or some luxury clothing brands oral's montague.\nIn the most, and of the most of course is all in their interest for almost in the warmest and highest regards to gain their popularity. A show for show, and most popularized variety shows. It is no long 1917, and for the establishment on POP-ART have been with us for 50 years, and the art world in the last century is so hard to learn from the best of the best, as an artists?\nKitsch art, post modernism and street art. Minimalism, Dada and the rest is already historically manifesto with NFT and token arts in the last few years.\nTechnologies and art will always be at the forefront of the artworld, although unlikely coming from me or in my writing, that this kind of art movement in visual and sound have been pretty much a quick glance over there and here for another outlook. What does it really suppose to sound like and feel like when you should pay any attention towards their future, our future as post human actively looking for a mechanical reproduction or a copy on originality. I have the role of being an artist and a technologist cannot help you to reflectively paid attention to an art world of diversity, gender or racial determinism in the daylighting of how the Situ in the art world is colluding with entertainment, politic and the climate change.\nAnybody with the right kind of mind would noticed how unjust and bias is the artworld is doing at the moment, by bring in all them street artists to say paint in the legal space and equally saying stop what you are doing since we will provide you a shelter and refuge so you can be safer from the streets. In another sense, painters are divided by the standardization of policy and political will or what we known them as reformed artists, mostly coming from China since the 80's when they are gathering their pace to\nproduce less propaganda art and begin their self expressionistic thinking about art and society and their role to their uncanny way of runaway success as the 90's and 2K hits and miss, with their independent thinking about not giving up a career as an artists.\nAt least to say thinking it will last forever to be a complete successful career guarantee by the Western Institutions. These run away success, literally saying finger up to the State, and you know it ain't the United States.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Internet walking out because is too loud",
+        "duration": "5:05"
+      },
+      {
+        "n": 2,
+        "title": "Echo Clone",
+        "duration": "5:13"
+      },
+      {
+        "n": 3,
+        "title": "State",
+        "duration": "4:25"
+      },
+      {
+        "n": 4,
+        "title": "Elemental",
+        "duration": "7:18"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/echo-clone-internet-2.jpg",
+    "shop_url": "https://jimmyhowe.bandcamp.com/album/echo-clone-internet-2",
+    "year": "2022",
+    "released": "17 Dec 2022",
+    "artist_url": "/artists/jimmy-howe/"
+  },
+  {
+    "slug": "distant-static",
+    "title": "Distant Static",
+    "artist": "ITEM",
+    "cat_label": "NLS",
+    "cats": [],
+    "summary": "Distant static is a collection of tracks created over a period of six months. It documents a time of freeform experimentation creating patches on digital and…",
+    "body": "Distant static is a collection of tracks created over a period of six months. It documents a time of freeform experimentation creating patches on digital and analog synthesizers, sometimes mixed with field recordings. The results are some moody ambient and drone pieces or more rythmic loop based compositions.\n\nITEM is a French producer and sound designer. He lives in Copenhagen.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Incomplete Opcode",
+        "duration": "5:20"
+      },
+      {
+        "n": 2,
+        "title": "Overflow",
+        "duration": "3:12"
+      },
+      {
+        "n": 3,
+        "title": "Recursion",
+        "duration": "5:40"
+      },
+      {
+        "n": 4,
+        "title": "Outer Space",
+        "duration": "4:20"
+      },
+      {
+        "n": 5,
+        "title": "A Quatre",
+        "duration": "3:28"
+      },
+      {
+        "n": 6,
+        "title": "The waves of Nazaré",
+        "duration": "4:00"
+      },
+      {
+        "n": 7,
+        "title": "Signal",
+        "duration": "4:08"
+      },
+      {
+        "n": 8,
+        "title": "Crumbling rock",
+        "duration": "4:37"
+      },
+      {
+        "n": 9,
+        "title": "Rainforest",
+        "duration": "5:09"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/distant-static.jpg",
+    "shop_url": "https://nlsrecords.bandcamp.com/album/distant-static",
+    "year": "2021",
+    "released": "29 Apr 2021"
+  },
+  {
+    "slug": "discrete-geometry",
+    "title": "Discrete Geometry",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely…",
+    "body": "Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely using a different way to build the compositions from the same producer Naked Nuras Loves Rave. These tracks are entirely played using analogue synths and instruments and then following the same step with ADC to DAC for their use in the mastering studio by Anne Taegert at D&M, Berlin.\n\nThe concept behind the project is if human’s will find water on MARS. The planet exploration of finding water towards transport in a system of flow trap TAXON. The planet forms the furthest point of that network using the basic method of solenoidal, vector, block code and an algorithm of an artificial: machine made structure to create a never seen before geometry of hidden world landscapes in space.\n\nAttuned to the shape of form structures with music concrete/experimental sound of predawn hip-hop in Hong Kong late night sessions. Taped cassettes, Minidisc and early sampling SSD format would change the directions of Naked Nuras Loves Rave's multitracks studio layout and back in to a post analogue movement with DAC-ADC using only selective loudness of these instruments and juxtaposition of percussion and modern drum machine(TR08) and loops, mixing down a live recording solo album.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "ASCII",
+        "duration": "10:08"
+      },
+      {
+        "n": 2,
+        "title": "Not Observe Vanity Affair",
+        "duration": "2:20"
+      },
+      {
+        "n": 3,
+        "title": "Blind Landing Blind (Aveugle Atterrissage Aveugle)",
+        "duration": "6:02"
+      },
+      {
+        "n": 4,
+        "title": "Notch",
+        "duration": "3:10"
+      },
+      {
+        "n": 5,
+        "title": "Project LINDENMEYER",
+        "duration": "8:03"
+      },
+      {
+        "n": 6,
+        "title": "Entry to The Desert",
+        "duration": "5:12"
+      },
+      {
+        "n": 7,
+        "title": "Project Gutenberg",
+        "duration": "2:48"
+      },
+      {
+        "n": 8,
+        "title": "Project Gutenberg II",
+        "duration": "2:48"
+      },
+      {
+        "n": 9,
+        "title": "Discrete Geometry",
+        "duration": "3:25"
+      },
+      {
+        "n": 10,
+        "title": "Entry to the Desert (A1002)",
+        "duration": "5:11"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/discrete-geometry.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/discrete-geometry",
+    "year": "2021",
+    "released": "15 Jan 2021",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "they-building-this-old-brompton-dome",
+    "title": "They building this (old Brompton dome)",
+    "artist": "Jimmy Howe",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient experimental",
+      "ambient minimal",
+      "didm",
+      "idm",
+      "instrumental"
+    ],
+    "summary": "This track work like a defunct of the idea when we can no longer function and accepted the experiment for representing a strategic system of seeing only…",
+    "body": "This track work like a defunct of the idea when we can no longer function and accepted the experiment for representing a strategic system of seeing only surface. And almost connecting upon the concept of high plateau network and budding buildings of a highly dream like disjuncture of manifestation inside the David Bowie's ambient disco, Projecting sound.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "They building this (old Brompton dome)",
+        "duration": "7:47"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/they-building-this-old-brompton-dome.jpg",
+    "shop_url": "https://jimmyhowe.bandcamp.com/track/they-building-this-old-brompton-dome",
+    "year": "2020",
+    "released": "19 Sep 2020",
+    "artist_url": "/artists/jimmy-howe/"
   },
   {
     "slug": "nach-dem-sturm",
     "title": "Nach Dem Sturm",
+    "artist": "Naked Nuras Loves Rave",
     "cat_label": "AMBIENT",
     "cats": [
       "ambient",
-      "nlsrecords"
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
     ],
-    "summary": "Nach Dem Sturm – translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the recording is done while…",
-    "body": "Nach Dem Sturm – translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the recording is done while the storm lasted, sunrises and calmness’ arrival. creditsreleased May 16, 2020Master Engineer – Matt Colton @ Metropolis London, U.K.",
-    "cover": "",
-    "shop_url": "",
-    "year": null
+    "summary": "Nach Dem Sturm - translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the…",
+    "body": "Nach Dem Sturm - translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the recording is done while the storm lasted, sunrises and calmness' arrival.\n\nMaster Engineer - Matt Colton @ Metropolis London, U.K.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Nach Dem Sturm",
+        "duration": "5:37"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/nach-dem-sturm.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/track/nach-dem-sturm",
+    "year": "2020",
+    "released": "16 May 2020",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
   },
   {
-    "slug": "nonlineari",
-    "title": "Nonlineari",
+    "slug": "difficult-by-default",
+    "title": "Difficult by Default",
+    "artist": "Shoestrüng",
     "cat_label": "AMBIENT",
     "cats": [
       "ambient",
-      "nlsrecords",
-      "technoji"
+      "cellblock",
+      "hong kong sounds",
+      "nls records",
+      "ambient electronic pop",
+      "cellblock9"
     ],
-    "summary": "Nonlineari — Naked Nuras Loves Rave. New album on NLS Records.",
-    "body": "Nonlineari — looking for music in Nonlinear(i). Naked Nuras Loves Rave. Electronic / electronica on NLS Records. Tracks include Louder at Midnight, Tissue, Seven Discrete Dimensions, Tetron in Growth Hormones, Upper Decker Ninja, Who Cares about the Distance.",
-    "cover": "/assets/covers/nonlineari.jpg",
-    "shop_url": "",
-    "year": null
+    "summary": "There are always a way to interpret a past. It is a classic Shoestrüng playing on his sensibilities of layers, drones and textures, etherial synths and…",
+    "body": "There are always a way to interpret a past. It is a classic Shoestrüng playing on his sensibilities of layers, drones and textures, etherial synths and rhythmic looping melodies.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Difficult By Default",
+        "duration": "4:43"
+      },
+      {
+        "n": 2,
+        "title": "Ordinance",
+        "duration": "4:18"
+      },
+      {
+        "n": 3,
+        "title": "Perturbance",
+        "duration": "3:02"
+      },
+      {
+        "n": 4,
+        "title": "Resurgence",
+        "duration": "2:26"
+      },
+      {
+        "n": 5,
+        "title": "Semblance",
+        "duration": "5:54"
+      },
+      {
+        "n": 6,
+        "title": "To Those That Depend On Meme",
+        "duration": "6:39"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/difficult-by-default.jpg",
+    "shop_url": "https://shoestrung.bandcamp.com/album/difficult-by-default",
+    "year": "2020",
+    "released": "20 Apr 2020"
+  },
+  {
+    "slug": "temporary-cassette",
+    "title": "Temporary Cassette",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "Audio in Temporary Cassette is presented to a larger urban context of cities, I needed to achieve the supporting Patrons to build; in this sense, the finding…",
+    "body": "Audio in Temporary Cassette is presented to a larger urban context of cities, I needed to achieve the supporting Patrons to build; in this sense, the finding of my research throughly by networking environment/equation monetarily and it is no long a cahou in the identity for next position of artnets. But it is the signified horizontal achievement within the open-source area is varied by the integration of digital integrity, and with your help to pre-conceptualize my principle work on the virtual state, the movement on visual music in Hong Kong will have to be more impending on my process to create my vertical-lateral movement from your global support.\n\nIn the new digital milieu of science and engineering, visual in sound are separated from projection the emptiness of space with music that has to find identity through the transitional isolationist, of our noisy, densification: architectonica in digital filmmaking.\n\nThe main idea comes from the architectonica or movements that can only constructed by modularity on visual sound formations and to produce a spatial temporal philosophy via programming the visual using Processing™ software in the opensource project IDE by a various method for cutting, resample and editing.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Artifactura-IV",
+        "duration": "10:43"
+      },
+      {
+        "n": 2,
+        "title": "Temporary Cassette",
+        "duration": "4:22"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/temporary-cassette.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/temporary-cassette",
+    "year": "2020",
+    "released": "20 Mar 2020",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "a-visualist-ost",
+    "title": "A.Visualist OST",
+    "artist": "NLS Records",
+    "cat_label": "NLS",
+    "cats": [
+      "avisualist",
+      "nlsrecords",
+      "ost",
+      "visualist film"
+    ],
+    "summary": "Soundtrack to a documentary film. Trailer: https://vimeo.com/22017891",
+    "body": "Soundtrack to a documentary film.\n\nTrailer: https://vimeo.com/22017891\n\nScanner",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Adagio",
+        "duration": "2:39"
+      },
+      {
+        "n": 2,
+        "title": "Griffin",
+        "duration": "5:42"
+      },
+      {
+        "n": 3,
+        "title": "Memories More",
+        "duration": "5:43"
+      },
+      {
+        "n": 4,
+        "title": "Mutant Jazz",
+        "duration": "3:20"
+      },
+      {
+        "n": 5,
+        "title": "Opening",
+        "duration": "4:10"
+      },
+      {
+        "n": 6,
+        "title": "Pulse",
+        "duration": "2:55"
+      },
+      {
+        "n": 7,
+        "title": "Urgent",
+        "duration": "4:31"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/a-visualist-ost.jpg",
+    "shop_url": "https://nlsrecords.bandcamp.com/album/a-visualist-ost",
+    "year": "2020",
+    "released": "11 Mar 2020"
+  },
+  {
+    "slug": "tet-loreus-src",
+    "title": "Tet Loreus (src)",
+    "artist": "Jimmy Howe",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "nls records",
+      "ambient experimenta",
+      "ambient experimental",
+      "ambient minimal",
+      "didm"
+    ],
+    "summary": "I created this album out of the temperature of the studio’s renaissance process. I would be trying difference techniques via recording through a proper mixer,…",
+    "body": "I created this album out of the temperature of the studio’s renaissance process. I would be trying difference techniques via recording through a proper mixer, onto cassette tape and then back into the computer. I was looking for watery sound, looking at the differences in warmth during sunrise coming through the window, windiest timing during a typhoon and the emptiness in the atmospheric space within the building after 3am. The sound of the drone is like a click and signal that when the synths are left on for days…it is all about the timing when you begins to recording the next phases and using the most basic rhythms to create a very basic tonal sound, almost linear without layers of complexity that each take is live recorded and balance by the weight of the most subliminal noise and sound.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Tet Loreus (src)",
+        "duration": "7:55"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/tet-loreus-src.jpg",
+    "shop_url": "https://jimmyhowe.bandcamp.com/track/tet-loreus-src",
+    "year": "2020",
+    "released": "24 Feb 2020",
+    "artist_url": "/artists/jimmy-howe/"
+  },
+  {
+    "slug": "ascii2-88-infinite-states",
+    "title": "ASCII2-88 (infinite states)",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "drone ambient",
+      "experimental ambient"
+    ],
+    "summary": "From shifting synthesizers’ backend input to compressor sidechains that these cylindrical notion on generators as a moving baseline almost imperfect and…",
+    "body": "From shifting synthesizers’ backend input to compressor sidechains that these cylindrical notion on generators as a moving baseline almost imperfect and chinoise from an industries of tunnel downpull of sequential order for pattern analogical frequency. NNLR intention to slow shifting through the voices of affective the visual monotonous field dark, intense graphic interface, draws from the smooth distilled. and running through river glide before the sunrise submersed once between time after times.\n\nMy advise to play your setup from the most analogue system to enjoy the downpour of noise gates as if you want the sound to drop off as halve as noises and another halve for compressions.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "ASCII2-88 (infinite states)",
+        "duration": "8:52"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/ascii2-88-infinite-states.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/track/ascii2-88-infinite-states",
+    "year": "2019",
+    "released": "16 Nov 2019",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "ascii8",
+    "title": "ASCII8",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "A Title that speaks about movement of ASCII code and the art of coding in ASCII languages. QUANTIZED ALGORITHM IN A PRIORI OF DETERMINE DETERMINANT SEQUENCE…",
+    "body": "A Title that speaks about movement of ASCII code and the art of coding in ASCII languages.\n\nQUANTIZED ALGORITHM\n\nIN A PRIORI OF DETERMINE DETERMINANT SEQUENCE OF TIME\nDESTINE OF DETERMINANT IN TIME AND SPACE QUANTIZE\nA SET OF ALGORITHMIC SEQUENCE OF SPACE IN QUANTIZE.\n\nIn general, for a N-order ΔΣ modulator, the variance of the in-band quantization noise is:..ASCII.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "ASCII8",
+        "duration": "10:06"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/ascii8.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/track/ascii8",
+    "year": "2019",
+    "released": "8 Oct 2019",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "hidden-gutenberg",
+    "title": "Hidden Gutenberg",
+    "artist": "Jimmy Howe",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient experimental",
+      "ambient tech",
+      "jimmy webb",
+      "nls records",
+      "ambient minimal"
+    ],
+    "summary": "Inadequacy towards humanity, I'm proceeding to tell the story base on the appalling differences, of temperamental of the artificial intelligent system within…",
+    "body": "Inadequacy towards humanity, I'm proceeding to tell the story base on the appalling differences, of temperamental of the artificial intelligent system within the George Orwellian world that give us a glimpse of\na parallelism of Intel terrorism and totalitarianism; by Interpretative grid of pulsar production and of divisions.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Hidden Gutenberg",
+        "duration": "3:21"
+      },
+      {
+        "n": 2,
+        "title": "Vicissitudes Ambient",
+        "duration": "13:09"
+      },
+      {
+        "n": 3,
+        "title": "The Vanishing Slip",
+        "duration": "9:46"
+      },
+      {
+        "n": 4,
+        "title": "iSCT 2100",
+        "duration": "3:09"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/hidden-gutenberg.jpg",
+    "shop_url": "https://jimmyhowe.bandcamp.com/album/hidden-gutenberg",
+    "year": "2019",
+    "released": "24 Aug 2019",
+    "artist_url": "/artists/jimmy-howe/"
+  },
+  {
+    "slug": "book-of-formations",
+    "title": "Book of Formations",
+    "artist": "JS-Horseman",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "experimental",
+      "jimmy howe",
+      "nls records",
+      "network equation",
+      "ambient",
+      "ambient electronic"
+    ],
+    "summary": "Experimental composer, sound artist, visual artist, J S-Horseman (Jeremy Santiago-Horseman) works with microphone recording, modular synthesis, noise,…",
+    "body": "Experimental composer, sound artist, visual artist,\nJ S-Horseman (Jeremy Santiago-Horseman) works with microphone recording, modular synthesis, noise, acoustic instrumental and vocal composition, with emphasis on the recording formats of tape concrete and experimental vinyl recording.\n\nThe ambient experimental album by JS-Horseman was produced in 2017. JS use tapes manipulation and recording device in analogue machines to produce a sound that airy echo through the thin atmosphere to create an ambient sound of strange structural landscapes composition of earthly tones.\n\nlocation: Philadelphia, USA",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "BraneWaves",
+        "duration": "7:00"
+      },
+      {
+        "n": 2,
+        "title": "Epistasis",
+        "duration": "3:36"
+      },
+      {
+        "n": 3,
+        "title": "Vacuum(Violet Green)",
+        "duration": "7:20"
+      },
+      {
+        "n": 4,
+        "title": "(mem)BraneWaves",
+        "duration": "7:49"
+      },
+      {
+        "n": 5,
+        "title": "Infrastructures I",
+        "duration": "4:32"
+      },
+      {
+        "n": 6,
+        "title": "Infrastructures II",
+        "duration": "4:34"
+      },
+      {
+        "n": 7,
+        "title": "Infrastructures III",
+        "duration": "3:12"
+      },
+      {
+        "n": 8,
+        "title": "Nebulium",
+        "duration": "7:08"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/book-of-formations.jpg",
+    "shop_url": "https://jshorseman.bandcamp.com/album/book-of-formations",
+    "year": "2019",
+    "released": "25 Jul 2019"
+  },
+  {
+    "slug": "common-information-model",
+    "title": "Common Information Model",
+    "artist": "Common Information Model",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "nls records",
+      "nlsresearch",
+      "ambient experimental",
+      "nonlineari"
+    ],
+    "summary": "Despite the name, the approach is only loosely linked to biological evolution, the researchers say in a blog post announcing their results. On an abstract…",
+    "body": "Despite the name, the approach is only loosely linked to biological evolution, the researchers say in a blog post announcing their results. On an abstract level, it relies on allowing successful individuals to pass on their characteristics to future generations. The researchers have taken these algorithms and reworked them to work better with deep neural networks and run on large-scale distributed computing systems\n\nreference from\nhttp://blog.openai.com",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Abscissa Warfare(Juri_HIFlow Session)",
+        "duration": "3:14"
+      },
+      {
+        "n": 2,
+        "title": "ACSII Engine",
+        "duration": "3:04"
+      },
+      {
+        "n": 3,
+        "title": "Micro Condition(Ambient Form)",
+        "duration": "3:39"
+      },
+      {
+        "n": 4,
+        "title": "Neural Network(ATHX XV)",
+        "duration": "3:09"
+      },
+      {
+        "n": 5,
+        "title": "United ATHOM XXI",
+        "duration": "20:58"
+      },
+      {
+        "n": 6,
+        "title": "Citizen's XY",
+        "duration": "3:36"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/common-information-model.jpg",
+    "shop_url": "https://commoninformationmodel.bandcamp.com/album/common-information-model",
+    "year": "2019",
+    "released": "25 Jul 2019"
+  },
+  {
+    "slug": "metaphysical-dream",
+    "title": "Metaphysical Dream",
+    "artist": "Superargoproject",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "nls records",
+      "network equation",
+      "ambient experimental",
+      "dark ambient",
+      "italy"
+    ],
+    "summary": "SUPERARGOPROJECT was born in 2015, when multi-instrumentalist Francesco Bolognini decided to retire to the tranquillity of his country home to focus on laying…",
+    "body": "SUPERARGOPROJECT was born in 2015, when multi-instrumentalist Francesco Bolognini decided to retire to the tranquillity of his country home to focus on laying down his first album as a solo artist.\n\nThe metaphysics of SuperArgoProject have made a parallelism between ambient and the experimental, in fact if the tension between NLS Records and SUPERARGOPROJECT, someone who definitely have a resonate towards the sounds that he create and indeed the resonance of the minimal aspectio is completely architectonic.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Last Words",
+        "duration": "8:16"
+      },
+      {
+        "n": 2,
+        "title": "Colossus",
+        "duration": "6:24"
+      },
+      {
+        "n": 3,
+        "title": "The Rebirth",
+        "duration": "7:40"
+      },
+      {
+        "n": 4,
+        "title": "Planet Earth",
+        "duration": "5:40"
+      },
+      {
+        "n": 5,
+        "title": "Metaphysical Dream",
+        "duration": "4:58"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/metaphysical-dream.jpg",
+    "shop_url": "https://superargoproject.bandcamp.com/album/metaphysical-dream",
+    "year": "2019",
+    "released": "25 Jul 2019"
+  },
+  {
+    "slug": "project-a-a-ver-4-various-artists",
+    "title": "Project AØA ver.4 Various Artists",
+    "artist": "NLS Records",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "networkequation",
+      "ambient",
+      "ambient electronic",
+      "ambient experimental"
+    ],
+    "summary": "Project AØA is an inception for various artists per sa Audio øn Audio, reason is simplicity with the connecting algorithmic system to create hardware or…",
+    "body": "Project AØA is an inception for various artists per sa Audio øn Audio, reason is simplicity with the connecting algorithmic system to create hardware or software to accompany the sound made by producer to fill in that unique void in NLS(online system.)\n\nThe USB Drive will host the album of any Project AØA",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Superargoproject (IT) - Metaphysical Dream",
+        "duration": "4:58"
+      },
+      {
+        "n": 2,
+        "title": "JS-Horseman (US) - Nebulium",
+        "duration": "7:08"
+      },
+      {
+        "n": 3,
+        "title": "Red Pig Flower (JP/KR) - Hope For Happiness",
+        "duration": "5:27"
+      },
+      {
+        "n": 4,
+        "title": "ITEM (FR) - Across the Tracks",
+        "duration": "4:37"
+      },
+      {
+        "n": 5,
+        "title": "Naked Nuras Loves Rave - 1026",
+        "duration": "3:17"
+      },
+      {
+        "n": 6,
+        "title": "ITEM (FR) - A Quatre",
+        "duration": "3:28"
+      },
+      {
+        "n": 7,
+        "title": "Floatation Research Files (UK) - Time Based Textures",
+        "duration": "10:33"
+      },
+      {
+        "n": 8,
+        "title": "Superargoproject (IT) - Colossus",
+        "duration": "6:18"
+      },
+      {
+        "n": 9,
+        "title": "Tryst (NL/UK) - Spirals",
+        "duration": "6:17"
+      },
+      {
+        "n": 10,
+        "title": "Admir Korjenic (NO) - Udaeus",
+        "duration": "10:05"
+      },
+      {
+        "n": 11,
+        "title": "Admir Korjenic (NO) - Regio",
+        "duration": "5:21"
+      },
+      {
+        "n": 12,
+        "title": "Naked Nuras Loves Rave (HK) - Softdrive",
+        "duration": "2:07"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      },
+      {
+        "name": "Limited Edition USB ProjectAØA ver.4 Drive",
+        "detail": "USB Flash Drive",
+        "sku": "NE-LEUP"
+      }
+    ],
+    "cover": "/assets/covers/project-a-a-ver-4-various-artists.jpg",
+    "shop_url": "https://nlsrecords.bandcamp.com/album/project-a-a-ver-4-various-artists",
+    "year": "2019",
+    "released": "25 Jul 2019"
+  },
+  {
+    "slug": "ficcioni",
+    "title": "Ficcioni",
+    "artist": "Paul Prudence",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "nls",
+      "ambient",
+      "audiovisual",
+      "nlsrecords",
+      "visualist",
+      "visualmusic"
+    ],
+    "summary": "Read the Reviews on Neural Magazine http://neural.it/2020/01/paul-prudence-ficciones/",
+    "body": "Read the Reviews on Neural Magazine\nhttp://neural.it/2020/01/paul-prudence-ficciones/\n\n'Weaving together the soft accents of field-recordings, microscopic sound fragments and modular synthesis, the pieces fluctuate between the machine-like and the organic, and sometimes combine the two to create a complex sonic ecology. With forensic precision modular rhythmic collages have been grafted onto subtle melodic phrases; stuttering percussive structures are held in orbit by elliptical sinusoidal drones. The pieces are seen as being audio-visual experiences without the visual part. The tracks create a sense of motion in space, kinetic activity and cue the existence of teeming entities.'",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Acusmutt",
+        "duration": "3:12"
+      },
+      {
+        "n": 2,
+        "title": "Voxelles",
+        "duration": "3:47"
+      },
+      {
+        "n": 3,
+        "title": "Olaf",
+        "duration": "4:03"
+      },
+      {
+        "n": 4,
+        "title": "Epha",
+        "duration": "1:58"
+      },
+      {
+        "n": 5,
+        "title": "Ersilia",
+        "duration": "5:10"
+      },
+      {
+        "n": 6,
+        "title": "Sci Tint",
+        "duration": "3:49"
+      },
+      {
+        "n": 7,
+        "title": "Obsidian",
+        "duration": "5:19"
+      },
+      {
+        "n": 8,
+        "title": "Gravity Map",
+        "duration": "6:35"
+      },
+      {
+        "n": 9,
+        "title": "Pyrean",
+        "duration": "5:39"
+      },
+      {
+        "n": 10,
+        "title": "Bowls",
+        "duration": "5:30"
+      },
+      {
+        "n": 11,
+        "title": "Myriorama I",
+        "duration": "4:31"
+      },
+      {
+        "n": 12,
+        "title": "Myriorama II",
+        "duration": "2:50"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      },
+      {
+        "name": "Limited Edition Double Vinyl",
+        "detail": "2 x Vinyl LP",
+        "sku": "NR-F-LEDV"
+      }
+    ],
+    "cover": "/assets/covers/ficcioni.jpg",
+    "shop_url": "https://nlsrecords.bandcamp.com/album/ficcioni",
+    "year": "2019",
+    "released": "1 May 2019"
+  },
+  {
+    "slug": "tekton-dfuse",
+    "title": "Tekton-[DFUSE]",
+    "artist": "Matthias Kispert",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "idm",
+      "nls records",
+      "ambient electronic",
+      "classic ambient",
+      "minimal ambient"
+    ],
+    "summary": "Particle alludes to the fragmented reality of everyday life, deconstructing the urban fabric to reveal a city that exists as much in an immaterial web of…",
+    "body": "Particle alludes to the fragmented reality of everyday life, deconstructing the urban fabric to reveal a city that exists as much in an immaterial web of connections as it does in actual space. In todayʼs cities, new spaces have appeared along the places we know and live in: spaces of flows, webs of connections for communication, exchange and control that have come to transcend the limitations of actual physical space. In what is one of the main driving forces behind globalisation, traditional ideas of territory have almost been dissolved, while new centres of power are emerging at the nodal points that regulate the flows of global networks.\n\nAnd instead we are designing an early scratch record without vocal in capacities of a theme, a kind of metadata principle on information design from a virtual dialogue of manifestation on soundtracks. The analogies of spatial construct format for asymmetric signifier sound. A simple of visual graphic is transformation over rotating cut-up mode as [R/t=n] and then whatever the pathological condition of spatial converted source and pattern are universally an experimental, if not architectural theory in generative art. For approaching the documented condition, an arrangements for connecting sequence of elements are graphic and data range.\nWhatever is systematically triggered the principle re-arrangements of the short and long numbers are completely a movement of formats and of warrants on Pi's generative equalities or generally randomizing by repeat.\n\nNonlinear Records have been building a website for creators to engineer not only facts of essentially the brains to building a system for visualist and performing artists, we call these engineers because they create projects like programmer, and in the order of changing the landscape of the art world by a post.human post.modernist idea of embodiment to create their design that has experimentation and novel to the idea.\n\nVisuals and music is an art of realization such as the condition for controlling temporal and spatial intermediate field for networked performance. Music has the most constant changes for anyone whom can bring to the visuals. And the most common and commanding FORMATS that of space time principles.\nAs we know, Form follow functions and a design for the kind of Informing spatial experience for audience to a set of music they are willing to play.\n\nPreviously released titles: A Visualist Film Sound, Particle (feat. Matthias Kispert & A Visualist) - Single\n\nMichael Faulkner, DFUSE",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "London Conversation Cut -1",
+        "duration": "3:29"
+      },
+      {
+        "n": 2,
+        "title": "Particle 05",
+        "duration": "8:00"
+      },
+      {
+        "n": 3,
+        "title": "Particle 06",
+        "duration": "4:55"
+      },
+      {
+        "n": 4,
+        "title": "Particle 08",
+        "duration": "7:50"
+      },
+      {
+        "n": 5,
+        "title": "Particle Beats Cut -2-1",
+        "duration": "7:40"
+      },
+      {
+        "n": 6,
+        "title": "Solid State",
+        "duration": "7:18"
+      },
+      {
+        "n": 7,
+        "title": "Tekton 01",
+        "duration": "6:05"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/tekton-dfuse.jpg",
+    "shop_url": "https://nlsrecords.bandcamp.com/album/tekton-dfuse",
+    "year": "2018",
+    "released": "21 Dec 2018",
+    "artist_url": "/artists/matthias-kispert/"
+  },
+  {
+    "slug": "this-is-white-powder-opera",
+    "title": "This Is White Powder Opera",
+    "artist": "Jimmy Howe",
+    "cat_label": "BEATS",
+    "cats": [
+      "ambient",
+      "alternative ambient trip hop",
+      "ambient experimental",
+      "ambient hip-hop",
+      "ambient minimal",
+      "didm"
+    ],
+    "summary": "As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed…",
+    "body": "As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed plasticity\n\nA producer producing tracks that are mostly on how to create a louder, non-classifications and only acceptance from the sameness of knowing that they have an hands on the technologies are merely an outcome of their knowledge on undisruptive flow of sound. The accords on how much hard to choose from an array of instruments, and the new set of tools and choices now producer have over a decade ago, therefore we should have an ensembles of weird, structured and uncategorized functions within the entire collective of sound art and musical genesis…even if we know how dance movement and other formalized sound purpose for performance, de musique du lethargic can be in actuality reflect the human's performance as a diverse specia au pre-temp.\n\nIn the absent with the control in the centralization of real values within the accountable human design, how much do we stress in the order to progress by an idea and not bunch of ideologies that could not prevent the unnecessary stress on the conditionals and the plateaus.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Eheur Abelilçtt",
+        "duration": "3:31"
+      },
+      {
+        "n": 2,
+        "title": "Empls Nlsar",
+        "duration": "4:14"
+      },
+      {
+        "n": 3,
+        "title": "Empls",
+        "duration": "1:41"
+      },
+      {
+        "n": 4,
+        "title": "Empls-A",
+        "duration": "1:51"
+      },
+      {
+        "n": 5,
+        "title": "Lahtelo 01-06-1414",
+        "duration": "2:31"
+      },
+      {
+        "n": 6,
+        "title": "Shellbokau",
+        "duration": "3:58"
+      },
+      {
+        "n": 7,
+        "title": "Shellbouk",
+        "duration": "3:58"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/this-is-white-powder-opera.jpg",
+    "shop_url": "https://jimmyhowe.bandcamp.com/album/this-is-white-powder-opera",
+    "year": "2018",
+    "released": "12 Oct 2018",
+    "artist_url": "/artists/jimmy-howe/"
+  },
+  {
+    "slug": "pho-p",
+    "title": "Phõp",
+    "artist": "Common Information Mødel",
+    "cat_label": "NLS",
+    "cats": [],
+    "summary": "In the level of under standardisation the Marco view of visual society have to become more involving for the elementary form of subjectivity in time of visual…",
+    "body": "In the level of under standardisation the Marco view of visual society have to become more involving for the elementary form of subjectivity in time of visual identity of artist and artTech to formally construct this language of motion design, film and audiovisual; further for the language between levels of constructive and post constructivism, are there much tools to create and less more diatribes to activate la forma grada.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Common Information Mødel - Phõp",
+        "duration": "2:17"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/pho-p.jpg",
+    "shop_url": "https://nlsrecords.bandcamp.com/track/pho-p",
+    "year": "2018",
+    "released": "8 Mar 2018"
+  },
+  {
+    "slug": "project-aoa-ver-2-ep",
+    "title": "Project AOA ver.2",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "By focusing towards the way we produce sound Perhaps we need to focus on how we receive sound The environment is collectively building a data for the network…",
+    "body": "By focusing towards the way we produce sound\n\nPerhaps we need to focus on how we receive sound\n\nThe environment is collectively building a data for the network of sound authority. Now I supposed, we are building a network, within the environment to create collectivity in the impaired like putting a fabric of invisibly to create information that is able to all understanding of subliminal information from data listener.\n\nSide A\nAbscissa Warfare (Juri Hi Flow Session) 03:14\nACSII Engine 03:04\nMicro Condition (Ambient Form) 03:39\nNeural Network (ATHX XV) 03:09\n\nSide B\nUnited ATHOM XXI 20:58\n\ncut & mastering by dubplates-mastering, Berlin Germany\nPressing by MPO France",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Abscissa Warfare (Juri Hi Flow Session)",
+        "duration": "3:14"
+      },
+      {
+        "n": 2,
+        "title": "ACSII Engine",
+        "duration": "3:04"
+      },
+      {
+        "n": 3,
+        "title": "Micro Condition (Ambient Form)",
+        "duration": "3:39"
+      },
+      {
+        "n": 4,
+        "title": "Neural Network (ATHX XV)",
+        "duration": "3:09"
+      },
+      {
+        "n": 5,
+        "title": "A United",
+        "duration": "3:59"
+      },
+      {
+        "n": 6,
+        "title": "United ATHOM XXI",
+        "duration": "20:58"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      },
+      {
+        "name": "Project AOA Ver.2",
+        "detail": "Other Vinyl",
+        "sku": "N-PAV2-PAV2"
+      }
+    ],
+    "cover": "/assets/covers/project-aoa-ver-2-ep.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/project-aoa-ver-2",
+    "year": "2018",
+    "released": "23 Feb 2018",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "simpler-times",
+    "title": "Simpler Times",
+    "artist": "Shoestrüng",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient electronic pop",
+      "idm"
+    ],
+    "summary": "Shoestrüng is a solo project created in 2015. Shoestrüng comes from a variety of creative backgrounds but who's main creative expression are in the Fine Arts…",
+    "body": "Shoestrüng is a solo project created in 2015. Shoestrüng comes from a variety of creative backgrounds but who's main creative expression are in the Fine Arts and Video and Film. His first musical forays in original compositions begin at the age of six. Since then, he has been in various musical groups collaborating in original music writing. The last few years has seen the birth of Shoestrüng as a means of pure musical expressions. At its most simple, engaging in the expression in the passing of time and space and the varied emotions of life expressed through succinct compositions that touch on the depth of personal and the reactionary journey when dealing with people, places and things. He calls Hong Kong home and has for 30+ years. This exposure has played heavily in his personalized approach to sounds and the aura of living in one of the most densely populated places on earth.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Resin",
+        "duration": "4:11"
+      },
+      {
+        "n": 2,
+        "title": "Dissonance",
+        "duration": "4:16"
+      },
+      {
+        "n": 3,
+        "title": "Simpler Times",
+        "duration": "4:37"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/simpler-times.jpg",
+    "shop_url": "https://shoestrung.bandcamp.com/album/simpler-times",
+    "year": "2018",
+    "released": "20 Feb 2018"
+  },
+  {
+    "slug": "motherboards-revolution-agadonia",
+    "title": "Motherboards Revolution Agadonia",
+    "artist": "Common Information Model",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient experimental",
+      "downtempo",
+      "nonlineari"
+    ],
+    "summary": "Music live like water flowing down mountains. As we understand that the patterns from experimental problem is affecting mostly in our populated world; clean…",
+    "body": "Music live like water flowing down mountains. As we understand that the patterns from experimental problem is affecting mostly in our populated world; clean water and drinkable water is going to be a major agenda in parts of the world's more populated countries like India and China. From the inception view, the present environmental projection of the Earth's resources, the spasticity of raw materials and the climate equations and adds up to one thing which is the destruction, but not the reversal in provisional or the improvement of the Earth. What we have here is to understand there are several issue with ocean, warming and extremity in storms, heat and the plateau. The disappearance of glacier in weather and zones if our willingness to change the way we live, and understand the operative modus of long hours in work life, the world is supporting the species in many way and also notion of the earth own eco-system will survive but maybe as a species of the human race we are not yet the survival of the fittest, we are prone to earthquakes, tsunami or super storms, our structure and sound artefactual is not prone, from destruction and food supplies demise.\n\nThis is the same idea that followups my producer series Naked Nuras Loves Rave third EP ©2012-2017 NLS RECORDINGS",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Motherboards Revolution Agadonia",
+        "duration": "3:04"
+      },
+      {
+        "n": 2,
+        "title": "A United Project Limited",
+        "duration": "2:08"
+      },
+      {
+        "n": 3,
+        "title": "Nocturnal Airline",
+        "duration": "2:18"
+      },
+      {
+        "n": 4,
+        "title": "Electricity (Noise Electric Remix)",
+        "duration": "6:15"
+      },
+      {
+        "n": 5,
+        "title": "Citizens XY",
+        "duration": "3:36"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/motherboards-revolution-agadonia.jpg",
+    "shop_url": "https://commoninformationmodel.bandcamp.com/album/motherboards-revolution-agadonia",
+    "year": "2017",
+    "released": "15 May 2017"
+  },
+  {
+    "slug": "state-of-the-rest",
+    "title": "state of the rest",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape…",
+    "body": "Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape within that, we have created an absorption of urban barrels to the absorption in nature and artificiality. Most realistic barriers of pillowing urban hyper-real and sound pockets are what we […]",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "tristar tonends",
+        "duration": "0:53"
+      },
+      {
+        "n": 2,
+        "title": "amtrac has it IV",
+        "duration": "3:04"
+      },
+      {
+        "n": 3,
+        "title": "chaos can",
+        "duration": "9:49"
+      },
+      {
+        "n": 4,
+        "title": "birth of concrete geology",
+        "duration": "2:27"
+      },
+      {
+        "n": 5,
+        "title": "low versel mt",
+        "duration": "6:10"
+      },
+      {
+        "n": 6,
+        "title": "fail to visit",
+        "duration": "3:42"
+      },
+      {
+        "n": 7,
+        "title": "sdsn denied",
+        "duration": "3:25"
+      },
+      {
+        "n": 8,
+        "title": "downtown session",
+        "duration": "1:35"
+      },
+      {
+        "n": 9,
+        "title": "lab 212",
+        "duration": "4:01"
+      },
+      {
+        "n": 10,
+        "title": "semi Rille",
+        "duration": "4:06"
+      },
+      {
+        "n": 11,
+        "title": "semi ville",
+        "duration": "3:16"
+      },
+      {
+        "n": 12,
+        "title": "fallen",
+        "duration": "5:48"
+      },
+      {
+        "n": 13,
+        "title": "randomness teaser",
+        "duration": "0:48"
+      },
+      {
+        "n": 14,
+        "title": "stratus",
+        "duration": "1:08"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/state-of-the-rest.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/state-of-the-rest",
+    "year": "2016",
+    "released": "29 Jul 2016",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "trails-of-the-mind-part-i",
+    "title": "Trails Of the Mind - Part I",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "To define this EP - Rundown Rainforest, it is more like a soundscape of ambient and IDM shaped by hip hop; trip hop. A finds in to world of spiritual sound,…",
+    "body": "To define this EP - Rundown Rainforest, it is more like a soundscape of ambient and IDM shaped by hip hop; trip hop. A finds in to world of spiritual sound, found sound and music concreté.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Trails Of the Mind - Part I",
+        "duration": "9:50"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/trails-of-the-mind-part-i.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/track/trails-of-the-mind-part-i",
+    "year": "2016",
+    "released": "25 Mar 2016",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "trails-of-the-mind-part-ii",
+    "title": "Trails Of the Mind - Part II",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "To define this EP - Rundown Rainforest, it is more like a soundscape of ambient and IDM shaped by hip hop; trip hop. A finds in to world of spiritual sound,…",
+    "body": "To define this EP - Rundown Rainforest, it is more like a soundscape of ambient and IDM shaped by hip hop; trip hop. A finds in to world of spiritual sound, found sound and music concreté.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Trails Of the Mind - Part II",
+        "duration": "3:06"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Track",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/trails-of-the-mind-part-ii.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/track/trails-of-the-mind-part-ii",
+    "year": "2016",
+    "released": "25 Mar 2016",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
+  },
+  {
+    "slug": "rundown-rainforest",
+    "title": "Rundown Rainforest",
+    "artist": "Naked Nuras Loves Rave",
+    "cat_label": "AMBIENT",
+    "cats": [
+      "ambient",
+      "ambient beats",
+      "ambient experimental",
+      "downtempo",
+      "experimental ambient"
+    ],
+    "summary": "Rundown Rainforest by Naked Nuras Loves Rave. Digital Album on NLS Records. Released 5 Sep 2014.",
+    "body": "Rundown Rainforest by Naked Nuras Loves Rave. Digital Album on NLS Records. Released 5 Sep 2014.",
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Plastic is bleeding",
+        "duration": "5:17"
+      },
+      {
+        "n": 2,
+        "title": "Trails of the mind part II",
+        "duration": "1:22"
+      },
+      {
+        "n": 3,
+        "title": "The sea of tranquality II",
+        "duration": "3:06"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital Album",
+        "detail": "Streaming + Download"
+      }
+    ],
+    "cover": "/assets/covers/rundown-rainforest.jpg",
+    "shop_url": "https://nnlr.bandcamp.com/album/rundown-rainforest",
+    "year": "2014",
+    "released": "5 Sep 2014",
+    "artist_url": "/artists/naked-nuras-loves-rave/"
   },
   {
     "slug": "project-aoa-single",
@@ -109,21 +1695,8 @@
     "body": "At the moment the Earth is define by a very few who have THE IDEA to create motion in response to THE INFINITELY FASTER WORLD that IS becoming A PROCESSOR of the new genre of COMPUTERISE. Three kinds of organization GOV, COM, ORG will take the lead into THE FUTURE of our children and the […]",
     "cover": "",
     "shop_url": "",
-    "year": null
-  },
-  {
-    "slug": "project-aoa-ver-2-ep",
-    "title": "Project AOA, Ver. 2-EP",
-    "cat_label": "AMBIENT",
-    "cats": [
-      "ambient",
-      "nlsrecords"
-    ],
-    "summary": "By focusing towards the way we produce sound Perhaps we need to focus on how we receive sound The environment is collectively building a data for the network of sound authority.…",
-    "body": "By focusing towards the way we produce sound Perhaps we need to focus on how we receive sound The environment is collectively building a data for the network of sound authority. Now I supposed, we are building a network, within the environment to create collectivity in the impaired like putting a fabric of invisibly to […]",
-    "cover": "",
-    "shop_url": "",
-    "year": null
+    "year": null,
+    "origin": "archive"
   },
   {
     "slug": "project-aoa-ver-3-day-after-mono-ep",
@@ -137,21 +1710,8 @@
     "body": "The Project AOA Part III release as a part of the on going series of Project AOA albums. At an undefine location and disclosed area, the context of everything, you could every imagine about what a way to say the worst thing about someone and at any point of no escape. You know that there […]",
     "cover": "",
     "shop_url": "",
-    "year": null
-  },
-  {
-    "slug": "state-of-the-rest",
-    "title": "State of the Rest",
-    "cat_label": "AMBIENT",
-    "cats": [
-      "ambient",
-      "nlsrecords"
-    ],
-    "summary": "Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape within that, we have…",
-    "body": "Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape within that, we have created an absorption of urban barrels to the absorption in nature and artificiality. Most realistic barriers of pillowing urban hyper-real and sound pockets are what we […]",
-    "cover": "",
-    "shop_url": "",
-    "year": null
+    "year": null,
+    "origin": "archive"
   },
   {
     "slug": "the-nexus-remix",
@@ -164,21 +1724,7 @@
     "body": "Released date Fri 4th May 2018 | A Live mix of new and odd tracks from released soundtrack mixed with bass and dubby loops",
     "cover": "",
     "shop_url": "",
-    "year": "2018"
-  },
-  {
-    "slug": "this-is-white-powder-opera",
-    "title": "This Is White Powder Opera",
-    "cat_label": "BEATS",
-    "cats": [
-      "beats",
-      "hip-hop",
-      "nlsrecords"
-    ],
-    "summary": "As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed plasticity A producer…",
-    "body": "As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed plasticity A producer producing tracks that are mostly on how to create a louder, non-classifications and only acceptance from the sameness of knowing that they have an hands on the technologies are […]",
-    "cover": "",
-    "shop_url": "",
-    "year": null
+    "year": "2018",
+    "origin": "archive"
   }
 ]

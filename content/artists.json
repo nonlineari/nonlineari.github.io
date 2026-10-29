@@ -17,6 +17,10 @@
       {
         "label": "Catalogue",
         "url": "/catalogue/"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://nnlr.bandcamp.com"
       }
     ]
   },
@@ -30,6 +34,10 @@
       {
         "label": "A.Visualist",
         "url": "/artists/a-visualist/"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://jimmyhowe.bandcamp.com"
       },
       {
         "label": "GitHub",
@@ -54,8 +62,13 @@
     "slug": "matthias-kispert",
     "name": "Matthias Kispert",
     "role": "Artist",
-    "summary": "Cross-linked practice noted on the NLS artists network.",
-    "body": "Matthias Kispert appears in the NLS archive network of artists and collaborators. Profile restored as a directory plate for the rebuild.",
-    "links": []
+    "summary": "Tekton-[DFUSE] on NLS Records.",
+    "body": "Matthias Kispert appears in the NLS archive network of artists and collaborators. Tekton-[DFUSE] is on the Bandcamp catalogue.",
+    "links": [
+      {
+        "label": "Tekton-[DFUSE]",
+        "url": "/catalogue/tekton-dfuse/"
+      }
+    ]
   }
 ]

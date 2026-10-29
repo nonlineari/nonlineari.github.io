@@ -13,7 +13,9 @@ CATALOGUE
 ========================================================================
 
 * AOA (2026)
+  artist: Naked Nuras Loves Rave
   FRIDAY DROP | /text/catalogue/aoa/
+  released: 18 Sep 2026
 
 AOA EP is a four-track plate from the 010819 master session, released as a Friday drop on iama.cc, as MAGMA, and as a public git for @nlsrecords.
 
@@ -21,63 +23,588 @@ MAGMA is the neuro-linguistic visual interpreter: type a sentence; the four axio
 
 Naked Nuras Loves Rave. NLS Records. Hong Kong. Visual music. The git is the distribution: clone, play, keep.
   tracks:
-    1. MORE'S LOW  8:10
-    2. TRACK FOR  8:15
-    3. GETAFIX  5:37
-    4. TRYTO  8:07
+    01  MORE'S LOW  8:10
+    02  TRACK FOR  8:15
+    03  GETAFIX  5:37
+    04  TRYTO  8:07
   git: https://github.com/nonlineari/aoa-ep
   magma: https://opal-sapphire-leaf-spark.grok.me/
   shop: https://github.com/nonlineari/aoa-ep
 
-* Discrete Geometry (2020)
-  AMBIENT | /text/catalogue/discrete-geometry/
+* Pansonic (2023)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/pansonic/
+  released: 13 Oct 2023
+  format: Digital Album · Streaming + Download
 
-Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely using a different way to build the compositions from the same producer Naked Nuras Loves Rave. These tracks are entirely played using analogue synths and instruments and […]
+The moment you step off you bed and into the desk, the separation of the world is at the most exceptional movement in an instance. The idea coming from your mind as a psychological response to the music in your device, playing to the dance you bring to your portal of creativity. The digital world can identify your mood, the diaspora of social engineered prison of your mental state, the disregarding of private live of the creator, noise from the street, the people you live with and the connection on social network all is a force by your own network of your mentalism. The noise left you wondering how long you have time to work before your hours of creativeness is left, how emails and messages, shouting or bleeps from your laptop or cell phone starts to send you off into another space in front of you. The fact is clear, we are constantly bombarded with ideas, sound field and visual synthesia. When you sleep your mind have dream of unwanted messages, images or character of an unknown reason. The rime of state of sleep can be rather like the internet, the portal to a world you have yet to discover. (The SARC oncogene)
+  tracks:
+    01  Rosalyn  9:22
+    02  Step of Emergency Part 1  14:29
+    03  Step of Emergency Part 2  14:18
+  shop: https://nnlr.bandcamp.com/album/pansonic
 
-* Echo Clone (Internet 2)
-  BEATS | /text/catalogue/echo-clone-internet-2/
-
-Design. and arranged all by Linear Perc.
-
-* Nach Dem Sturm
-  AMBIENT | /text/catalogue/nach-dem-sturm/
-
-Nach Dem Sturm – translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the recording is done while the storm lasted, sunrises and calmness’ arrival. creditsreleased May 16, 2020Master Engineer – Matt Colton @ Metropolis London, U.K.
-
-* Nonlineari
+* NONLINEARI (2023)
+  artist: Naked Nuras Loves Rave
   AMBIENT | /text/catalogue/nonlineari/
+  released: 2 Jun 2023
+  format: Digital Album · Streaming + Download
 
-Nonlineari — looking for music in Nonlinear(i). Naked Nuras Loves Rave. Electronic / electronica on NLS Records. Tracks include Louder at Midnight, Tissue, Seven Discrete Dimensions, Tetron in Growth Hormones, Upper Decker Ninja, Who Cares about the Distance.
+It is an infinite composition or not of competition instead looking for ways to design and improve the technical side of things but of course one that you are following the people who is more capable of designing an infinite state of loop in Sound Design but correct me for waiting on the next project these practices are worth exploring.
+
+precision of a musician
+The concept of rhythmic precision is all about having the control to perform rhythms accurately every time we play. People argue that good, organic music has a loose feel, and I agree with that. But even that loose feeling needs to be accurately executed for it to sound loose at all times.
+
+In our relational universe, memory can be conceived by the collapse of any system. I like, remembering, reconnecting and doesn't have to be reflections or nostalgia about some information like chaos has an explanation in random solo equations....
+  tracks:
+    01  Louder at Midnight  5:32
+    02  Tissue  2:27
+    03  HipHop Technics  0:27
+    04  Seven Discrete Dimensions (Hidden Bside Remix)  4:15
+    05  Tetron in Growth Hormones  6:57
+    06  Upper Decker Ninja  3:55
+    07  Who Cares about the Distance  4:38
+    08  Jet (NNLR Remix)  11:55
+    09  ENL  3:16
+    10  Pascal Triagulation (with Peter Gardiner)  2:25
+    11  Satori (with Yuki Kai)  6:12
+    12  Message from Her Mastermind  4:08
+    13  The Fifth Wave  14:29
+    14  The Project Declaimer Third  10:41
+    15  Average Reason  4:27
+    16  Como io Como io  4:56
+    17  Standard English  3:35
+    18  Fader Fox  13:29
+  shop: https://nnlr.bandcamp.com/album/nonlineari
+
+* Soul Sonic (2023)
+  artist: Jimmy Howe
+  AMBIENT | /text/catalogue/soul-sonic/
+  released: 27 Jan 2023
+  format: Digital Track · Streaming + Download
+
+From the refinery:
+
+From the side country to the backcountry, a tour that group of youngster share with the new mountain range. Foremost the region is hard to reach for and our guide is as awesome as man who have dominated this sport for decades. The kindness, caring and strong she is, as well as natural beauty with the perfect movement and standing from great command on her boarding.
+
+The way as a tall kind of girl, slim but strong…, appeal more to these girls that define the best out of anyone, and that is a pro, with creative, energetic and most of all, cool. Soon the status if they know they have all earn their turns and make the most of each run, awesome run and unbelievable geometrics, biometric higher than most peaks they run on.., turning in high speed pulling out the turns, and spins, each with form, is unbelievable.
+
+The legacy of those lines, the mountain did no justice, does no harm's way…. As the way the acknowledgement of a society, and the common goal to contour the range as freestyle and ride solitary..with you or another friend, your soul mate, the one who saves you, maybe.
+
+The intended character should be a young woman who need to come to term with herself with her wish to start a family, and with the struggle between her life in the mountains and the county she grown up in Japan, a distance that she wants from knowing she rather travel the world then seeking love in her life.
+  tracks:
+    01  Soul Sonic  2:58
+  shop: https://jimmyhowe.bandcamp.com/track/soul-sonic
+
+* Echo Clone (Internet 2) (2022)
+  artist: Jimmy Howe
+  AMBIENT | /text/catalogue/echo-clone-internet-2/
+  released: 17 Dec 2022
+  format: Digital Album · Streaming + Download
+
+Remarks:
+Science of silence
+I have seen their point of views and their sight of the post modernist. What have I had to conclude or collude with these post modernist at most in some dance off parties or some luxury clothing brands oral's montague.
+In the most, and of the most of course is all in their interest for almost in the warmest and highest regards to gain their popularity. A show for show, and most popularized variety shows. It is no long 1917, and for the establishment on POP-ART have been with us for 50 years, and the art world in the last century is so hard to learn from the best of the best, as an artists?
+Kitsch art, post modernism and street art. Minimalism, Dada and the rest is already historically manifesto with NFT and token arts in the last few years.
+Technologies and art will always be at the forefront of the artworld, although unlikely coming from me or in my writing, that this kind of art movement in visual and sound have been pretty much a quick glance over there and here for another outlook. What does it really suppose to sound like and feel like when you should pay any attention towards their future, our future as post human actively looking for a mechanical reproduction or a copy on originality. I have the role of being an artist and a technologist cannot help you to reflectively paid attention to an art world of diversity, gender or racial determinism in the daylighting of how the Situ in the art world is colluding with entertainment, politic and the climate change.
+Anybody with the right kind of mind would noticed how unjust and bias is the artworld is doing at the moment, by bring in all them street artists to say paint in the legal space and equally saying stop what you are doing since we will provide you a shelter and refuge so you can be safer from the streets. In another sense, painters are divided by the standardization of policy and political will or what we known them as reformed artists, mostly coming from China since the 80's when they are gathering their pace to
+produce less propaganda art and begin their self expressionistic thinking about art and society and their role to their uncanny way of runaway success as the 90's and 2K hits and miss, with their independent thinking about not giving up a career as an artists.
+At least to say thinking it will last forever to be a complete successful career guarantee by the Western Institutions. These run away success, literally saying finger up to the State, and you know it ain't the United States.
+  tracks:
+    01  Internet walking out because is too loud  5:05
+    02  Echo Clone  5:13
+    03  State  4:25
+    04  Elemental  7:18
+  shop: https://jimmyhowe.bandcamp.com/album/echo-clone-internet-2
+
+* Distant Static (2021)
+  artist: ITEM
+  NLS | /text/catalogue/distant-static/
+  released: 29 Apr 2021
+  format: Digital Album · Streaming + Download
+
+Distant static is a collection of tracks created over a period of six months. It documents a time of freeform experimentation creating patches on digital and analog synthesizers, sometimes mixed with field recordings. The results are some moody ambient and drone pieces or more rythmic loop based compositions.
+
+ITEM is a French producer and sound designer. He lives in Copenhagen.
+  tracks:
+    01  Incomplete Opcode  5:20
+    02  Overflow  3:12
+    03  Recursion  5:40
+    04  Outer Space  4:20
+    05  A Quatre  3:28
+    06  The waves of Nazaré  4:00
+    07  Signal  4:08
+    08  Crumbling rock  4:37
+    09  Rainforest  5:09
+  shop: https://nlsrecords.bandcamp.com/album/distant-static
+
+* Discrete Geometry (2021)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/discrete-geometry/
+  released: 15 Jan 2021
+  format: Digital Album · Streaming + Download
+
+Discrete Geometry (2020) is a sequence of soundtracks that were made at the same time of the EP Hidden Gutenberg EP (2019). Under the same series but entirely using a different way to build the compositions from the same producer Naked Nuras Loves Rave. These tracks are entirely played using analogue synths and instruments and then following the same step with ADC to DAC for their use in the mastering studio by Anne Taegert at D&M, Berlin.
+
+The concept behind the project is if human’s will find water on MARS. The planet exploration of finding water towards transport in a system of flow trap TAXON. The planet forms the furthest point of that network using the basic method of solenoidal, vector, block code and an algorithm of an artificial: machine made structure to create a never seen before geometry of hidden world landscapes in space.
+
+Attuned to the shape of form structures with music concrete/experimental sound of predawn hip-hop in Hong Kong late night sessions. Taped cassettes, Minidisc and early sampling SSD format would change the directions of Naked Nuras Loves Rave's multitracks studio layout and back in to a post analogue movement with DAC-ADC using only selective loudness of these instruments and juxtaposition of percussion and modern drum machine(TR08) and loops, mixing down a live recording solo album.
+  tracks:
+    01  ASCII  10:08
+    02  Not Observe Vanity Affair  2:20
+    03  Blind Landing Blind (Aveugle Atterrissage Aveugle)  6:02
+    04  Notch  3:10
+    05  Project LINDENMEYER  8:03
+    06  Entry to The Desert  5:12
+    07  Project Gutenberg  2:48
+    08  Project Gutenberg II  2:48
+    09  Discrete Geometry  3:25
+    10  Entry to the Desert (A1002)  5:11
+  shop: https://nnlr.bandcamp.com/album/discrete-geometry
+
+* They building this (old Brompton dome) (2020)
+  artist: Jimmy Howe
+  AMBIENT | /text/catalogue/they-building-this-old-brompton-dome/
+  released: 19 Sep 2020
+  format: Digital Track · Streaming + Download
+
+This track work like a defunct of the idea when we can no longer function and accepted the experiment for representing a strategic system of seeing only surface. And almost connecting upon the concept of high plateau network and budding buildings of a highly dream like disjuncture of manifestation inside the David Bowie's ambient disco, Projecting sound.
+  tracks:
+    01  They building this (old Brompton dome)  7:47
+  shop: https://jimmyhowe.bandcamp.com/track/they-building-this-old-brompton-dome
+
+* Nach Dem Sturm (2020)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/nach-dem-sturm/
+  released: 16 May 2020
+  format: Digital Track · Streaming + Download
+
+Nach Dem Sturm - translate as After the Storm. The feeling of solitude, evoking a time while making music during a huge typhoon thunderstorm, and when the recording is done while the storm lasted, sunrises and calmness' arrival.
+
+Master Engineer - Matt Colton @ Metropolis London, U.K.
+  tracks:
+    01  Nach Dem Sturm  5:37
+  shop: https://nnlr.bandcamp.com/track/nach-dem-sturm
+
+* Difficult by Default (2020)
+  artist: Shoestrüng
+  AMBIENT | /text/catalogue/difficult-by-default/
+  released: 20 Apr 2020
+  format: Digital Album · Streaming + Download
+
+There are always a way to interpret a past. It is a classic Shoestrüng playing on his sensibilities of layers, drones and textures, etherial synths and rhythmic looping melodies.
+  tracks:
+    01  Difficult By Default  4:43
+    02  Ordinance  4:18
+    03  Perturbance  3:02
+    04  Resurgence  2:26
+    05  Semblance  5:54
+    06  To Those That Depend On Meme  6:39
+  shop: https://shoestrung.bandcamp.com/album/difficult-by-default
+
+* Temporary Cassette (2020)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/temporary-cassette/
+  released: 20 Mar 2020
+  format: Digital Album · Streaming + Download
+
+Audio in Temporary Cassette is presented to a larger urban context of cities, I needed to achieve the supporting Patrons to build; in this sense, the finding of my research throughly by networking environment/equation monetarily and it is no long a cahou in the identity for next position of artnets. But it is the signified horizontal achievement within the open-source area is varied by the integration of digital integrity, and with your help to pre-conceptualize my principle work on the virtual state, the movement on visual music in Hong Kong will have to be more impending on my process to create my vertical-lateral movement from your global support.
+
+In the new digital milieu of science and engineering, visual in sound are separated from projection the emptiness of space with music that has to find identity through the transitional isolationist, of our noisy, densification: architectonica in digital filmmaking.
+
+The main idea comes from the architectonica or movements that can only constructed by modularity on visual sound formations and to produce a spatial temporal philosophy via programming the visual using Processing™ software in the opensource project IDE by a various method for cutting, resample and editing.
+  tracks:
+    01  Artifactura-IV  10:43
+    02  Temporary Cassette  4:22
+  shop: https://nnlr.bandcamp.com/album/temporary-cassette
+
+* A.Visualist OST (2020)
+  artist: NLS Records
+  NLS | /text/catalogue/a-visualist-ost/
+  released: 11 Mar 2020
+  format: Digital Album · Streaming + Download
+
+Soundtrack to a documentary film.
+
+Trailer: https://vimeo.com/22017891
+
+Scanner
+  tracks:
+    01  Adagio  2:39
+    02  Griffin  5:42
+    03  Memories More  5:43
+    04  Mutant Jazz  3:20
+    05  Opening  4:10
+    06  Pulse  2:55
+    07  Urgent  4:31
+  shop: https://nlsrecords.bandcamp.com/album/a-visualist-ost
+
+* Tet Loreus (src) (2020)
+  artist: Jimmy Howe
+  AMBIENT | /text/catalogue/tet-loreus-src/
+  released: 24 Feb 2020
+  format: Digital Track · Streaming + Download
+
+I created this album out of the temperature of the studio’s renaissance process. I would be trying difference techniques via recording through a proper mixer, onto cassette tape and then back into the computer. I was looking for watery sound, looking at the differences in warmth during sunrise coming through the window, windiest timing during a typhoon and the emptiness in the atmospheric space within the building after 3am. The sound of the drone is like a click and signal that when the synths are left on for days…it is all about the timing when you begins to recording the next phases and using the most basic rhythms to create a very basic tonal sound, almost linear without layers of complexity that each take is live recorded and balance by the weight of the most subliminal noise and sound.
+  tracks:
+    01  Tet Loreus (src)  7:55
+  shop: https://jimmyhowe.bandcamp.com/track/tet-loreus-src
+
+* ASCII2-88 (infinite states) (2019)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/ascii2-88-infinite-states/
+  released: 16 Nov 2019
+  format: Digital Track · Streaming + Download
+
+From shifting synthesizers’ backend input to compressor sidechains that these cylindrical notion on generators as a moving baseline almost imperfect and chinoise from an industries of tunnel downpull of sequential order for pattern analogical frequency. NNLR intention to slow shifting through the voices of affective the visual monotonous field dark, intense graphic interface, draws from the smooth distilled. and running through river glide before the sunrise submersed once between time after times.
+
+My advise to play your setup from the most analogue system to enjoy the downpour of noise gates as if you want the sound to drop off as halve as noises and another halve for compressions.
+  tracks:
+    01  ASCII2-88 (infinite states)  8:52
+  shop: https://nnlr.bandcamp.com/track/ascii2-88-infinite-states
+
+* ASCII8 (2019)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/ascii8/
+  released: 8 Oct 2019
+  format: Digital Track · Streaming + Download
+
+A Title that speaks about movement of ASCII code and the art of coding in ASCII languages.
+
+QUANTIZED ALGORITHM
+
+IN A PRIORI OF DETERMINE DETERMINANT SEQUENCE OF TIME
+DESTINE OF DETERMINANT IN TIME AND SPACE QUANTIZE
+A SET OF ALGORITHMIC SEQUENCE OF SPACE IN QUANTIZE.
+
+In general, for a N-order ΔΣ modulator, the variance of the in-band quantization noise is:..ASCII.
+  tracks:
+    01  ASCII8  10:06
+  shop: https://nnlr.bandcamp.com/track/ascii8
+
+* Hidden Gutenberg (2019)
+  artist: Jimmy Howe
+  AMBIENT | /text/catalogue/hidden-gutenberg/
+  released: 24 Aug 2019
+  format: Digital Album · Streaming + Download
+
+Inadequacy towards humanity, I'm proceeding to tell the story base on the appalling differences, of temperamental of the artificial intelligent system within the George Orwellian world that give us a glimpse of
+a parallelism of Intel terrorism and totalitarianism; by Interpretative grid of pulsar production and of divisions.
+  tracks:
+    01  Hidden Gutenberg  3:21
+    02  Vicissitudes Ambient  13:09
+    03  The Vanishing Slip  9:46
+    04  iSCT 2100  3:09
+  shop: https://jimmyhowe.bandcamp.com/album/hidden-gutenberg
+
+* Book of Formations (2019)
+  artist: JS-Horseman
+  AMBIENT | /text/catalogue/book-of-formations/
+  released: 25 Jul 2019
+  format: Digital Album · Streaming + Download
+
+Experimental composer, sound artist, visual artist,
+J S-Horseman (Jeremy Santiago-Horseman) works with microphone recording, modular synthesis, noise, acoustic instrumental and vocal composition, with emphasis on the recording formats of tape concrete and experimental vinyl recording.
+
+The ambient experimental album by JS-Horseman was produced in 2017. JS use tapes manipulation and recording device in analogue machines to produce a sound that airy echo through the thin atmosphere to create an ambient sound of strange structural landscapes composition of earthly tones.
+
+location: Philadelphia, USA
+  tracks:
+    01  BraneWaves  7:00
+    02  Epistasis  3:36
+    03  Vacuum(Violet Green)  7:20
+    04  (mem)BraneWaves  7:49
+    05  Infrastructures I  4:32
+    06  Infrastructures II  4:34
+    07  Infrastructures III  3:12
+    08  Nebulium  7:08
+  shop: https://jshorseman.bandcamp.com/album/book-of-formations
+
+* Common Information Model (2019)
+  artist: Common Information Model
+  AMBIENT | /text/catalogue/common-information-model/
+  released: 25 Jul 2019
+  format: Digital Album · Streaming + Download
+
+Despite the name, the approach is only loosely linked to biological evolution, the researchers say in a blog post announcing their results. On an abstract level, it relies on allowing successful individuals to pass on their characteristics to future generations. The researchers have taken these algorithms and reworked them to work better with deep neural networks and run on large-scale distributed computing systems
+
+reference from
+http://blog.openai.com
+  tracks:
+    01  Abscissa Warfare(Juri_HIFlow Session)  3:14
+    02  ACSII Engine  3:04
+    03  Micro Condition(Ambient Form)  3:39
+    04  Neural Network(ATHX XV)  3:09
+    05  United ATHOM XXI  20:58
+    06  Citizen's XY  3:36
+  shop: https://commoninformationmodel.bandcamp.com/album/common-information-model
+
+* Metaphysical Dream (2019)
+  artist: Superargoproject
+  AMBIENT | /text/catalogue/metaphysical-dream/
+  released: 25 Jul 2019
+  format: Digital Album · Streaming + Download
+
+SUPERARGOPROJECT was born in 2015, when multi-instrumentalist Francesco Bolognini decided to retire to the tranquillity of his country home to focus on laying down his first album as a solo artist.
+
+The metaphysics of SuperArgoProject have made a parallelism between ambient and the experimental, in fact if the tension between NLS Records and SUPERARGOPROJECT, someone who definitely have a resonate towards the sounds that he create and indeed the resonance of the minimal aspectio is completely architectonic.
+  tracks:
+    01  Last Words  8:16
+    02  Colossus  6:24
+    03  The Rebirth  7:40
+    04  Planet Earth  5:40
+    05  Metaphysical Dream  4:58
+  shop: https://superargoproject.bandcamp.com/album/metaphysical-dream
+
+* Project AØA ver.4 Various Artists (2019)
+  artist: NLS Records
+  AMBIENT | /text/catalogue/project-a-a-ver-4-various-artists/
+  released: 25 Jul 2019
+  format: Digital Album · Streaming + Download
+  format: Limited Edition USB ProjectAØA ver.4 Drive · USB Flash Drive · NE-LEUP
+
+Project AØA is an inception for various artists per sa Audio øn Audio, reason is simplicity with the connecting algorithmic system to create hardware or software to accompany the sound made by producer to fill in that unique void in NLS(online system.)
+
+The USB Drive will host the album of any Project AØA
+  tracks:
+    01  Superargoproject (IT) - Metaphysical Dream  4:58
+    02  JS-Horseman (US) - Nebulium  7:08
+    03  Red Pig Flower (JP/KR) - Hope For Happiness  5:27
+    04  ITEM (FR) - Across the Tracks  4:37
+    05  Naked Nuras Loves Rave - 1026  3:17
+    06  ITEM (FR) - A Quatre  3:28
+    07  Floatation Research Files (UK) - Time Based Textures  10:33
+    08  Superargoproject (IT) - Colossus  6:18
+    09  Tryst (NL/UK) - Spirals  6:17
+    10  Admir Korjenic (NO) - Udaeus  10:05
+    11  Admir Korjenic (NO) - Regio  5:21
+    12  Naked Nuras Loves Rave (HK) - Softdrive  2:07
+  shop: https://nlsrecords.bandcamp.com/album/project-a-a-ver-4-various-artists
+
+* Ficcioni (2019)
+  artist: Paul Prudence
+  AMBIENT | /text/catalogue/ficcioni/
+  released: 1 May 2019
+  format: Digital Album · Streaming + Download
+  format: Limited Edition Double Vinyl · 2 x Vinyl LP · NR-F-LEDV
+
+Read the Reviews on Neural Magazine
+http://neural.it/2020/01/paul-prudence-ficciones/
+
+'Weaving together the soft accents of field-recordings, microscopic sound fragments and modular synthesis, the pieces fluctuate between the machine-like and the organic, and sometimes combine the two to create a complex sonic ecology. With forensic precision modular rhythmic collages have been grafted onto subtle melodic phrases; stuttering percussive structures are held in orbit by elliptical sinusoidal drones. The pieces are seen as being audio-visual experiences without the visual part. The tracks create a sense of motion in space, kinetic activity and cue the existence of teeming entities.'
+  tracks:
+    01  Acusmutt  3:12
+    02  Voxelles  3:47
+    03  Olaf  4:03
+    04  Epha  1:58
+    05  Ersilia  5:10
+    06  Sci Tint  3:49
+    07  Obsidian  5:19
+    08  Gravity Map  6:35
+    09  Pyrean  5:39
+    10  Bowls  5:30
+    11  Myriorama I  4:31
+    12  Myriorama II  2:50
+  shop: https://nlsrecords.bandcamp.com/album/ficcioni
+
+* Tekton-[DFUSE] (2018)
+  artist: Matthias Kispert
+  AMBIENT | /text/catalogue/tekton-dfuse/
+  released: 21 Dec 2018
+  format: Digital Album · Streaming + Download
+
+Particle alludes to the fragmented reality of everyday life, deconstructing the urban fabric to reveal a city that exists as much in an immaterial web of connections as it does in actual space. In todayʼs cities, new spaces have appeared along the places we know and live in: spaces of flows, webs of connections for communication, exchange and control that have come to transcend the limitations of actual physical space. In what is one of the main driving forces behind globalisation, traditional ideas of territory have almost been dissolved, while new centres of power are emerging at the nodal points that regulate the flows of global networks.
+
+And instead we are designing an early scratch record without vocal in capacities of a theme, a kind of metadata principle on information design from a virtual dialogue of manifestation on soundtracks. The analogies of spatial construct format for asymmetric signifier sound. A simple of visual graphic is transformation over rotating cut-up mode as [R/t=n] and then whatever the pathological condition of spatial converted source and pattern are universally an experimental, if not architectural theory in generative art. For approaching the documented condition, an arrangements for connecting sequence of elements are graphic and data range.
+Whatever is systematically triggered the principle re-arrangements of the short and long numbers are completely a movement of formats and of warrants on Pi's generative equalities or generally randomizing by repeat.
+
+Nonlinear Records have been building a website for creators to engineer not only facts of essentially the brains to building a system for visualist and performing artists, we call these engineers because they create projects like programmer, and in the order of changing the landscape of the art world by a post.human post.modernist idea of embodiment to create their design that has experimentation and novel to the idea.
+
+Visuals and music is an art of realization such as the condition for controlling temporal and spatial intermediate field for networked performance. Music has the most constant changes for anyone whom can bring to the visuals. And the most common and commanding FORMATS that of space time principles.
+As we know, Form follow functions and a design for the kind of Informing spatial experience for audience to a set of music they are willing to play.
+
+Previously released titles: A Visualist Film Sound, Particle (feat. Matthias Kispert & A Visualist) - Single
+
+Michael Faulkner, DFUSE
+  tracks:
+    01  London Conversation Cut -1  3:29
+    02  Particle 05  8:00
+    03  Particle 06  4:55
+    04  Particle 08  7:50
+    05  Particle Beats Cut -2-1  7:40
+    06  Solid State  7:18
+    07  Tekton 01  6:05
+  shop: https://nlsrecords.bandcamp.com/album/tekton-dfuse
+
+* This Is White Powder Opera (2018)
+  artist: Jimmy Howe
+  BEATS | /text/catalogue/this-is-white-powder-opera/
+  released: 12 Oct 2018
+  format: Digital Album · Streaming + Download
+
+As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed plasticity
+
+A producer producing tracks that are mostly on how to create a louder, non-classifications and only acceptance from the sameness of knowing that they have an hands on the technologies are merely an outcome of their knowledge on undisruptive flow of sound. The accords on how much hard to choose from an array of instruments, and the new set of tools and choices now producer have over a decade ago, therefore we should have an ensembles of weird, structured and uncategorized functions within the entire collective of sound art and musical genesis…even if we know how dance movement and other formalized sound purpose for performance, de musique du lethargic can be in actuality reflect the human's performance as a diverse specia au pre-temp.
+
+In the absent with the control in the centralization of real values within the accountable human design, how much do we stress in the order to progress by an idea and not bunch of ideologies that could not prevent the unnecessary stress on the conditionals and the plateaus.
+  tracks:
+    01  Eheur Abelilçtt  3:31
+    02  Empls Nlsar  4:14
+    03  Empls  1:41
+    04  Empls-A  1:51
+    05  Lahtelo 01-06-1414  2:31
+    06  Shellbokau  3:58
+    07  Shellbouk  3:58
+  shop: https://jimmyhowe.bandcamp.com/album/this-is-white-powder-opera
+
+* Phõp (2018)
+  artist: Common Information Mødel
+  NLS | /text/catalogue/pho-p/
+  released: 8 Mar 2018
+  format: Digital Track · Streaming + Download
+
+In the level of under standardisation the Marco view of visual society have to become more involving for the elementary form of subjectivity in time of visual identity of artist and artTech to formally construct this language of motion design, film and audiovisual; further for the language between levels of constructive and post constructivism, are there much tools to create and less more diatribes to activate la forma grada.
+  tracks:
+    01  Common Information Mødel - Phõp  2:17
+  shop: https://nlsrecords.bandcamp.com/track/pho-p
+
+* Project AOA ver.2 (2018)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/project-aoa-ver-2-ep/
+  released: 23 Feb 2018
+  format: Digital Album · Streaming + Download
+  format: Project AOA Ver.2 · Other Vinyl · N-PAV2-PAV2
+
+By focusing towards the way we produce sound
+
+Perhaps we need to focus on how we receive sound
+
+The environment is collectively building a data for the network of sound authority. Now I supposed, we are building a network, within the environment to create collectivity in the impaired like putting a fabric of invisibly to create information that is able to all understanding of subliminal information from data listener.
+
+Side A
+Abscissa Warfare (Juri Hi Flow Session) 03:14
+ACSII Engine 03:04
+Micro Condition (Ambient Form) 03:39
+Neural Network (ATHX XV) 03:09
+
+Side B
+United ATHOM XXI 20:58
+
+cut & mastering by dubplates-mastering, Berlin Germany
+Pressing by MPO France
+  tracks:
+    01  Abscissa Warfare (Juri Hi Flow Session)  3:14
+    02  ACSII Engine  3:04
+    03  Micro Condition (Ambient Form)  3:39
+    04  Neural Network (ATHX XV)  3:09
+    05  A United  3:59
+    06  United ATHOM XXI  20:58
+  shop: https://nnlr.bandcamp.com/album/project-aoa-ver-2
+
+* Simpler Times (2018)
+  artist: Shoestrüng
+  AMBIENT | /text/catalogue/simpler-times/
+  released: 20 Feb 2018
+  format: Digital Album · Streaming + Download
+
+Shoestrüng is a solo project created in 2015. Shoestrüng comes from a variety of creative backgrounds but who's main creative expression are in the Fine Arts and Video and Film. His first musical forays in original compositions begin at the age of six. Since then, he has been in various musical groups collaborating in original music writing. The last few years has seen the birth of Shoestrüng as a means of pure musical expressions. At its most simple, engaging in the expression in the passing of time and space and the varied emotions of life expressed through succinct compositions that touch on the depth of personal and the reactionary journey when dealing with people, places and things. He calls Hong Kong home and has for 30+ years. This exposure has played heavily in his personalized approach to sounds and the aura of living in one of the most densely populated places on earth.
+  tracks:
+    01  Resin  4:11
+    02  Dissonance  4:16
+    03  Simpler Times  4:37
+  shop: https://shoestrung.bandcamp.com/album/simpler-times
+
+* Motherboards Revolution Agadonia (2017)
+  artist: Common Information Model
+  AMBIENT | /text/catalogue/motherboards-revolution-agadonia/
+  released: 15 May 2017
+  format: Digital Album · Streaming + Download
+
+Music live like water flowing down mountains. As we understand that the patterns from experimental problem is affecting mostly in our populated world; clean water and drinkable water is going to be a major agenda in parts of the world's more populated countries like India and China. From the inception view, the present environmental projection of the Earth's resources, the spasticity of raw materials and the climate equations and adds up to one thing which is the destruction, but not the reversal in provisional or the improvement of the Earth. What we have here is to understand there are several issue with ocean, warming and extremity in storms, heat and the plateau. The disappearance of glacier in weather and zones if our willingness to change the way we live, and understand the operative modus of long hours in work life, the world is supporting the species in many way and also notion of the earth own eco-system will survive but maybe as a species of the human race we are not yet the survival of the fittest, we are prone to earthquakes, tsunami or super storms, our structure and sound artefactual is not prone, from destruction and food supplies demise.
+
+This is the same idea that followups my producer series Naked Nuras Loves Rave third EP ©2012-2017 NLS RECORDINGS
+  tracks:
+    01  Motherboards Revolution Agadonia  3:04
+    02  A United Project Limited  2:08
+    03  Nocturnal Airline  2:18
+    04  Electricity (Noise Electric Remix)  6:15
+    05  Citizens XY  3:36
+  shop: https://commoninformationmodel.bandcamp.com/album/motherboards-revolution-agadonia
+
+* state of the rest (2016)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/state-of-the-rest/
+  released: 29 Jul 2016
+  format: Digital Album · Streaming + Download
+
+Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape within that, we have created an absorption of urban barrels to the absorption in nature and artificiality. Most realistic barriers of pillowing urban hyper-real and sound pockets are what we […]
+  tracks:
+    01  tristar tonends  0:53
+    02  amtrac has it IV  3:04
+    03  chaos can  9:49
+    04  birth of concrete geology  2:27
+    05  low versel mt  6:10
+    06  fail to visit  3:42
+    07  sdsn denied  3:25
+    08  downtown session  1:35
+    09  lab 212  4:01
+    10  semi Rille  4:06
+    11  semi ville  3:16
+    12  fallen  5:48
+    13  randomness teaser  0:48
+    14  stratus  1:08
+  shop: https://nnlr.bandcamp.com/album/state-of-the-rest
+
+* Trails Of the Mind - Part I (2016)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/trails-of-the-mind-part-i/
+  released: 25 Mar 2016
+  format: Digital Track · Streaming + Download
+
+To define this EP - Rundown Rainforest, it is more like a soundscape of ambient and IDM shaped by hip hop; trip hop. A finds in to world of spiritual sound, found sound and music concreté.
+  tracks:
+    01  Trails Of the Mind - Part I  9:50
+  shop: https://nnlr.bandcamp.com/track/trails-of-the-mind-part-i
+
+* Trails Of the Mind - Part II (2016)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/trails-of-the-mind-part-ii/
+  released: 25 Mar 2016
+  format: Digital Track · Streaming + Download
+
+To define this EP - Rundown Rainforest, it is more like a soundscape of ambient and IDM shaped by hip hop; trip hop. A finds in to world of spiritual sound, found sound and music concreté.
+  tracks:
+    01  Trails Of the Mind - Part II  3:06
+  shop: https://nnlr.bandcamp.com/track/trails-of-the-mind-part-ii
+
+* Rundown Rainforest (2014)
+  artist: Naked Nuras Loves Rave
+  AMBIENT | /text/catalogue/rundown-rainforest/
+  released: 5 Sep 2014
+  format: Digital Album · Streaming + Download
+
+Rundown Rainforest by Naked Nuras Loves Rave. Digital Album on NLS Records. Released 5 Sep 2014.
+  tracks:
+    01  Plastic is bleeding  5:17
+    02  Trails of the mind part II  1:22
+    03  The sea of tranquality II  3:06
+  shop: https://nnlr.bandcamp.com/album/rundown-rainforest
 
 * Project AOA
   AMBIENT | /text/catalogue/project-aoa-single/
 
 At the moment the Earth is define by a very few who have THE IDEA to create motion in response to THE INFINITELY FASTER WORLD that IS becoming A PROCESSOR of the new genre of COMPUTERISE. Three kinds of organization GOV, COM, ORG will take the lead into THE FUTURE of our children and the […]
 
-* Project AOA, Ver. 2-EP
-  AMBIENT | /text/catalogue/project-aoa-ver-2-ep/
-
-By focusing towards the way we produce sound Perhaps we need to focus on how we receive sound The environment is collectively building a data for the network of sound authority. Now I supposed, we are building a network, within the environment to create collectivity in the impaired like putting a fabric of invisibly to […]
-
 * Project AOA, Ver. 3 Day After Mono
   AMBIENT | /text/catalogue/project-aoa-ver-3-day-after-mono-ep/
 
 The Project AOA Part III release as a part of the on going series of Project AOA albums. At an undefine location and disclosed area, the context of everything, you could every imagine about what a way to say the worst thing about someone and at any point of no escape. You know that there […]
 
-* State of the Rest
-  AMBIENT | /text/catalogue/state-of-the-rest/
-
-Overall we are only imitating nature and the natural phenomenon within the silence of nature, away from manmade structural designs. It is the urban landscape within that, we have created an absorption of urban barrels to the absorption in nature and artificiality. Most realistic barriers of pillowing urban hyper-real and sound pockets are what we […]
-
 * The Nexus Remix (2018)
   AMBIENT | /text/catalogue/the-nexus-remix/
 
 Released date Fri 4th May 2018 | A Live mix of new and odd tracks from released soundtrack mixed with bass and dubby loops
-
-* This Is White Powder Opera
-  BEATS | /text/catalogue/this-is-white-powder-opera/
-
-As the progress of internet architecture in scale progression the landscape within an acceptable loudness has become an associate on the newly formed plasticity A producer producing tracks that are mostly on how to create a louder, non-classifications and only acceptance from the sameness of knowing that they have an hands on the technologies are […]
 
 ========================================================================
 ARTISTS
@@ -103,7 +630,7 @@ A.Visualist is the visual systems practice linked to NLS — drawings, concept p
 * Matthias Kispert — Artist
   /text/artists/matthias-kispert/
 
-Matthias Kispert appears in the NLS archive network of artists and collaborators. Profile restored as a directory plate for the rebuild.
+Matthias Kispert appears in the NLS archive network of artists and collaborators. Tekton-[DFUSE] is on the Bandcamp catalogue.
 
 ========================================================================
 JOURNAL

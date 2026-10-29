@@ -252,10 +252,42 @@ function coverImg(src, alt, { className = "card-cover", width = 1200, height = 1
   return `<img class="${className}" src="${esc(src)}" alt="${esc(alt || "")}" width="${width}" height="${height}" loading="${loading}" decoding="async"${fetchPriority} sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 400px" />`;
 }
 
+function artistName(a) {
+  if (!a.artist) return "";
+  if (a.artist_url) return `<a href="${esc(a.artist_url)}">${esc(a.artist)}</a>`;
+  return esc(a.artist);
+}
+
+function formatFact(formats) {
+  return (formats || [])
+    .map((f) => [f.name, f.detail].filter(Boolean).map((x) => esc(x)).join(" · "))
+    .filter(Boolean)
+    .join("<br />");
+}
+
+function catalogueCodes(formats) {
+  return (formats || []).map((f) => f.sku).filter(Boolean);
+}
+
+function releaseFacts(a) {
+  const rows = [];
+  if (a.artist) rows.push(["Artist", artistName(a)]);
+  if (a.released) rows.push(["Released", esc(a.released)]);
+  const formats = formatFact(a.formats);
+  if (formats) rows.push(["Format", formats]);
+  const codes = catalogueCodes(a.formats);
+  if (codes.length) rows.push(["Catalogue", esc(codes.join(" · "))]);
+  if (!rows.length) return "";
+  return `<dl class="release-facts">
+${rows
+  .map(([k, v]) => `            <div><dt>${esc(k)}</dt><dd>${v}</dd></div>`)
+  .join("\n")}
+          </dl>`;
+}
+
 function releaseCards(catalogue) {
   return catalogue
     .map((a, i) => {
-      // Only Nonlineari (or any item with cover) renders an <img>
       const media = a.cover
         ? `<figure class="card-figure">
               ${coverImg(a.cover, `${a.title} cover art`, {
@@ -264,12 +296,16 @@ function releaseCards(catalogue) {
               })}
             </figure>`
         : "";
+      const artist = a.artist
+        ? `<p class="card-artist">${esc(a.artist)}</p>`
+        : "";
       return `        <li class="card card--release${a.cover ? " card--has-cover" : " card--no-cover"}">
           <a class="card-link" href="/catalogue/${esc(a.slug)}/">
             ${media}
             <div class="card-body">
               <span class="cat">${esc(a.cat_label || "NLR")}${a.year ? ` · ${esc(a.year)}` : ""}</span>
               <h3>${esc(a.title)}</h3>
+              ${artist}
               <p>${esc(a.summary || short(a.body, 140))}</p>
             </div>
           </a>
@@ -412,7 +448,7 @@ function buildCatalogueIndex(site, catalogue) {
     <section class="page-hero wrap">
       <p class="breadcrumb"><a href="/">Home</a> / Catalogue</p>
       <h1>Catalogue</h1>
-      <p class="section-sub" style="margin-top:0.75rem;border:0;padding:0">${catalogue.length} releases</p>
+      <p class="section-sub" style="margin-top:0.75rem;border:0;padding:0">${catalogue.length} releases · newest first</p>
     </section>
     <section class="section wrap" style="border-bottom:0">
       <ul class="grid catalogue">
@@ -487,7 +523,7 @@ function buildRelease(site, a) {
         <div class="release-copy">
           <span class="cat">${esc(a.cat_label || "NLR")}${a.year ? ` · ${esc(a.year)}` : ""}</span>
           <h1>${esc(a.title)}</h1>
-          ${a.artist ? `<p class="release-artist">${esc(a.artist)}</p>` : ""}
+          ${releaseFacts(a)}
           <div class="body">
             ${bodyToHtml(a.body || a.summary)}
           </div>
@@ -1107,7 +1143,7 @@ function buildTextSite(site, catalogue, artists, posts, shop) {
 ${catalogue
   .map(
     (a, i) =>
-      `  <li><a href="/text/catalogue/${esc(a.slug)}/">${esc(a.title)}</a>${a.year ? ` (${esc(a.year)})` : ""} — ${esc(a.cat_label || "")}</li>`
+      `  <li><a href="/text/catalogue/${esc(a.slug)}/">${esc(a.title)}</a>${a.artist ? ` — ${esc(a.artist)}` : ""}${a.year ? ` (${esc(a.year)})` : ""}</li>`
   )
   .join("\n")}
 </ol>
@@ -1131,7 +1167,7 @@ ${catalogue
     (a) =>
       `  <li>
     <a href="/text/catalogue/${esc(a.slug)}/">${esc(a.title)}</a>
-    — ${esc(a.cat_label || "NLR")}${a.year ? `, ${esc(a.year)}` : ""}
+    — ${esc(a.artist || a.cat_label || "NLR")}${a.year ? `, ${esc(a.year)}` : ""}
     <br>${esc(a.summary || short(a.body, 120))}
   </li>`
   )
@@ -1143,6 +1179,17 @@ ${catalogue
 
   for (const a of catalogue) {
     const tags = (a.cats || []).map((c) => esc(c)).join(", ");
+    const formats = (a.formats || [])
+      .map((f) => [f.name, f.detail].filter(Boolean).join(" · "))
+      .filter(Boolean);
+    const codes = catalogueCodes(a.formats);
+    const tracks = (a.tracks || [])
+      .map((t, i) => {
+        const n = String(t.n || i + 1).padStart(2, "0");
+        const audio = t.audio ? ` — <a href="${esc(t.audio)}">audio</a>` : "";
+        return `<li>${esc(n)} ${esc(t.title)}${t.duration ? ` — ${esc(t.duration)}` : ""}${audio}</li>`;
+      })
+      .join("\n");
     writeFile(
       path.join(T, "catalogue", a.slug, "index.html"),
       textShell(site, {
@@ -1153,7 +1200,13 @@ ${catalogue
 <p><a href="/text/catalogue/">Back to catalogue</a></p>
 <h1>${esc(a.title)}</h1>
 <p><strong>${esc(a.cat_label || "NLR")}</strong>${a.year ? ` · ${esc(a.year)}` : ""}${tags ? ` · ${tags}` : ""}</p>
+${a.artist ? `<p>Artist: ${a.artist_url ? `<a href="${esc(a.artist_url)}">${esc(a.artist)}</a>` : esc(a.artist)}</p>` : ""}
+${a.released ? `<p>Released: ${esc(a.released)}</p>` : ""}
+${formats.length ? `<p>Format: ${esc(formats.join("; "))}</p>` : ""}
+${codes.length ? `<p>Catalogue: ${esc(codes.join(" · "))}</p>` : ""}
 ${parasText(a.body || a.summary)}
+${tracks ? `<h2>Tracks</h2>\n<ol>\n${tracks}\n</ol>` : ""}
+${a.git_url ? `<p>Git: <a href="${esc(a.git_url)}">${esc(a.git_url)}</a></p>` : ""}
 ${a.magma_url ? `<p>MAGMA interpreter: <a href="${esc(a.magma_url)}">${esc(a.magma_url)}</a></p>` : ""}
 ${a.shop_url ? `<p>Shop / listen: <a href="${esc(a.shop_url)}">${esc(a.shop_url)}</a></p>` : ""}
 <p>Graphical page: <a href="/catalogue/${esc(a.slug)}/">/catalogue/${esc(a.slug)}/</a></p>
@@ -1305,13 +1358,20 @@ ${shopPending ? `<h2>Pending</h2><ul>${shopPending}</ul>` : ""}
   for (const a of catalogue) {
     lines.push("");
     lines.push(`* ${a.title}${a.year ? ` (${a.year})` : ""}`);
+    if (a.artist) lines.push(`  artist: ${a.artist}`);
     lines.push(`  ${a.cat_label || "NLR"} | /text/catalogue/${a.slug}/`);
+    if (a.released) lines.push(`  released: ${a.released}`);
+    for (const f of a.formats || []) {
+      const bits = [f.name, f.detail, f.sku].filter(Boolean).join(" · ");
+      if (bits) lines.push(`  format: ${bits}`);
+    }
     lines.push("");
     lines.push(plainBlock(a.body || a.summary));
     if (a.tracks && a.tracks.length) {
       lines.push("  tracks:");
       a.tracks.forEach((t, i) => {
-        lines.push(`    ${i + 1}. ${t.title}${t.duration ? `  ${t.duration}` : ""}`);
+        const n = String(t.n || i + 1).padStart(2, "0");
+        lines.push(`    ${n}  ${t.title}${t.duration ? "  " + t.duration : ""}`);
       });
     }
     if (a.git_url) lines.push(`  git: ${a.git_url}`);
